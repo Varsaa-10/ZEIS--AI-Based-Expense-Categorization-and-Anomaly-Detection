@@ -1,0 +1,3641 @@
+employee_id,expense_date,merchant,amount,category
+E0241,2024-10-03,Zoom,2708.33,Software & Subscriptions
+E0101,2024-10-03,Taj Hotels,3656.8,Client Entertainment
+E0191,2024-10-03,Meta,2047.33,Marketing
+E0225,2024-10-03,Jio,1054.32,Telecom & Utilities
+E0159,2024-10-03,Simplilearn,2260.04,Training & Courses
+E0064,2024-10-03,Cafe Coffee Day,383.15,Meals
+E0135,2024-10-03,upGrad,2810.84,Training & Courses
+E0152,2024-10-03,IRCTC,5055.51,Travel
+E0225,2024-10-03,Reliance Digital,1692.05,Office Supplies
+E0127,2024-10-03,Vistaprint,3358.84,Marketing
+E0247,2024-10-03,Treebo,5042.15,Accommodation
+E0012,2024-10-03,Simplilearn,3108.38,Training & Courses
+E0087,2024-10-03,Jio,698.36,Telecom & Utilities
+E0080,2024-10-03,Uber,477.43,Local Transport
+E0127,2024-10-03,Starbucks,402.8,Meals
+E0055,2024-10-03,Ola,424.45,Local Transport
+E0162,2024-10-03,Google,1356.29,Marketing
+E0220,2024-10-03,Amazon Web Services,2226.39,Software & Subscriptions
+E0040,2024-10-03,Croma,771.74,Office Supplies
+E0151,2024-10-03,Zomato,908.64,Client Entertainment
+E0208,2024-10-03,BSNL,555.73,Telecom & Utilities
+E0139,2024-10-03,BluSmart,193.19,Local Transport
+E0057,2024-10-03,Moglix,1435.05,Office Supplies
+E0042,2024-10-03,Staples,983.37,Office Supplies
+E0036,2024-10-03,Vistaprint,1194.21,Marketing
+E0136,2024-10-03,Microsoft,990.59,Software & Subscriptions
+E0003,2024-10-03,Zoom,1249.63,Software & Subscriptions
+E0171,2024-10-03,Ola,144.6,Local Transport
+E0219,2024-10-03,Jio,683.74,Telecom & Utilities
+E0138,2024-10-03,Zepto Cafe,294.44,Meals
+E0223,2024-10-03,IRCTC,2274.36,Travel
+E0112,2024-10-03,ACT Fibernet,1589.47,Telecom & Utilities
+E0136,2024-10-03,JetBrains,979.32,Software & Subscriptions
+E0014,2024-10-03,MakeMyTrip,8213.54,Accommodation
+E0018,2024-10-03,ACT Fibernet,1022.62,Telecom & Utilities
+E0227,2024-10-03,Staples,2999.07,Office Supplies
+E0144,2024-10-03,OYO,6394.74,Accommodation
+E0150,2024-10-03,Atlassian,1398.85,Software & Subscriptions
+E0092,2024-10-03,Amazon,942.76,Office Supplies
+E0025,2024-10-03,Microsoft,1375.25,Software & Subscriptions
+E0011,2024-10-03,Cafe Coffee Day,365.68,Meals
+E0078,2024-10-03,Mailchimp,2658.59,Marketing
+E0121,2024-10-03,IRCTC,2116.68,Travel
+E0240,2024-10-03,Amazon,1506.55,Office Supplies
+E0070,2024-10-03,Swiggy,104.65,Meals
+E0178,2024-10-03,BSNL,402.7,Telecom & Utilities
+E0227,2024-10-03,GitHub,977.81,Software & Subscriptions
+E0126,2024-10-03,SpiceJet,8280.4,Travel
+E0101,2024-10-03,The Park,1561.7,Client Entertainment
+E0018,2024-10-03,Rapido,1233.87,Local Transport
+E0161,2024-10-03,Atlassian,1402.55,Software & Subscriptions
+E0018,2024-10-03,Rapido,171.54,Local Transport
+E0014,2024-10-03,GitHub,4231.26,Software & Subscriptions
+E0014,2024-10-03,GitHub,4888.84,Software & Subscriptions
+E0161,2024-10-04,Flipkart,8368.64,Training & Courses
+E0069,2024-10-04,BSNL,561.21,Telecom & Utilities
+E0065,2024-10-04,GitHub,485.25,Software & Subscriptions
+E0042,2024-10-04,Flipkart,1138.7,Training & Courses
+E0064,2024-10-04,Udemy,4785.55,Training & Courses
+E0070,2024-10-04,Zomato,405.14,Meals
+E0160,2024-10-04,Flipkart,4229.34,Training & Courses
+E0036,2024-10-04,Zomato,1654.63,Client Entertainment
+E0010,2024-10-04,MakeMyTrip,3902.18,Travel
+E0005,2024-10-04,Coursera,7060.45,Training & Courses
+E0149,2024-10-04,Swiggy,401.9,Meals
+E0150,2024-10-04,BluSmart,204.06,Local Transport
+E0195,2024-10-04,Rapido,282.52,Local Transport
+E0225,2024-10-04,Jio,1204.76,Telecom & Utilities
+E0170,2024-10-04,Air India,1951.0,Travel
+E0075,2024-10-04,Jio,460.19,Telecom & Utilities
+E0225,2024-10-04,Marriott,1603.2,Client Entertainment
+E0106,2024-10-04,ACT Fibernet,2925.89,Telecom & Utilities
+E0147,2024-10-04,Namma Yatri,330.08,Local Transport
+E0012,2024-10-04,Croma,1368.86,Office Supplies
+E0117,2024-10-04,MakeMyTrip,3516.66,Travel
+E0207,2024-10-04,Starbucks,343.68,Meals
+E0077,2024-10-04,Zepto Cafe,572.32,Meals
+E0008,2024-10-04,Google,794.96,Marketing
+E0123,2024-10-04,IRCTC,1820.29,Travel
+E0223,2024-10-04,Marriott,1790.44,Client Entertainment
+E0014,2024-10-04,Cafe Coffee Day,1124.49,Meals
+E0116,2024-10-04,IndiGo,1961.82,Travel
+E0235,2024-10-04,Reliance Digital,2330.11,Office Supplies
+E0082,2024-10-04,Zomato,243.94,Meals
+E0118,2024-10-04,LinkedIn,2306.16,Marketing
+E0224,2024-10-04,Taj Hotels,667.04,Client Entertainment
+E0152,2024-10-04,Taj Hotels,1150.6,Client Entertainment
+E0088,2024-10-04,Simplilearn,4985.08,Training & Courses
+E0125,2024-10-04,BluSmart,772.52,Local Transport
+E0072,2024-10-04,Tata Play Fiber,875.3,Telecom & Utilities
+E0217,2024-10-04,Vodafone Idea,1232.11,Telecom & Utilities
+E0117,2024-10-04,IRCTC,9045.76,Travel
+E0233,2024-10-04,Amazon Web Services,1433.09,Software & Subscriptions
+E0014,2024-10-04,Vodafone Idea,1116.05,Telecom & Utilities
+E0219,2024-10-04,Vodafone Idea,924.85,Telecom & Utilities
+E0162,2024-10-04,Domino's,204.98,Meals
+E0172,2024-10-04,Zoom,2071.39,Software & Subscriptions
+E0064,2024-10-04,Atlassian,2359.26,Software & Subscriptions
+E0191,2024-10-04,Zoom,1155.74,Software & Subscriptions
+E0221,2024-10-04,Notion,2244.73,Software & Subscriptions
+E0053,2024-10-04,Zomato,11157.0,Client Entertainment
+E0004,2024-10-04,ACT Fibernet,1043.4,Marketing
+E0002,2024-10-05,IndiGo,1520.62,Travel
+E0046,2024-10-05,Chennai Metro,353.5,Local Transport
+E0124,2024-10-05,Uber,372.26,Local Transport
+E0248,2024-10-05,Notion,8727.64,Software & Subscriptions
+E0110,2024-10-05,MakeMyTrip,4581.01,Accommodation
+E0136,2024-10-05,Uber,462.59,Local Transport
+E0229,2024-10-05,Swiggy,302.47,Meals
+E0060,2024-10-05,Domino's,230.14,Meals
+E0075,2024-10-05,Chennai Metro,333.37,Local Transport
+E0190,2024-10-05,Zomato,209.9,Meals
+E0181,2024-10-05,Rapido,143.18,Local Transport
+E0201,2024-10-06,Amazon,1275.89,Office Supplies
+E0162,2024-10-06,Chennai Metro,461.88,Local Transport
+E0119,2024-10-06,Air India,982.24,Travel
+E0020,2024-10-06,Chennai Metro,219.96,Local Transport
+E0192,2024-10-06,Notion,1262.03,Software & Subscriptions
+E0178,2024-10-06,Uber,157.65,Local Transport
+E0151,2024-10-06,MakeMyTrip,3848.34,Travel
+E0157,2024-10-06,Chennai Metro,771.02,Local Transport
+E0170,2024-10-06,MakeMyTrip,2355.39,Accommodation
+E0221,2024-10-06,BluSmart,312.85,Local Transport
+E0064,2024-10-06,Starbucks,1302.81,Meals
+E0044,2024-10-06,Domino's,382.69,Meals
+E0192,2024-10-07,Zomato,315.35,Meals
+E0046,2024-10-07,Simplilearn,4020.12,Training & Courses
+E0187,2024-10-07,Air India,2002.72,Travel
+E0173,2024-10-07,Starbucks,410.61,Meals
+E0059,2024-10-07,Notion,708.62,Software & Subscriptions
+E0009,2024-10-07,Croma,785.08,Office Supplies
+E0024,2024-10-07,Zomato,3248.98,Client Entertainment
+E0178,2024-10-07,Marriott,2062.23,Client Entertainment
+E0046,2024-10-07,Amazon,10157.77,Training & Courses
+E0149,2024-10-07,Airtel,606.88,Telecom & Utilities
+E0118,2024-10-07,Rapido,209.39,Local Transport
+E0187,2024-10-07,Staples,990.75,Office Supplies
+E0206,2024-10-07,Marriott,6984.63,Accommodation
+E0187,2024-10-07,SpiceJet,2123.21,Travel
+E0058,2024-10-07,Starbucks,805.25,Meals
+E0059,2024-10-07,Flipkart,934.64,Office Supplies
+E0046,2024-10-07,Swiggy,425.82,Meals
+E0187,2024-10-07,Staples,587.26,Office Supplies
+E0089,2024-10-07,Staples,1023.23,Office Supplies
+E0208,2024-10-07,Domino's,130.02,Meals
+E0172,2024-10-07,OYO,5222.55,Accommodation
+E0064,2024-10-07,Taj Hotels,7650.62,Accommodation
+E0146,2024-10-07,IRCTC,2758.13,Travel
+E0035,2024-10-07,Vistaprint,4151.42,Marketing
+E0115,2024-10-07,Google,5826.52,Marketing
+E0034,2024-10-07,Airtel,1095.69,Telecom & Utilities
+E0150,2024-10-07,IRCTC,4495.68,Travel
+E0069,2024-10-07,SpiceJet,1754.52,Travel
+E0179,2024-10-07,MakeMyTrip,1075.15,Travel
+E0083,2024-10-07,Airtel,1371.14,Telecom & Utilities
+E0072,2024-10-07,MakeMyTrip,4625.91,Travel
+E0041,2024-10-07,Airtel,722.79,Telecom & Utilities
+E0187,2024-10-07,RedBus,6909.98,Travel
+E0187,2024-10-07,Uber,360.19,Local Transport
+E0009,2024-10-07,Flipkart,401.1,Office Supplies
+E0194,2024-10-07,Reliance Digital,2271.38,Office Supplies
+E0127,2024-10-07,Flipkart,2543.68,Training & Courses
+E0089,2024-10-07,Simplilearn,5926.26,Training & Courses
+E0046,2024-10-07,upGrad,4707.64,Training & Courses
+E0019,2024-10-07,Chennai Metro,317.8,Local Transport
+E0110,2024-10-07,ACT Fibernet,820.86,Telecom & Utilities
+E0064,2024-10-07,Swiggy,566.07,Meals
+E0021,2024-10-07,Vodafone Idea,707.64,Telecom & Utilities
+E0221,2024-10-07,Atlassian,909.64,Software & Subscriptions
+E0097,2024-10-07,LinkedIn,1134.33,Marketing
+E0017,2024-10-07,Taj Hotels,1304.83,Client Entertainment
+E0012,2024-10-07,Tata Play Fiber,796.87,Telecom & Utilities
+E0184,2024-10-07,SpiceJet,1962.19,Travel
+E0187,2024-10-07,Cafe Coffee Day,636.73,Meals
+E0112,2024-10-07,MakeMyTrip,6863.33,Travel
+E0003,2024-10-07,Namma Yatri,255.62,Local Transport
+E0174,2024-10-07,GitHub,622.9,Software & Subscriptions
+E0034,2024-10-07,Staples,948.66,Office Supplies
+E0017,2024-10-07,JetBrains,634.53,Software & Subscriptions
+E0144,2024-10-07,Staples,788.9,Office Supplies
+E0097,2024-10-07,Amazon Web Services,4314.58,Software & Subscriptions
+E0012,2024-10-07,Airtel,627.17,Telecom & Utilities
+E0118,2024-10-07,Rapido,412.69,Local Transport
+E0246,2024-10-07,SpiceJet,1750.5,Local Transport
+E0153,2024-10-08,IndiGo,5873.92,Travel
+E0128,2024-10-08,Ola,388.1,Local Transport
+E0209,2024-10-08,Chennai Metro,398.79,Local Transport
+E0064,2024-10-08,Reliance Digital,1421.59,Office Supplies
+E0163,2024-10-08,Vistaprint,3005.38,Marketing
+E0139,2024-10-08,Cleartrip,9141.03,Travel
+E0217,2024-10-08,LinkedIn,5117.39,Marketing
+E0105,2024-10-08,Airbnb,3808.7,Accommodation
+E0033,2024-10-08,Amazon,1571.06,Office Supplies
+E0009,2024-10-08,MakeMyTrip,3531.83,Accommodation
+E0055,2024-10-08,MakeMyTrip,2188.26,Travel
+E0155,2024-10-08,Amazon,5289.81,Training & Courses
+E0036,2024-10-08,BluSmart,290.66,Local Transport
+E0136,2024-10-08,MakeMyTrip,3595.71,Accommodation
+E0225,2024-10-08,Croma,3757.52,Office Supplies
+E0052,2024-10-08,Google,4212.6,Marketing
+E0147,2024-10-08,Rapido,1886.43,Local Transport
+E0007,2024-10-08,RedBus,1908.42,Travel
+E0040,2024-10-08,Reliance Digital,1104.78,Office Supplies
+E0070,2024-10-08,Flipkart,1646.88,Training & Courses
+E0144,2024-10-08,Starbucks,333.32,Meals
+E0044,2024-10-08,Flipkart,1762.48,Training & Courses
+E0088,2024-10-08,BSNL,1658.27,Telecom & Utilities
+E0040,2024-10-08,Zepto Cafe,1115.87,Meals
+E0001,2024-10-08,JetBrains,860.4,Software & Subscriptions
+E0135,2024-10-08,Cafe Coffee Day,561.44,Meals
+E0011,2024-10-08,GitHub,1534.61,Software & Subscriptions
+E0231,2024-10-08,Google,1574.46,Software & Subscriptions
+E0109,2024-10-08,Cafe Coffee Day,383.93,Meals
+E0194,2024-10-08,Airbnb,6344.68,Accommodation
+E0121,2024-10-08,Air India,1316.57,Travel
+E0076,2024-10-08,Moglix,1663.38,Office Supplies
+E0016,2024-10-08,Zepto Cafe,354.38,Meals
+E0085,2024-10-08,Uber,121.06,Local Transport
+E0072,2024-10-08,Amazon,2356.94,Training & Courses
+E0171,2024-10-08,Starbucks,376.26,Meals
+E0041,2024-10-08,LinkedIn,1321.47,Marketing
+E0147,2024-10-08,Hard Rock Cafe,4464.89,Client Entertainment
+E0137,2024-10-08,Airtel,1361.1,Telecom & Utilities
+E0118,2024-10-08,Taj Hotels,4383.18,Client Entertainment
+E0136,2024-10-08,Cafe Coffee Day,424.31,Meals
+E0192,2024-10-08,Vodafone Idea,1102.9,Telecom & Utilities
+E0202,2024-10-08,Microsoft,2299.78,Software & Subscriptions
+E0210,2024-10-08,Amazon,407.9,Office Supplies
+E0049,2024-10-08,JetBrains,1053.39,Software & Subscriptions
+E0229,2024-10-08,Swiggy,621.04,Meals
+E0142,2024-10-08,Flipkart,1599.41,Office Supplies
+E0107,2024-10-08,Jio,418.66,Telecom & Utilities
+E0226,2024-10-08,Zomato,254.68,Meals
+E0189,2024-10-08,Vodafone Idea,1414.01,Telecom & Utilities
+E0170,2024-10-08,Vodafone Idea,467.92,Telecom & Utilities
+E0174,2024-10-08,BSNL,3113.13,Telecom & Utilities
+E0078,2024-10-09,Google,737.11,Software & Subscriptions
+E0195,2024-10-09,Marriott,4291.36,Client Entertainment
+E0136,2024-10-09,Zomato,199.96,Meals
+E0002,2024-10-09,upGrad,662.17,Training & Courses
+E0234,2024-10-09,Simplilearn,1322.14,Training & Courses
+E0247,2024-10-09,JetBrains,2189.49,Software & Subscriptions
+E0230,2024-10-09,upGrad,2276.34,Training & Courses
+E0226,2024-10-09,Flipkart,2267.62,Training & Courses
+E0069,2024-10-09,Jio,750.52,Telecom & Utilities
+E0072,2024-10-09,Ola,241.78,Local Transport
+E0237,2024-10-09,Swiggy,815.66,Meals
+E0234,2024-10-09,Rapido,80.37,Local Transport
+E0093,2024-10-09,Jio,1237.72,Telecom & Utilities
+E0216,2024-10-09,Barbeque Nation,916.58,Client Entertainment
+E0183,2024-10-09,RedBus,2586.24,Travel
+E0030,2024-10-09,Jio,718.8,Telecom & Utilities
+E0184,2024-10-09,Starbucks,156.69,Meals
+E0063,2024-10-09,Udemy,3059.96,Training & Courses
+E0112,2024-10-09,Namma Yatri,408.15,Local Transport
+E0219,2024-10-09,Zepto Cafe,242.28,Meals
+E0106,2024-10-09,Marriott,5915.61,Accommodation
+E0001,2024-10-09,Cafe Coffee Day,986.6,Meals
+E0162,2024-10-09,BluSmart,385.97,Local Transport
+E0075,2024-10-09,Reliance Digital,2222.59,Office Supplies
+E0156,2024-10-09,Flipkart,2868.45,Training & Courses
+E0149,2024-10-09,GitHub,1077.39,Software & Subscriptions
+E0030,2024-10-09,Marriott,3395.21,Client Entertainment
+E0003,2024-10-09,Notion,2253.19,Software & Subscriptions
+E0186,2024-10-09,Zomato,269.21,Meals
+E0178,2024-10-09,Vistaprint,1709.72,Marketing
+E0044,2024-10-09,Amazon Web Services,1493.55,Software & Subscriptions
+E0184,2024-10-09,Jio,735.39,Telecom & Utilities
+E0131,2024-10-09,Flipkart,2164.27,Training & Courses
+E0160,2024-10-09,Flipkart,686.25,Office Supplies
+E0208,2024-10-09,Cleartrip,2712.69,Travel
+E0046,2024-10-09,JetBrains,1679.19,Software & Subscriptions
+E0194,2024-10-09,Coursera,7775.42,Training & Courses
+E0036,2024-10-09,Cleartrip,4774.62,Travel
+E0214,2024-10-09,Barbeque Nation,1514.73,Client Entertainment
+E0114,2024-10-09,Domino's,361.48,Meals
+E0057,2024-10-09,Reliance Digital,1296.18,Office Supplies
+E0147,2024-10-09,Rapido,498.74,Local Transport
+E0155,2024-10-09,Amazon,1911.26,Training & Courses
+E0133,2024-10-09,Cafe Coffee Day,605.57,Meals
+E0003,2024-10-09,Udemy,1782.03,Training & Courses
+E0218,2024-10-09,Domino's,379.13,Meals
+E0227,2024-10-09,Taj Hotels,12210.28,Accommodation
+E0034,2024-10-09,MakeMyTrip,3185.25,Travel
+E0039,2024-10-09,Microsoft,1992.46,Software & Subscriptions
+E0102,2024-10-09,The Park,1169.22,Client Entertainment
+E0039,2024-10-09,Vodafone Idea,984.58,Telecom & Utilities
+E0097,2024-10-09,upGrad,2179.09,Travel
+E0173,2024-10-10,Amazon,981.77,Office Supplies
+E0072,2024-10-10,Amazon,1438.36,Office Supplies
+E0114,2024-10-10,Cafe Coffee Day,384.53,Meals
+E0082,2024-10-10,Udemy,4347.56,Training & Courses
+E0132,2024-10-10,Flipkart,3140.89,Training & Courses
+E0148,2024-10-10,Amazon,2191.11,Training & Courses
+E0217,2024-10-10,GitHub,2747.71,Software & Subscriptions
+E0077,2024-10-10,BSNL,982.79,Telecom & Utilities
+E0137,2024-10-10,Rapido,190.42,Local Transport
+E0003,2024-10-10,Tata Play Fiber,478.13,Telecom & Utilities
+E0048,2024-10-10,Microsoft,1937.66,Software & Subscriptions
+E0218,2024-10-10,Staples,2228.61,Office Supplies
+E0249,2024-10-10,Coursera,1039.23,Training & Courses
+E0148,2024-10-10,Swiggy,463.41,Meals
+E0056,2024-10-10,Cleartrip,1482.6,Travel
+E0038,2024-10-10,BluSmart,796.57,Local Transport
+E0135,2024-10-10,Google,1157.82,Software & Subscriptions
+E0057,2024-10-10,Chennai Metro,1097.88,Local Transport
+E0022,2024-10-10,Taj Hotels,3268.38,Client Entertainment
+E0136,2024-10-10,Tata Play Fiber,885.91,Telecom & Utilities
+E0060,2024-10-10,Amazon,2361.34,Training & Courses
+E0112,2024-10-10,Ola,384.51,Local Transport
+E0217,2024-10-10,Flipkart,9867.32,Training & Courses
+E0084,2024-10-10,RedBus,9025.87,Travel
+E0137,2024-10-10,Google,1821.62,Software & Subscriptions
+E0146,2024-10-10,Ola,899.25,Local Transport
+E0019,2024-10-10,Starbucks,840.74,Meals
+E0218,2024-10-10,Ola,261.32,Local Transport
+E0046,2024-10-10,Notion,565.22,Software & Subscriptions
+E0145,2024-10-10,RedBus,2571.47,Travel
+E0191,2024-10-10,Zomato,410.44,Meals
+E0115,2024-10-10,Google,1711.15,Software & Subscriptions
+E0089,2024-10-10,Amazon Web Services,2225.78,Software & Subscriptions
+E0128,2024-10-10,BSNL,810.72,Telecom & Utilities
+E0245,2024-10-10,Vodafone Idea,728.35,Telecom & Utilities
+E0023,2024-10-10,Rapido,503.24,Local Transport
+E0218,2024-10-10,OYO,5520.51,Accommodation
+E0018,2024-10-10,Marriott,3006.03,Accommodation
+E0178,2024-10-10,Zomato,340.58,Meals
+E0077,2024-10-10,Domino's,177.01,Meals
+E0210,2024-10-10,ACT Fibernet,322.62,Telecom & Utilities
+E0070,2024-10-10,Tata Play Fiber,489.63,Telecom & Utilities
+E0036,2024-10-10,Croma,1464.9,Office Supplies
+E0002,2024-10-10,BSNL,584.0,Telecom & Utilities
+E0162,2024-10-10,Amazon Web Services,2839.76,Software & Subscriptions
+E0079,2024-10-10,Atlassian,1547.81,Software & Subscriptions
+E0238,2024-10-10,Vodafone Idea,1078.05,Telecom & Utilities
+E0070,2024-10-10,Atlassian,1851.76,Software & Subscriptions
+E0121,2024-10-10,Air India,1316.57,Travel
+E0102,2024-10-10,Canva,2266.88,Local Transport
+E0203,2024-10-11,LinkedIn,2309.0,Marketing
+E0035,2024-10-11,Moglix,892.17,Office Supplies
+E0003,2024-10-11,Reliance Digital,450.69,Office Supplies
+E0227,2024-10-11,Chennai Metro,1245.97,Local Transport
+E0227,2024-10-11,Cafe Coffee Day,739.91,Meals
+E0008,2024-10-11,upGrad,10836.57,Training & Courses
+E0007,2024-10-11,Canva,1075.12,Marketing
+E0184,2024-10-11,Google,1397.85,Software & Subscriptions
+E0178,2024-10-11,BluSmart,408.98,Local Transport
+E0042,2024-10-11,Flipkart,3399.43,Training & Courses
+E0210,2024-10-11,Jio,295.73,Telecom & Utilities
+E0119,2024-10-11,Namma Yatri,423.98,Local Transport
+E0162,2024-10-11,Namma Yatri,191.54,Local Transport
+E0070,2024-10-11,SpiceJet,3710.53,Travel
+E0027,2024-10-11,The Park,1744.06,Client Entertainment
+E0226,2024-10-11,SpiceJet,1313.07,Travel
+E0016,2024-10-11,Ola,433.69,Local Transport
+E0248,2024-10-11,Amazon,2127.51,Training & Courses
+E0106,2024-10-11,Moglix,840.05,Office Supplies
+E0086,2024-10-11,Tata Play Fiber,1102.46,Telecom & Utilities
+E0185,2024-10-11,Zomato,3150.47,Client Entertainment
+E0058,2024-10-11,Flipkart,3864.31,Training & Courses
+E0128,2024-10-11,Domino's,352.27,Meals
+E0005,2024-10-11,BSNL,1574.79,Telecom & Utilities
+E0035,2024-10-11,IRCTC,1496.64,Travel
+E0248,2024-10-11,Meta,2359.14,Marketing
+E0247,2024-10-11,Flipkart,7000.11,Training & Courses
+E0017,2024-10-11,Cleartrip,2425.14,Travel
+E0176,2024-10-11,Treebo,4366.55,Accommodation
+E0196,2024-10-11,Udemy,1087.46,Training & Courses
+E0001,2024-10-11,Swiggy,649.46,Meals
+E0133,2024-10-11,Barbeque Nation,3930.92,Client Entertainment
+E0179,2024-10-11,Google,1031.76,Software & Subscriptions
+E0091,2024-10-11,ACT Fibernet,1126.46,Telecom & Utilities
+E0179,2024-10-11,MakeMyTrip,1075.15,Travel
+E0227,2024-10-11,Taj Hotels,12210.28,Accommodation
+E0031,2024-10-11,Vistaprint,4614.57,Marketing
+E0031,2024-10-11,Vistaprint,4484.29,Marketing
+E0031,2024-10-11,Vistaprint,4646.08,Marketing
+E0012,2024-10-12,Rapido,115.16,Local Transport
+E0071,2024-10-12,Air India,1367.82,Travel
+E0205,2024-10-12,Marriott,7819.25,Accommodation
+E0187,2024-10-12,RedBus,2836.42,Travel
+E0099,2024-10-12,Zomato,154.19,Meals
+E0208,2024-10-12,Ola,759.98,Local Transport
+E0121,2024-10-12,Cafe Coffee Day,340.25,Meals
+E0187,2024-10-12,MakeMyTrip,3681.98,Accommodation
+E0178,2024-10-12,BluSmart,116.17,Local Transport
+E0070,2024-10-12,Namma Yatri,244.5,Local Transport
+E0014,2024-10-12,upGrad,2136.11,Training & Courses
+E0186,2024-10-12,BluSmart,226.63,Local Transport
+E0044,2024-10-12,Starbucks,252.17,Meals
+E0087,2024-10-12,Marriott,913.56,Accommodation
+E0039,2024-10-12,Rapido,460.49,Local Transport
+E0072,2024-10-12,Amazon,1438.36,Office Supplies
+E0136,2024-10-12,LinkedIn,4342.91,Marketing
+E0096,2024-10-12,MakeMyTrip,4772.89,Software & Subscriptions
+E0226,2024-10-13,Ola,181.53,Local Transport
+E0216,2024-10-13,MakeMyTrip,2825.71,Accommodation
+E0150,2024-10-13,Swiggy,148.17,Meals
+E0057,2024-10-13,Marriott,3266.81,Accommodation
+E0227,2024-10-13,Udemy,2332.84,Training & Courses
+E0233,2024-10-13,MakeMyTrip,6771.83,Travel
+E0033,2024-10-13,Namma Yatri,180.45,Local Transport
+E0238,2024-10-13,Coursera,8312.89,Training & Courses
+E0150,2024-10-13,Domino's,208.17,Meals
+E0227,2024-10-13,Namma Yatri,519.52,Local Transport
+E0014,2024-10-13,Air India,7791.53,Travel
+E0081,2024-10-13,Chennai Metro,3423.23,Local Transport
+E0105,2024-10-13,Amazon,4945.65,Training & Courses
+E0004,2024-10-13,Meta,6852.88,Marketing
+E0024,2024-10-13,Staples,1656.76,Office Supplies
+E0246,2024-10-13,Zomato,932.65,Client Entertainment
+E0010,2024-10-14,Atlassian,3784.26,Software & Subscriptions
+E0077,2024-10-14,SpiceJet,2073.27,Travel
+E0217,2024-10-14,Staples,1200.08,Office Supplies
+E0195,2024-10-14,Zomato,236.65,Meals
+E0092,2024-10-14,Zomato,3572.44,Client Entertainment
+E0246,2024-10-14,Coursera,5298.86,Training & Courses
+E0237,2024-10-14,Vodafone Idea,1794.16,Telecom & Utilities
+E0189,2024-10-14,Swiggy,364.87,Meals
+E0072,2024-10-14,Chennai Metro,213.8,Local Transport
+E0084,2024-10-14,Rapido,335.12,Local Transport
+E0177,2024-10-14,Moglix,1265.28,Office Supplies
+E0079,2024-10-14,Amazon,673.61,Training & Courses
+E0136,2024-10-14,OYO,20229.71,Accommodation
+E0008,2024-10-14,Jio,811.84,Telecom & Utilities
+E0089,2024-10-14,Zomato,174.19,Meals
+E0132,2024-10-14,BluSmart,445.57,Local Transport
+E0137,2024-10-14,Staples,1355.28,Office Supplies
+E0151,2024-10-14,Air India,1466.37,Travel
+E0044,2024-10-14,Coursera,2745.37,Training & Courses
+E0022,2024-10-14,Starbucks,431.95,Meals
+E0017,2024-10-14,Amazon,2585.07,Training & Courses
+E0208,2024-10-14,Notion,2142.46,Software & Subscriptions
+E0247,2024-10-14,Zepto Cafe,389.62,Meals
+E0250,2024-10-14,Tata Play Fiber,973.21,Telecom & Utilities
+E0137,2024-10-14,Marriott,3373.26,Accommodation
+E0247,2024-10-14,Flipkart,979.66,Office Supplies
+E0097,2024-10-14,Canva,4092.59,Marketing
+E0140,2024-10-14,Zomato,863.45,Client Entertainment
+E0085,2024-10-14,Google,2629.02,Marketing
+E0014,2024-10-14,Amazon Web Services,526.56,Software & Subscriptions
+E0132,2024-10-14,Cafe Coffee Day,784.73,Meals
+E0180,2024-10-14,Taj Hotels,2235.38,Accommodation
+E0089,2024-10-14,Ola,238.44,Local Transport
+E0076,2024-10-14,MakeMyTrip,9981.34,Accommodation
+E0194,2024-10-14,upGrad,2355.86,Training & Courses
+E0194,2024-10-14,Ola,790.85,Local Transport
+E0137,2024-10-14,Tata Play Fiber,1353.31,Telecom & Utilities
+E0189,2024-10-14,Air India,1756.73,Travel
+E0035,2024-10-14,Zomato,3344.05,Client Entertainment
+E0130,2024-10-14,Notion,614.25,Software & Subscriptions
+E0132,2024-10-14,BluSmart,612.46,Local Transport
+E0057,2024-10-14,Moglix,10316.71,Office Supplies
+E0018,2024-10-14,Barbeque Nation,4508.27,Client Entertainment
+E0018,2024-10-14,Barbeque Nation,4861.48,Client Entertainment
+E0018,2024-10-14,Barbeque Nation,4756.19,Client Entertainment
+E0209,2024-10-15,Namma Yatri,456.93,Local Transport
+E0228,2024-10-15,Reliance Digital,638.09,Office Supplies
+E0021,2024-10-15,Zepto Cafe,192.1,Meals
+E0040,2024-10-15,Swiggy,584.38,Meals
+E0161,2024-10-15,Coursera,1227.65,Training & Courses
+E0115,2024-10-15,Uber,138.5,Local Transport
+E0041,2024-10-15,Google,896.42,Software & Subscriptions
+E0062,2024-10-15,Airbnb,5186.45,Accommodation
+E0121,2024-10-15,Croma,632.61,Office Supplies
+E0227,2024-10-15,BSNL,1272.49,Telecom & Utilities
+E0031,2024-10-15,Namma Yatri,226.07,Local Transport
+E0135,2024-10-15,Rapido,481.59,Local Transport
+E0217,2024-10-15,Amazon,2105.97,Office Supplies
+E0014,2024-10-15,Notion,2050.2,Software & Subscriptions
+E0162,2024-10-15,Coursera,1642.08,Training & Courses
+E0124,2024-10-15,Simplilearn,4790.82,Training & Courses
+E0153,2024-10-15,Namma Yatri,336.23,Local Transport
+E0144,2024-10-15,Airtel,762.35,Telecom & Utilities
+E0037,2024-10-15,Udemy,2498.81,Training & Courses
+E0069,2024-10-15,BSNL,362.23,Telecom & Utilities
+E0148,2024-10-15,ACT Fibernet,603.92,Telecom & Utilities
+E0130,2024-10-15,Cleartrip,1621.88,Travel
+E0225,2024-10-15,Amazon,2072.04,Training & Courses
+E0237,2024-10-15,Flipkart,3626.5,Training & Courses
+E0046,2024-10-15,BluSmart,268.37,Local Transport
+E0105,2024-10-15,Jio,1259.96,Telecom & Utilities
+E0144,2024-10-15,Swiggy,574.11,Meals
+E0215,2024-10-15,Reliance Digital,963.68,Office Supplies
+E0246,2024-10-15,Flipkart,1205.45,Office Supplies
+E0003,2024-10-15,Notion,467.4,Software & Subscriptions
+E0216,2024-10-15,Swiggy,394.27,Meals
+E0195,2024-10-15,Staples,448.25,Office Supplies
+E0136,2024-10-15,Marriott,1068.95,Client Entertainment
+E0036,2024-10-15,Google,6438.4,Marketing
+E0205,2024-10-15,Cafe Coffee Day,550.68,Meals
+E0136,2024-10-15,Taj Hotels,8040.76,Accommodation
+E0052,2024-10-15,Google,3455.3,Marketing
+E0069,2024-10-15,Simplilearn,1350.11,Training & Courses
+E0217,2024-10-15,Treebo,5173.61,Accommodation
+E0198,2024-10-15,Rapido,381.69,Local Transport
+E0113,2024-10-15,Coursera,1341.56,Training & Courses
+E0206,2024-10-15,Taj Hotels,3402.56,Accommodation
+E0244,2024-10-15,Zepto Cafe,452.66,Meals
+E0001,2024-10-15,Zomato,503.83,Meals
+E0047,2024-10-15,Flipkart,968.5,Office Supplies
+E0028,2024-10-15,ACT Fibernet,539.29,Telecom & Utilities
+E0194,2024-10-15,Staples,702.61,Office Supplies
+E0112,2024-10-15,Zoom,2267.97,Software & Subscriptions
+E0100,2024-10-15,Notion,1255.99,Software & Subscriptions
+E0058,2024-10-15,Flipkart,3864.31,Training & Courses
+E0022,2024-10-15,Vistaprint,1959.91,Software & Subscriptions
+E0036,2024-10-16,Barbeque Nation,1376.73,Client Entertainment
+E0241,2024-10-16,RedBus,4654.01,Travel
+E0097,2024-10-16,Taj Hotels,2917.6,Client Entertainment
+E0190,2024-10-16,Amazon,537.62,Office Supplies
+E0096,2024-10-16,Uber,440.05,Local Transport
+E0067,2024-10-16,Zoom,3720.54,Software & Subscriptions
+E0046,2024-10-16,Zomato,225.58,Meals
+E0192,2024-10-16,Rapido,454.69,Local Transport
+E0218,2024-10-16,Flipkart,1359.46,Office Supplies
+E0036,2024-10-16,RedBus,4058.35,Travel
+E0086,2024-10-16,Microsoft,3553.31,Software & Subscriptions
+E0229,2024-10-16,Simplilearn,2300.79,Training & Courses
+E0039,2024-10-16,Swiggy,472.66,Meals
+E0150,2024-10-16,Taj Hotels,3516.24,Accommodation
+E0047,2024-10-16,BSNL,774.2,Telecom & Utilities
+E0077,2024-10-16,Cleartrip,3531.23,Travel
+E0032,2024-10-16,Air India,4132.61,Travel
+E0218,2024-10-16,Jio,1200.71,Telecom & Utilities
+E0011,2024-10-16,Taj Hotels,2516.4,Client Entertainment
+E0171,2024-10-16,Vodafone Idea,831.8,Telecom & Utilities
+E0063,2024-10-16,Taj Hotels,7339.71,Accommodation
+E0019,2024-10-16,Microsoft,3535.69,Software & Subscriptions
+E0147,2024-10-16,Tata Play Fiber,1419.61,Telecom & Utilities
+E0218,2024-10-16,BluSmart,810.95,Local Transport
+E0169,2024-10-16,Jio,1144.28,Telecom & Utilities
+E0198,2024-10-16,LinkedIn,1847.29,Marketing
+E0020,2024-10-16,Airtel,1718.25,Telecom & Utilities
+E0119,2024-10-16,Staples,1859.24,Office Supplies
+E0135,2024-10-16,Swiggy,322.32,Meals
+E0056,2024-10-16,IRCTC,4894.99,Travel
+E0125,2024-10-16,Flipkart,1737.41,Office Supplies
+E0005,2024-10-16,upGrad,1765.17,Training & Courses
+E0064,2024-10-16,IRCTC,9768.77,Travel
+E0139,2024-10-16,Staples,367.16,Office Supplies
+E0023,2024-10-16,Amazon,10431.66,Training & Courses
+E0046,2024-10-16,SpiceJet,3916.81,Travel
+E0061,2024-10-16,RedBus,4929.56,Travel
+E0228,2024-10-16,Rapido,552.8,Local Transport
+E0123,2024-10-16,Zomato,2108.65,Client Entertainment
+E0029,2024-10-16,Vodafone Idea,655.88,Telecom & Utilities
+E0233,2024-10-16,Uber,742.34,Local Transport
+E0042,2024-10-16,Udemy,4102.6,Training & Courses
+E0077,2024-10-16,Notion,3857.98,Software & Subscriptions
+E0069,2024-10-16,Moglix,390.09,Office Supplies
+E0065,2024-10-16,Jio,1259.86,Telecom & Utilities
+E0028,2024-10-16,MakeMyTrip,2662.86,Travel
+E0199,2024-10-16,Amazon Web Services,2150.14,Software & Subscriptions
+E0150,2024-10-16,Amazon Web Services,4520.77,Software & Subscriptions
+E0150,2024-10-16,Amazon Web Services,4134.04,Software & Subscriptions
+E0060,2024-10-17,upGrad,2282.37,Training & Courses
+E0184,2024-10-17,Meta,2558.9,Marketing
+E0044,2024-10-17,Amazon Web Services,3258.74,Software & Subscriptions
+E0127,2024-10-17,Tata Play Fiber,972.86,Telecom & Utilities
+E0196,2024-10-17,Swiggy,171.83,Meals
+E0003,2024-10-17,Notion,551.02,Software & Subscriptions
+E0083,2024-10-17,Zomato,773.18,Client Entertainment
+E0023,2024-10-17,Cafe Coffee Day,179.9,Meals
+E0229,2024-10-17,Cafe Coffee Day,653.12,Meals
+E0190,2024-10-17,upGrad,3878.92,Training & Courses
+E0194,2024-10-17,Airtel,1112.62,Telecom & Utilities
+E0066,2024-10-17,Notion,1331.09,Software & Subscriptions
+E0126,2024-10-17,BluSmart,539.08,Local Transport
+E0042,2024-10-17,Zoom,1379.76,Software & Subscriptions
+E0003,2024-10-17,BSNL,698.08,Telecom & Utilities
+E0014,2024-10-17,Reliance Digital,576.19,Office Supplies
+E0147,2024-10-17,Zomato,3406.32,Client Entertainment
+E0088,2024-10-17,Flipkart,3231.59,Office Supplies
+E0044,2024-10-17,Swiggy,328.9,Meals
+E0023,2024-10-17,Atlassian,1458.77,Software & Subscriptions
+E0147,2024-10-17,Cleartrip,4179.96,Travel
+E0246,2024-10-17,Cafe Coffee Day,1424.88,Meals
+E0076,2024-10-17,MakeMyTrip,2014.22,Travel
+E0095,2024-10-17,Flipkart,883.76,Office Supplies
+E0217,2024-10-17,Atlassian,3800.96,Software & Subscriptions
+E0012,2024-10-17,GitHub,725.0,Software & Subscriptions
+E0128,2024-10-17,RedBus,2835.24,Travel
+E0241,2024-10-17,Vodafone Idea,1701.63,Telecom & Utilities
+E0070,2024-10-17,Simplilearn,2304.87,Training & Courses
+E0167,2024-10-17,Coursera,9143.82,Training & Courses
+E0140,2024-10-17,Simplilearn,5479.85,Training & Courses
+E0012,2024-10-17,JetBrains,808.62,Software & Subscriptions
+E0083,2024-10-17,Zoom,1981.92,Software & Subscriptions
+E0145,2024-10-17,Atlassian,603.56,Software & Subscriptions
+E0119,2024-10-17,Chennai Metro,320.52,Local Transport
+E0114,2024-10-17,Treebo,4890.94,Accommodation
+E0029,2024-10-17,Atlassian,838.56,Software & Subscriptions
+E0046,2024-10-17,Google,4090.0,Marketing
+E0060,2024-10-17,Microsoft,970.87,Software & Subscriptions
+E0080,2024-10-17,ACT Fibernet,1093.22,Telecom & Utilities
+E0157,2024-10-17,LinkedIn,4307.26,Marketing
+E0031,2024-10-17,Marriott,3651.7,Accommodation
+E0189,2024-10-17,Staples,1470.9,Office Supplies
+E0096,2024-10-17,Ola,183.22,Local Transport
+E0127,2024-10-17,Google,252.57,Software & Subscriptions
+E0207,2024-10-17,Atlassian,596.27,Software & Subscriptions
+E0040,2024-10-17,Microsoft,988.3,Software & Subscriptions
+E0100,2024-10-17,ACT Fibernet,625.01,Telecom & Utilities
+E0121,2024-10-17,Atlassian,500.88,Software & Subscriptions
+E0086,2024-10-17,Microsoft,3553.31,Software & Subscriptions
+E0145,2024-10-17,Tata Play Fiber,6929.51,Telecom & Utilities
+E0009,2024-10-17,Udemy,4829.8,Training & Courses
+E0009,2024-10-17,Udemy,4894.13,Training & Courses
+E0001,2024-10-18,Starbucks,584.23,Meals
+E0237,2024-10-18,MakeMyTrip,2662.16,Travel
+E0101,2024-10-18,BSNL,1203.2,Telecom & Utilities
+E0145,2024-10-18,Microsoft,595.76,Software & Subscriptions
+E0037,2024-10-18,Cleartrip,954.25,Travel
+E0039,2024-10-18,Google,3316.38,Marketing
+E0078,2024-10-18,BluSmart,249.93,Local Transport
+E0011,2024-10-18,GitHub,1856.21,Software & Subscriptions
+E0069,2024-10-18,Staples,1389.37,Office Supplies
+E0069,2024-10-18,Zepto Cafe,494.45,Meals
+E0001,2024-10-18,Flipkart,1140.36,Office Supplies
+E0142,2024-10-18,Air India,5348.25,Travel
+E0191,2024-10-18,The Park,2081.58,Client Entertainment
+E0044,2024-10-18,Zoom,2109.57,Software & Subscriptions
+E0202,2024-10-18,Simplilearn,3255.48,Training & Courses
+E0148,2024-10-18,Marriott,4369.48,Accommodation
+E0247,2024-10-18,The Park,781.89,Client Entertainment
+E0189,2024-10-18,Coursera,8173.91,Training & Courses
+E0008,2024-10-18,Canva,4760.42,Marketing
+E0097,2024-10-18,Amazon Web Services,242.32,Software & Subscriptions
+E0183,2024-10-18,Hard Rock Cafe,825.7,Client Entertainment
+E0209,2024-10-18,Staples,619.93,Office Supplies
+E0088,2024-10-18,JetBrains,2643.02,Software & Subscriptions
+E0194,2024-10-18,Jio,1192.6,Telecom & Utilities
+E0001,2024-10-18,ACT Fibernet,1607.24,Telecom & Utilities
+E0136,2024-10-18,RedBus,2047.22,Travel
+E0184,2024-10-18,Moglix,806.41,Office Supplies
+E0118,2024-10-18,Domino's,327.19,Meals
+E0070,2024-10-18,Airtel,830.15,Telecom & Utilities
+E0149,2024-10-18,Microsoft,1900.87,Software & Subscriptions
+E0076,2024-10-18,Namma Yatri,185.31,Local Transport
+E0229,2024-10-18,Marriott,3423.67,Accommodation
+E0179,2024-10-18,Simplilearn,3203.99,Training & Courses
+E0032,2024-10-18,Air India,4471.76,Travel
+E0248,2024-10-18,MakeMyTrip,5445.3,Travel
+E0221,2024-10-18,Coursera,8194.15,Training & Courses
+E0101,2024-10-18,JetBrains,2660.12,Software & Subscriptions
+E0102,2024-10-18,Vistaprint,2878.05,Marketing
+E0193,2024-10-18,Moglix,326.23,Office Supplies
+E0087,2024-10-18,Canva,1434.6,Marketing
+E0102,2024-10-18,BluSmart,178.21,Local Transport
+E0150,2024-10-18,Airtel,1268.88,Telecom & Utilities
+E0169,2024-10-18,Amazon,7619.0,Training & Courses
+E0170,2024-10-18,Microsoft,594.7,Software & Subscriptions
+E0207,2024-10-18,Moglix,824.04,Office Supplies
+E0167,2024-10-18,Moglix,2159.71,Office Supplies
+E0163,2024-10-18,MakeMyTrip,1460.5,Accommodation
+E0030,2024-10-18,RedBus,1982.07,Travel
+E0128,2024-10-18,OYO,3809.31,Accommodation
+E0074,2024-10-18,Moglix,898.86,Office Supplies
+E0227,2024-10-18,Zoom,1302.4,Software & Subscriptions
+E0043,2024-10-18,Amazon Web Services,1535.53,Software & Subscriptions
+E0217,2024-10-18,ACT Fibernet,1754.31,Telecom & Utilities
+E0173,2024-10-18,ACT Fibernet,643.42,Telecom & Utilities
+E0117,2024-10-18,Notion,3444.03,Software & Subscriptions
+E0148,2024-10-18,Atlassian,10730.24,Software & Subscriptions
+E0195,2024-10-19,MakeMyTrip,8366.23,Accommodation
+E0169,2024-10-19,upGrad,1064.39,Training & Courses
+E0156,2024-10-19,Ola,415.56,Local Transport
+E0227,2024-10-19,Chennai Metro,635.51,Local Transport
+E0066,2024-10-19,Zomato,1328.35,Client Entertainment
+E0111,2024-10-19,Zomato,371.72,Meals
+E0176,2024-10-19,Vistaprint,1778.59,Marketing
+E0136,2024-10-19,IndiGo,710.82,Travel
+E0178,2024-10-19,Zomato,1206.28,Client Entertainment
+E0078,2024-10-19,OYO,5300.68,Accommodation
+E0069,2024-10-19,Starbucks,253.48,Meals
+E0161,2024-10-19,Moglix,700.91,Office Supplies
+E0126,2024-10-19,Ola,576.31,Local Transport
+E0001,2024-10-19,Flipkart,1140.36,Office Supplies
+E0060,2024-10-19,Croma,1756.0,Office Supplies
+E0227,2024-10-20,IRCTC,2458.52,Travel
+E0180,2024-10-20,MakeMyTrip,7027.74,Accommodation
+E0032,2024-10-20,IndiGo,5127.17,Travel
+E0178,2024-10-20,Mailchimp,2321.23,Marketing
+E0096,2024-10-20,Swiggy,214.34,Meals
+E0178,2024-10-20,Cafe Coffee Day,253.03,Meals
+E0150,2024-10-20,Google,2213.62,Marketing
+E0084,2024-10-20,MakeMyTrip,6636.87,Travel
+E0191,2024-10-20,The Park,2081.58,Client Entertainment
+E0137,2024-10-20,Zoom,2951.93,Software & Subscriptions
+E0169,2024-10-20,BSNL,1508.01,Telecom & Utilities
+E0136,2024-10-21,Taj Hotels,4709.49,Accommodation
+E0203,2024-10-21,Domino's,151.38,Meals
+E0042,2024-10-21,Namma Yatri,481.6,Local Transport
+E0156,2024-10-21,Uber,370.65,Local Transport
+E0061,2024-10-21,Taj Hotels,7030.87,Accommodation
+E0217,2024-10-21,Jio,1240.64,Telecom & Utilities
+E0038,2024-10-21,Hard Rock Cafe,3213.37,Client Entertainment
+E0119,2024-10-21,Starbucks,345.52,Meals
+E0119,2024-10-21,BSNL,790.93,Telecom & Utilities
+E0213,2024-10-21,Amazon Web Services,911.93,Software & Subscriptions
+E0040,2024-10-21,Amazon,424.85,Office Supplies
+E0069,2024-10-21,Jio,621.71,Telecom & Utilities
+E0234,2024-10-21,Jio,987.09,Telecom & Utilities
+E0008,2024-10-21,Meta,1046.5,Marketing
+E0101,2024-10-21,Namma Yatri,369.44,Local Transport
+E0085,2024-10-21,BSNL,693.88,Telecom & Utilities
+E0029,2024-10-21,Microsoft,1512.06,Software & Subscriptions
+E0214,2024-10-21,Marriott,10541.2,Client Entertainment
+E0214,2024-10-21,Staples,1218.1,Office Supplies
+E0224,2024-10-21,Meta,2758.13,Marketing
+E0024,2024-10-21,GitHub,1143.87,Software & Subscriptions
+E0019,2024-10-21,Airbnb,5560.82,Accommodation
+E0239,2024-10-21,Google,3584.72,Marketing
+E0135,2024-10-21,Reliance Digital,229.65,Office Supplies
+E0208,2024-10-21,Chennai Metro,270.53,Local Transport
+E0178,2024-10-21,BSNL,441.03,Telecom & Utilities
+E0040,2024-10-21,BSNL,997.64,Telecom & Utilities
+E0053,2024-10-21,LinkedIn,776.81,Marketing
+E0141,2024-10-21,IndiGo,1237.41,Travel
+E0035,2024-10-21,Flipkart,828.3,Office Supplies
+E0010,2024-10-21,Domino's,288.24,Meals
+E0052,2024-10-21,Vistaprint,8253.38,Marketing
+E0033,2024-10-21,Coursera,2069.49,Training & Courses
+E0219,2024-10-21,Rapido,306.29,Local Transport
+E0155,2024-10-21,Taj Hotels,3968.5,Client Entertainment
+E0083,2024-10-21,ACT Fibernet,522.76,Telecom & Utilities
+E0018,2024-10-21,Ola,449.67,Local Transport
+E0113,2024-10-21,Zoom,994.25,Software & Subscriptions
+E0087,2024-10-21,Swiggy,364.93,Meals
+E0083,2024-10-21,Chennai Metro,142.88,Local Transport
+E0144,2024-10-21,Udemy,1784.0,Training & Courses
+E0076,2024-10-21,IRCTC,3653.09,Travel
+E0136,2024-10-21,Marriott,1041.37,Client Entertainment
+E0012,2024-10-21,Zoom,613.66,Software & Subscriptions
+E0061,2024-10-21,Treebo,5094.28,Accommodation
+E0122,2024-10-21,Tata Play Fiber,1225.18,Telecom & Utilities
+E0139,2024-10-21,Coursera,1209.15,Training & Courses
+E0011,2024-10-21,BluSmart,352.17,Local Transport
+E0002,2024-10-21,Namma Yatri,292.11,Local Transport
+E0083,2024-10-21,Staples,1577.34,Office Supplies
+E0006,2024-10-21,Jio,1151.59,Telecom & Utilities
+E0235,2024-10-21,Google,630.58,Software & Subscriptions
+E0031,2024-10-21,Marriott,3651.7,Accommodation
+E0014,2024-10-21,Reliance Digital,576.19,Office Supplies
+E0121,2024-10-22,Simplilearn,5704.97,Training & Courses
+E0023,2024-10-22,Amazon,1953.06,Office Supplies
+E0209,2024-10-22,Flipkart,2067.69,Office Supplies
+E0179,2024-10-22,Amazon,922.18,Training & Courses
+E0224,2024-10-22,Cafe Coffee Day,160.15,Meals
+E0119,2024-10-22,Chennai Metro,320.2,Local Transport
+E0205,2024-10-22,MakeMyTrip,3813.08,Travel
+E0031,2024-10-22,Jio,1637.62,Telecom & Utilities
+E0011,2024-10-22,Croma,497.93,Office Supplies
+E0198,2024-10-22,Taj Hotels,2329.75,Client Entertainment
+E0235,2024-10-22,Atlassian,2621.15,Software & Subscriptions
+E0169,2024-10-22,Zepto Cafe,403.41,Meals
+E0093,2024-10-22,Amazon,741.54,Office Supplies
+E0120,2024-10-22,Airtel,630.17,Telecom & Utilities
+E0059,2024-10-22,Jio,587.4,Telecom & Utilities
+E0176,2024-10-22,Rapido,245.92,Local Transport
+E0091,2024-10-22,RedBus,12683.02,Travel
+E0052,2024-10-22,Taj Hotels,4993.38,Accommodation
+E0150,2024-10-22,Uber,226.37,Local Transport
+E0083,2024-10-22,upGrad,2719.81,Training & Courses
+E0069,2024-10-22,IRCTC,523.5,Travel
+E0137,2024-10-22,Microsoft,1639.67,Software & Subscriptions
+E0042,2024-10-22,Amazon,695.36,Office Supplies
+E0064,2024-10-22,Airtel,2907.78,Telecom & Utilities
+E0003,2024-10-22,Flipkart,1103.16,Office Supplies
+E0192,2024-10-22,Canva,3056.63,Marketing
+E0092,2024-10-22,Marriott,9544.66,Accommodation
+E0205,2024-10-22,Coursera,1528.84,Training & Courses
+E0241,2024-10-22,Flipkart,692.37,Office Supplies
+E0074,2024-10-22,Flipkart,249.29,Office Supplies
+E0169,2024-10-22,Google,810.92,Software & Subscriptions
+E0078,2024-10-22,Flipkart,2873.73,Training & Courses
+E0063,2024-10-22,Reliance Digital,694.41,Office Supplies
+E0111,2024-10-22,Starbucks,310.3,Meals
+E0136,2024-10-22,Marriott,2098.0,Client Entertainment
+E0010,2024-10-22,Reliance Digital,2318.65,Office Supplies
+E0136,2024-10-22,Tata Play Fiber,1179.38,Telecom & Utilities
+E0169,2024-10-22,Google,1455.55,Software & Subscriptions
+E0247,2024-10-22,Staples,792.83,Office Supplies
+E0101,2024-10-22,Google,743.9,Software & Subscriptions
+E0138,2024-10-22,ACT Fibernet,893.35,Telecom & Utilities
+E0149,2024-10-23,Microsoft,1853.23,Software & Subscriptions
+E0175,2024-10-23,BSNL,735.28,Telecom & Utilities
+E0181,2024-10-23,Notion,865.03,Software & Subscriptions
+E0051,2024-10-23,Amazon Web Services,2979.4,Software & Subscriptions
+E0194,2024-10-23,Tata Play Fiber,1101.7,Telecom & Utilities
+E0048,2024-10-23,Coursera,2689.19,Training & Courses
+E0063,2024-10-23,Amazon,1303.36,Office Supplies
+E0149,2024-10-23,Atlassian,1178.98,Software & Subscriptions
+E0175,2024-10-23,BluSmart,173.68,Local Transport
+E0220,2024-10-23,Flipkart,1541.33,Training & Courses
+E0164,2024-10-23,Coursera,2339.5,Training & Courses
+E0186,2024-10-23,Marriott,4931.61,Accommodation
+E0167,2024-10-23,Swiggy,556.74,Meals
+E0034,2024-10-23,Moglix,2054.67,Office Supplies
+E0029,2024-10-23,Amazon Web Services,598.54,Software & Subscriptions
+E0147,2024-10-23,SpiceJet,6253.99,Travel
+E0008,2024-10-23,Mailchimp,2415.91,Marketing
+E0135,2024-10-23,The Park,868.94,Client Entertainment
+E0159,2024-10-23,Notion,1220.43,Software & Subscriptions
+E0168,2024-10-23,Croma,1691.83,Office Supplies
+E0170,2024-10-23,Airtel,624.18,Telecom & Utilities
+E0207,2024-10-23,Uber,272.31,Local Transport
+E0228,2024-10-23,Staples,873.71,Office Supplies
+E0063,2024-10-23,Domino's,159.74,Meals
+E0079,2024-10-23,Udemy,2120.82,Training & Courses
+E0012,2024-10-23,Amazon,3794.7,Training & Courses
+E0150,2024-10-23,Canva,6890.41,Marketing
+E0061,2024-10-23,Jio,1001.42,Telecom & Utilities
+E0017,2024-10-23,RedBus,1660.43,Travel
+E0225,2024-10-23,Domino's,491.74,Meals
+E0058,2024-10-23,Starbucks,519.61,Meals
+E0126,2024-10-23,Staples,859.04,Office Supplies
+E0069,2024-10-23,Ola,98.54,Local Transport
+E0224,2024-10-23,Google,1328.92,Software & Subscriptions
+E0027,2024-10-23,Chennai Metro,626.71,Local Transport
+E0163,2024-10-23,Namma Yatri,478.16,Local Transport
+E0220,2024-10-23,Swiggy,334.77,Meals
+E0123,2024-10-23,IndiGo,5088.66,Travel
+E0223,2024-10-23,Notion,1217.29,Software & Subscriptions
+E0210,2024-10-24,Atlassian,1195.84,Software & Subscriptions
+E0077,2024-10-24,Starbucks,212.22,Meals
+E0163,2024-10-24,SpiceJet,3094.6,Travel
+E0099,2024-10-24,Udemy,624.83,Training & Courses
+E0190,2024-10-24,Moglix,205.08,Office Supplies
+E0178,2024-10-24,Taj Hotels,3227.16,Accommodation
+E0190,2024-10-24,SpiceJet,1941.24,Travel
+E0025,2024-10-24,MakeMyTrip,5602.34,Accommodation
+E0237,2024-10-24,Tata Play Fiber,907.27,Telecom & Utilities
+E0099,2024-10-24,JetBrains,3137.98,Software & Subscriptions
+E0218,2024-10-24,Rapido,435.28,Local Transport
+E0010,2024-10-24,Google,1388.61,Software & Subscriptions
+E0127,2024-10-24,Amazon,4635.61,Office Supplies
+E0173,2024-10-24,Starbucks,282.98,Meals
+E0194,2024-10-24,Croma,3272.98,Office Supplies
+E0045,2024-10-24,Marriott,406.48,Client Entertainment
+E0092,2024-10-24,Marriott,2310.48,Client Entertainment
+E0175,2024-10-24,Meta,1307.91,Marketing
+E0149,2024-10-24,Zomato,653.74,Meals
+E0036,2024-10-24,Coursera,1962.83,Training & Courses
+E0093,2024-10-24,Namma Yatri,516.17,Local Transport
+E0064,2024-10-24,BSNL,1558.82,Telecom & Utilities
+E0145,2024-10-24,Udemy,1703.01,Training & Courses
+E0097,2024-10-24,Reliance Digital,3859.71,Office Supplies
+E0002,2024-10-24,Moglix,1114.97,Office Supplies
+E0179,2024-10-24,Taj Hotels,619.53,Client Entertainment
+E0085,2024-10-24,Jio,407.45,Telecom & Utilities
+E0231,2024-10-24,Swiggy,276.48,Meals
+E0160,2024-10-24,Rapido,235.52,Local Transport
+E0047,2024-10-24,Air India,4960.18,Travel
+E0195,2024-10-24,Canva,1764.56,Marketing
+E0056,2024-10-24,Domino's,596.02,Meals
+E0057,2024-10-24,Zomato,998.71,Meals
+E0077,2024-10-24,Amazon Web Services,1366.63,Software & Subscriptions
+E0207,2024-10-24,BSNL,1215.25,Telecom & Utilities
+E0004,2024-10-24,Namma Yatri,253.04,Local Transport
+E0190,2024-10-24,Moglix,734.77,Office Supplies
+E0033,2024-10-24,Coursera,2069.49,Training & Courses
+E0129,2024-10-25,Moglix,496.77,Office Supplies
+E0052,2024-10-25,Zomato,2705.34,Client Entertainment
+E0166,2024-10-25,Atlassian,8517.97,Software & Subscriptions
+E0147,2024-10-25,Reliance Digital,677.11,Office Supplies
+E0247,2024-10-25,Flipkart,5704.27,Training & Courses
+E0011,2024-10-25,Zepto Cafe,466.07,Meals
+E0064,2024-10-25,Amazon,8751.79,Training & Courses
+E0139,2024-10-25,ACT Fibernet,1057.42,Telecom & Utilities
+E0194,2024-10-25,IndiGo,3754.01,Travel
+E0125,2024-10-25,Jio,645.88,Telecom & Utilities
+E0150,2024-10-25,ACT Fibernet,1380.41,Telecom & Utilities
+E0142,2024-10-25,Amazon Web Services,2176.03,Software & Subscriptions
+E0002,2024-10-25,Flipkart,1440.14,Training & Courses
+E0039,2024-10-25,RedBus,3866.37,Travel
+E0136,2024-10-25,Cafe Coffee Day,235.78,Meals
+E0203,2024-10-25,BluSmart,289.84,Local Transport
+E0239,2024-10-25,IndiGo,2999.52,Travel
+E0020,2024-10-25,Airtel,1263.94,Telecom & Utilities
+E0135,2024-10-25,Rapido,300.41,Local Transport
+E0208,2024-10-25,Croma,1043.35,Office Supplies
+E0226,2024-10-25,Marriott,2799.37,Client Entertainment
+E0217,2024-10-25,Domino's,896.87,Meals
+E0218,2024-10-25,Domino's,302.66,Meals
+E0083,2024-10-25,Moglix,747.04,Office Supplies
+E0127,2024-10-25,Namma Yatri,143.55,Local Transport
+E0037,2024-10-25,Staples,857.54,Office Supplies
+E0029,2024-10-25,Coursera,1853.09,Training & Courses
+E0200,2024-10-25,Taj Hotels,2466.34,Accommodation
+E0140,2024-10-25,Starbucks,263.95,Meals
+E0217,2024-10-25,Zomato,291.83,Meals
+E0089,2024-10-25,LinkedIn,702.6,Marketing
+E0016,2024-10-25,Taj Hotels,5852.59,Accommodation
+E0100,2024-10-25,Croma,2159.03,Office Supplies
+E0129,2024-10-25,Amazon,1011.21,Office Supplies
+E0082,2024-10-25,Atlassian,2385.07,Software & Subscriptions
+E0189,2024-10-25,Airtel,947.72,Telecom & Utilities
+E0091,2024-10-25,Cafe Coffee Day,885.24,Meals
+E0207,2024-10-25,Tata Play Fiber,602.09,Telecom & Utilities
+E0100,2024-10-25,Flipkart,980.47,Office Supplies
+E0139,2024-10-25,Jio,1141.1,Telecom & Utilities
+E0061,2024-10-26,Uber,1348.37,Local Transport
+E0075,2024-10-26,IRCTC,2339.08,Travel
+E0218,2024-10-26,Namma Yatri,314.83,Local Transport
+E0130,2024-10-26,Chennai Metro,180.97,Local Transport
+E0224,2024-10-26,MakeMyTrip,3961.73,Accommodation
+E0052,2024-10-26,Namma Yatri,462.03,Local Transport
+E0210,2024-10-26,Namma Yatri,90.56,Local Transport
+E0016,2024-10-26,IRCTC,3465.46,Travel
+E0088,2024-10-26,LinkedIn,7851.83,Marketing
+E0035,2024-10-27,Uber,350.55,Local Transport
+E0217,2024-10-27,Staples,1156.94,Office Supplies
+E0085,2024-10-27,Vodafone Idea,1139.57,Telecom & Utilities
+E0040,2024-10-27,IndiGo,2068.41,Travel
+E0101,2024-10-27,MakeMyTrip,3933.39,Accommodation
+E0076,2024-10-27,Staples,605.83,Office Supplies
+E0137,2024-10-27,Marriott,3496.0,Accommodation
+E0086,2024-10-27,BluSmart,611.16,Local Transport
+E0054,2024-10-27,BluSmart,228.57,Local Transport
+E0119,2024-10-27,SpiceJet,3906.03,Travel
+E0147,2024-10-27,Marriott,30402.85,Client Entertainment
+E0012,2024-10-28,BluSmart,452.56,Local Transport
+E0210,2024-10-28,Notion,1124.41,Software & Subscriptions
+E0138,2024-10-28,Namma Yatri,292.17,Local Transport
+E0239,2024-10-28,LinkedIn,1056.31,Marketing
+E0184,2024-10-28,LinkedIn,10764.16,Marketing
+E0083,2024-10-28,Cleartrip,3292.06,Travel
+E0216,2024-10-28,IRCTC,2195.25,Travel
+E0071,2024-10-28,Amazon,3489.84,Training & Courses
+E0082,2024-10-28,ACT Fibernet,1290.42,Telecom & Utilities
+E0222,2024-10-28,Amazon,4089.8,Training & Courses
+E0147,2024-10-28,Ola,248.5,Local Transport
+E0154,2024-10-28,ACT Fibernet,815.63,Telecom & Utilities
+E0117,2024-10-28,BluSmart,118.02,Local Transport
+E0181,2024-10-28,Zepto Cafe,117.95,Meals
+E0228,2024-10-28,Marriott,4812.62,Accommodation
+E0222,2024-10-28,Domino's,454.8,Meals
+E0169,2024-10-28,Coursera,2356.04,Training & Courses
+E0102,2024-10-28,MakeMyTrip,2941.83,Travel
+E0222,2024-10-28,Moglix,747.33,Office Supplies
+E0214,2024-10-28,Vodafone Idea,430.95,Telecom & Utilities
+E0064,2024-10-28,Simplilearn,2414.71,Training & Courses
+E0106,2024-10-28,OYO,7174.03,Accommodation
+E0031,2024-10-28,Airtel,763.89,Telecom & Utilities
+E0214,2024-10-28,Google,1720.67,Software & Subscriptions
+E0237,2024-10-28,Zomato,2212.74,Client Entertainment
+E0060,2024-10-28,Reliance Digital,912.22,Office Supplies
+E0072,2024-10-28,Reliance Digital,431.17,Office Supplies
+E0021,2024-10-28,Namma Yatri,196.61,Local Transport
+E0160,2024-10-28,SpiceJet,4170.66,Travel
+E0087,2024-10-28,Vistaprint,1040.88,Marketing
+E0170,2024-10-28,IndiGo,481.4,Travel
+E0192,2024-10-28,Udemy,4150.7,Training & Courses
+E0209,2024-10-28,Notion,3183.35,Software & Subscriptions
+E0077,2024-10-28,Starbucks,500.48,Meals
+E0235,2024-10-28,Namma Yatri,1468.75,Local Transport
+E0184,2024-10-28,Flipkart,5343.02,Training & Courses
+E0014,2024-10-28,Domino's,390.78,Meals
+E0141,2024-10-28,JetBrains,633.45,Software & Subscriptions
+E0243,2024-10-28,Taj Hotels,3518.64,Accommodation
+E0218,2024-10-28,Taj Hotels,3215.46,Accommodation
+E0160,2024-10-28,ACT Fibernet,770.83,Telecom & Utilities
+E0090,2024-10-28,ACT Fibernet,1322.7,Telecom & Utilities
+E0195,2024-10-28,Chennai Metro,546.82,Local Transport
+E0178,2024-10-28,Google,1036.44,Software & Subscriptions
+E0121,2024-10-28,Microsoft,949.82,Software & Subscriptions
+E0119,2024-10-28,Marriott,3596.73,Accommodation
+E0046,2024-10-28,Atlassian,2592.78,Software & Subscriptions
+E0186,2024-10-28,Amazon,1233.66,Office Supplies
+E0195,2024-10-28,MakeMyTrip,7005.88,Accommodation
+E0020,2024-10-28,Ola,579.01,Local Transport
+E0117,2024-10-28,Flipkart,638.88,Office Supplies
+E0218,2024-10-28,Google,2211.35,Software & Subscriptions
+E0228,2024-10-28,BluSmart,288.89,Local Transport
+E0149,2024-10-28,IndiGo,4703.33,Travel
+E0134,2024-10-28,Google,1927.41,Software & Subscriptions
+E0047,2024-10-28,Airtel,724.89,Telecom & Utilities
+E0231,2024-10-28,Swiggy,276.48,Meals
+E0129,2024-10-28,Swiggy,3684.9,Meals
+E0160,2024-10-29,ACT Fibernet,1057.55,Telecom & Utilities
+E0072,2024-10-29,ACT Fibernet,469.09,Telecom & Utilities
+E0026,2024-10-29,Starbucks,395.15,Meals
+E0036,2024-10-29,Google,2463.48,Marketing
+E0014,2024-10-29,Tata Play Fiber,794.98,Telecom & Utilities
+E0178,2024-10-29,IndiGo,1463.86,Travel
+E0184,2024-10-29,Amazon,1650.45,Office Supplies
+E0139,2024-10-29,Hard Rock Cafe,2496.76,Client Entertainment
+E0162,2024-10-29,ACT Fibernet,503.0,Telecom & Utilities
+E0170,2024-10-29,IRCTC,2472.0,Travel
+E0092,2024-10-29,Swiggy,780.18,Meals
+E0031,2024-10-29,Zomato,377.78,Meals
+E0214,2024-10-29,Marriott,1153.17,Client Entertainment
+E0190,2024-10-29,Uber,163.23,Local Transport
+E0147,2024-10-29,Rapido,469.89,Local Transport
+E0067,2024-10-29,IRCTC,5786.59,Travel
+E0066,2024-10-29,Swiggy,371.75,Meals
+E0039,2024-10-29,MakeMyTrip,11077.05,Accommodation
+E0038,2024-10-29,RedBus,2724.03,Travel
+E0038,2024-10-29,Atlassian,2017.21,Software & Subscriptions
+E0248,2024-10-29,ACT Fibernet,1176.87,Telecom & Utilities
+E0189,2024-10-29,Starbucks,293.84,Meals
+E0163,2024-10-29,BSNL,498.38,Telecom & Utilities
+E0179,2024-10-29,Cafe Coffee Day,351.46,Meals
+E0136,2024-10-29,SpiceJet,6078.82,Travel
+E0073,2024-10-29,Swiggy,269.48,Meals
+E0218,2024-10-29,Amazon,1661.5,Office Supplies
+E0012,2024-10-29,Atlassian,1798.1,Software & Subscriptions
+E0184,2024-10-29,Airtel,930.42,Telecom & Utilities
+E0069,2024-10-29,SpiceJet,5518.32,Travel
+E0092,2024-10-29,The Park,2088.38,Client Entertainment
+E0136,2024-10-29,Zomato,9225.96,Client Entertainment
+E0044,2024-10-29,Notion,970.1,Software & Subscriptions
+E0034,2024-10-29,Chennai Metro,675.69,Local Transport
+E0074,2024-10-29,Uber,1026.34,Local Transport
+E0248,2024-10-29,RedBus,4847.1,Travel
+E0119,2024-10-29,IndiGo,2085.39,Travel
+E0136,2024-10-29,Zomato,397.15,Meals
+E0021,2024-10-29,Airtel,1040.51,Telecom & Utilities
+E0083,2024-10-29,Google,1595.47,Software & Subscriptions
+E0091,2024-10-29,Amazon Web Services,1841.43,Software & Subscriptions
+E0229,2024-10-29,Amazon Web Services,606.95,Software & Subscriptions
+E0205,2024-10-30,Vistaprint,1917.94,Marketing
+E0233,2024-10-30,Notion,2145.26,Software & Subscriptions
+E0046,2024-10-30,BluSmart,185.89,Local Transport
+E0135,2024-10-30,Vodafone Idea,383.57,Telecom & Utilities
+E0113,2024-10-30,GitHub,2510.87,Software & Subscriptions
+E0182,2024-10-30,Croma,2145.46,Office Supplies
+E0235,2024-10-30,RedBus,1743.6,Travel
+E0193,2024-10-30,Vodafone Idea,577.61,Telecom & Utilities
+E0056,2024-10-30,Google,499.94,Software & Subscriptions
+E0218,2024-10-30,IndiGo,5070.25,Travel
+E0030,2024-10-30,Zepto Cafe,467.54,Meals
+E0036,2024-10-30,IRCTC,4616.16,Travel
+E0150,2024-10-30,Udemy,3614.62,Training & Courses
+E0136,2024-10-30,Airtel,1173.84,Telecom & Utilities
+E0171,2024-10-30,Simplilearn,2803.87,Training & Courses
+E0047,2024-10-30,Zepto Cafe,211.17,Meals
+E0214,2024-10-30,Reliance Digital,711.46,Office Supplies
+E0157,2024-10-30,Amazon,8334.04,Office Supplies
+E0190,2024-10-30,Notion,314.43,Software & Subscriptions
+E0023,2024-10-30,Taj Hotels,5470.08,Accommodation
+E0033,2024-10-30,JetBrains,1466.46,Software & Subscriptions
+E0030,2024-10-30,BluSmart,477.66,Local Transport
+E0149,2024-10-30,Udemy,4748.42,Training & Courses
+E0216,2024-10-30,Zomato,172.38,Meals
+E0014,2024-10-30,Zomato,743.07,Meals
+E0145,2024-10-30,Croma,966.66,Office Supplies
+E0022,2024-10-30,MakeMyTrip,5210.84,Travel
+E0121,2024-10-30,Swiggy,277.14,Meals
+E0035,2024-10-30,BluSmart,356.52,Local Transport
+E0248,2024-10-30,MakeMyTrip,5270.45,Accommodation
+E0055,2024-10-30,Starbucks,407.85,Meals
+E0007,2024-10-30,GitHub,1381.53,Software & Subscriptions
+E0070,2024-10-30,SpiceJet,2450.98,Travel
+E0150,2024-10-30,Canva,3251.0,Marketing
+E0149,2024-10-30,JetBrains,1009.36,Software & Subscriptions
+E0228,2024-10-30,Simplilearn,2281.74,Training & Courses
+E0131,2024-10-30,MakeMyTrip,2850.41,Accommodation
+E0166,2024-10-30,Airtel,1254.13,Telecom & Utilities
+E0007,2024-10-30,Cleartrip,5030.21,Travel
+E0224,2024-10-30,ACT Fibernet,818.28,Telecom & Utilities
+E0063,2024-10-30,JetBrains,423.52,Software & Subscriptions
+E0204,2024-10-30,Vodafone Idea,1895.87,Telecom & Utilities
+E0244,2024-10-30,GitHub,2104.48,Software & Subscriptions
+E0047,2024-10-30,Flipkart,2176.95,Accommodation
+E0139,2024-10-31,Namma Yatri,667.59,Local Transport
+E0022,2024-10-31,Canva,1635.32,Marketing
+E0110,2024-10-31,Vodafone Idea,1253.84,Telecom & Utilities
+E0209,2024-10-31,GitHub,1243.76,Software & Subscriptions
+E0119,2024-10-31,Domino's,526.7,Meals
+E0172,2024-10-31,Cleartrip,6538.48,Travel
+E0149,2024-10-31,Airbnb,3272.55,Accommodation
+E0134,2024-10-31,GitHub,1417.73,Software & Subscriptions
+E0208,2024-10-31,Reliance Digital,1133.09,Office Supplies
+E0229,2024-10-31,Simplilearn,1145.16,Training & Courses
+E0054,2024-10-31,Coursera,4589.58,Training & Courses
+E0160,2024-10-31,Amazon,662.13,Office Supplies
+E0157,2024-10-31,Jio,669.43,Telecom & Utilities
+E0096,2024-10-31,Marriott,2611.46,Client Entertainment
+E0134,2024-10-31,IndiGo,2070.83,Travel
+E0052,2024-10-31,IRCTC,1501.74,Travel
+E0001,2024-10-31,Coursera,742.36,Training & Courses
+E0048,2024-10-31,SpiceJet,1822.85,Travel
+E0075,2024-10-31,Swiggy,775.34,Meals
+E0035,2024-10-31,Jio,922.05,Telecom & Utilities
+E0046,2024-10-31,Atlassian,2035.75,Software & Subscriptions
+E0010,2024-10-31,GitHub,1649.25,Software & Subscriptions
+E0225,2024-10-31,Namma Yatri,1044.68,Local Transport
+E0185,2024-10-31,Udemy,6189.88,Training & Courses
+E0173,2024-10-31,Flipkart,2161.82,Office Supplies
+E0220,2024-10-31,Airtel,470.83,Telecom & Utilities
+E0183,2024-10-31,Marriott,2355.44,Accommodation
+E0242,2024-10-31,ACT Fibernet,1255.89,Telecom & Utilities
+E0092,2024-10-31,Marriott,4077.97,Accommodation
+E0202,2024-10-31,Zoom,611.3,Software & Subscriptions
+E0113,2024-10-31,Marriott,4005.74,Accommodation
+E0079,2024-10-31,LinkedIn,991.7,Marketing
+E0224,2024-10-31,Zomato,2046.97,Client Entertainment
+E0077,2024-10-31,Reliance Digital,504.94,Office Supplies
+E0003,2024-10-31,Coursera,2169.66,Training & Courses
+E0087,2024-10-31,Atlassian,969.27,Software & Subscriptions
+E0188,2024-10-31,Marriott,1350.22,Accommodation
+E0138,2024-10-31,ACT Fibernet,908.86,Telecom & Utilities
+E0248,2024-10-31,Staples,4411.22,Office Supplies
+E0248,2024-10-31,Staples,4192.37,Office Supplies
+E0026,2024-11-01,IRCTC,2630.66,Travel
+E0121,2024-11-01,Flipkart,654.77,Training & Courses
+E0014,2024-11-01,BSNL,2202.36,Telecom & Utilities
+E0109,2024-11-01,Notion,531.57,Software & Subscriptions
+E0012,2024-11-01,Uber,339.07,Local Transport
+E0140,2024-11-01,Starbucks,415.85,Meals
+E0190,2024-11-01,Flipkart,1778.07,Office Supplies
+E0100,2024-11-01,Amazon,1871.83,Office Supplies
+E0017,2024-11-01,ACT Fibernet,653.15,Telecom & Utilities
+E0210,2024-11-01,Jio,372.23,Telecom & Utilities
+E0177,2024-11-01,Chennai Metro,318.42,Local Transport
+E0003,2024-11-01,Simplilearn,2053.84,Training & Courses
+E0073,2024-11-01,BSNL,776.5,Telecom & Utilities
+E0233,2024-11-01,GitHub,986.26,Software & Subscriptions
+E0128,2024-11-01,Zomato,989.32,Meals
+E0161,2024-11-01,Cleartrip,3342.59,Travel
+E0116,2024-11-01,Vodafone Idea,450.4,Telecom & Utilities
+E0237,2024-11-01,LinkedIn,2045.04,Marketing
+E0032,2024-11-01,Namma Yatri,226.73,Local Transport
+E0233,2024-11-01,MakeMyTrip,6960.83,Accommodation
+E0052,2024-11-01,Amazon,2481.56,Training & Courses
+E0191,2024-11-01,ACT Fibernet,550.7,Telecom & Utilities
+E0062,2024-11-01,Chennai Metro,125.66,Local Transport
+E0150,2024-11-01,SpiceJet,10518.6,Travel
+E0229,2024-11-01,Mailchimp,1366.34,Marketing
+E0234,2024-11-01,Rapido,362.62,Local Transport
+E0029,2024-11-01,Staples,1273.74,Office Supplies
+E0096,2024-11-01,Ola,754.61,Local Transport
+E0245,2024-11-01,Simplilearn,5971.04,Training & Courses
+E0185,2024-11-01,The Park,3823.05,Client Entertainment
+E0067,2024-11-01,Atlassian,2920.22,Software & Subscriptions
+E0088,2024-11-01,Staples,2895.08,Office Supplies
+E0136,2024-11-01,Microsoft,1713.35,Software & Subscriptions
+E0191,2024-11-01,Ola,364.86,Local Transport
+E0129,2024-11-01,Atlassian,1149.79,Software & Subscriptions
+E0243,2024-11-01,Air India,2427.42,Travel
+E0119,2024-11-01,Jio,602.93,Telecom & Utilities
+E0217,2024-11-01,Zomato,3236.31,Client Entertainment
+E0231,2024-11-01,Microsoft,1562.02,Software & Subscriptions
+E0037,2024-11-01,MakeMyTrip,1226.19,Accommodation
+E0194,2024-11-01,MakeMyTrip,9476.23,Travel
+E0217,2024-11-01,Reliance Digital,3715.51,Office Supplies
+E0151,2024-11-01,Zomato,152.0,Meals
+E0044,2024-11-01,Vodafone Idea,503.55,Telecom & Utilities
+E0177,2024-11-01,Tata Play Fiber,699.2,Telecom & Utilities
+E0059,2024-11-01,Staples,598.68,Office Supplies
+E0178,2024-11-01,RedBus,1504.22,Travel
+E0036,2024-11-01,MakeMyTrip,11297.97,Accommodation
+E0150,2024-11-01,Mailchimp,1465.33,Marketing
+E0207,2024-11-01,IndiGo,4141.13,Travel
+E0012,2024-11-01,Uber,611.98,Local Transport
+E0055,2024-11-01,Domino's,354.14,Meals
+E0170,2024-11-01,Staples,932.18,Office Supplies
+E0161,2024-11-01,Atlassian,1402.55,Software & Subscriptions
+E0136,2024-11-01,Zomato,9225.96,Client Entertainment
+E0236,2024-11-01,Namma Yatri,1675.46,Local Transport
+E0206,2024-11-01,Hard Rock Cafe,13980.77,Client Entertainment
+E0047,2024-11-01,Microsoft,1579.34,Telecom & Utilities
+E0052,2024-11-02,Zomato,610.97,Meals
+E0173,2024-11-02,Moglix,732.17,Office Supplies
+E0084,2024-11-02,Moglix,2356.37,Office Supplies
+E0025,2024-11-02,Zomato,436.52,Meals
+E0245,2024-11-02,Swiggy,821.95,Meals
+E0065,2024-11-02,IRCTC,2553.91,Travel
+E0069,2024-11-02,Jio,785.76,Telecom & Utilities
+E0242,2024-11-02,Taj Hotels,1708.83,Client Entertainment
+E0144,2024-11-02,IndiGo,1665.49,Travel
+E0038,2024-11-02,Marriott,3040.53,Client Entertainment
+E0222,2024-11-02,Uber,483.35,Local Transport
+E0192,2024-11-02,Jio,3262.83,Telecom & Utilities
+E0134,2024-11-02,Coursera,4489.78,Training & Courses
+E0092,2024-11-03,Starbucks,538.21,Meals
+E0119,2024-11-03,Vodafone Idea,1409.12,Telecom & Utilities
+E0036,2024-11-03,Cafe Coffee Day,734.07,Meals
+E0059,2024-11-03,Domino's,489.93,Meals
+E0186,2024-11-03,Starbucks,1305.61,Meals
+E0083,2024-11-03,Cafe Coffee Day,188.79,Meals
+E0070,2024-11-03,Starbucks,443.25,Meals
+E0242,2024-11-03,The Park,3784.93,Client Entertainment
+E0019,2024-11-03,Cafe Coffee Day,407.62,Meals
+E0176,2024-11-03,Zomato,530.86,Meals
+E0005,2024-11-03,Flipkart,7374.77,Training & Courses
+E0112,2024-11-03,Simplilearn,2107.01,Telecom & Utilities
+E0151,2024-11-04,Cafe Coffee Day,932.9,Meals
+E0087,2024-11-04,Canva,989.99,Marketing
+E0137,2024-11-04,Namma Yatri,190.41,Local Transport
+E0194,2024-11-04,Reliance Digital,794.27,Office Supplies
+E0123,2024-11-04,Canva,1483.55,Marketing
+E0132,2024-11-04,Zomato,207.22,Meals
+E0008,2024-11-04,Airbnb,5360.29,Accommodation
+E0090,2024-11-04,Amazon,2430.99,Training & Courses
+E0160,2024-11-04,RedBus,5019.53,Travel
+E0085,2024-11-04,Starbucks,182.95,Meals
+E0023,2024-11-04,Zoom,752.42,Software & Subscriptions
+E0146,2024-11-04,Zomato,656.4,Meals
+E0100,2024-11-04,Uber,205.34,Local Transport
+E0214,2024-11-04,Coursera,7282.79,Training & Courses
+E0138,2024-11-04,Flipkart,5054.78,Office Supplies
+E0209,2024-11-04,Amazon,709.86,Office Supplies
+E0248,2024-11-04,Jio,859.45,Telecom & Utilities
+E0198,2024-11-04,Canva,695.05,Marketing
+E0192,2024-11-04,Flipkart,3893.03,Training & Courses
+E0192,2024-11-04,Mailchimp,1308.94,Marketing
+E0217,2024-11-04,Notion,2741.86,Software & Subscriptions
+E0061,2024-11-04,Croma,1049.67,Office Supplies
+E0032,2024-11-04,Zomato,2062.29,Client Entertainment
+E0082,2024-11-04,Zomato,226.45,Meals
+E0093,2024-11-04,Coursera,3005.46,Training & Courses
+E0119,2024-11-04,MakeMyTrip,16887.9,Accommodation
+E0106,2024-11-04,BSNL,955.08,Telecom & Utilities
+E0197,2024-11-04,JetBrains,1778.81,Software & Subscriptions
+E0036,2024-11-04,IndiGo,4420.6,Travel
+E0173,2024-11-04,Rapido,342.32,Local Transport
+E0042,2024-11-04,Cleartrip,3303.14,Travel
+E0130,2024-11-04,Cafe Coffee Day,1465.39,Meals
+E0188,2024-11-04,RedBus,2416.55,Travel
+E0081,2024-11-04,GitHub,2293.97,Software & Subscriptions
+E0101,2024-11-04,Chennai Metro,174.25,Local Transport
+E0198,2024-11-04,Jio,588.43,Telecom & Utilities
+E0149,2024-11-04,Airbnb,5379.84,Accommodation
+E0100,2024-11-04,Tata Play Fiber,392.48,Telecom & Utilities
+E0220,2024-11-04,JetBrains,1169.35,Software & Subscriptions
+E0044,2024-11-04,Namma Yatri,491.05,Local Transport
+E0037,2024-11-04,Zepto Cafe,293.68,Meals
+E0247,2024-11-04,Airtel,720.35,Telecom & Utilities
+E0016,2024-11-04,Uber,1052.59,Local Transport
+E0061,2024-11-04,Amazon,1983.09,Office Supplies
+E0147,2024-11-04,Amazon,1213.62,Office Supplies
+E0047,2024-11-04,Zepto Cafe,329.76,Meals
+E0091,2024-11-04,Croma,1767.19,Office Supplies
+E0172,2024-11-04,Zoom,2071.39,Software & Subscriptions
+E0064,2024-11-04,Atlassian,2359.26,Software & Subscriptions
+E0250,2024-11-05,upGrad,4647.24,Training & Courses
+E0077,2024-11-05,Flipkart,425.71,Office Supplies
+E0148,2024-11-05,Udemy,1856.28,Training & Courses
+E0054,2024-11-05,ACT Fibernet,1009.24,Telecom & Utilities
+E0207,2024-11-05,Amazon,2558.61,Training & Courses
+E0130,2024-11-05,SpiceJet,3450.05,Travel
+E0101,2024-11-05,Swiggy,289.4,Meals
+E0112,2024-11-05,Udemy,3567.69,Training & Courses
+E0231,2024-11-05,Chennai Metro,465.05,Local Transport
+E0061,2024-11-05,Reliance Digital,2869.59,Office Supplies
+E0206,2024-11-05,Google,1274.5,Marketing
+E0069,2024-11-05,RedBus,1249.35,Travel
+E0217,2024-11-05,Microsoft,1560.18,Software & Subscriptions
+E0207,2024-11-05,Atlassian,3082.55,Software & Subscriptions
+E0106,2024-11-05,BluSmart,394.17,Local Transport
+E0012,2024-11-05,Namma Yatri,310.32,Local Transport
+E0112,2024-11-05,Udemy,1557.52,Training & Courses
+E0243,2024-11-05,BluSmart,300.68,Local Transport
+E0070,2024-11-05,IndiGo,4664.75,Travel
+E0119,2024-11-05,Marriott,906.88,Client Entertainment
+E0114,2024-11-05,Marriott,1022.9,Client Entertainment
+E0155,2024-11-05,Chennai Metro,125.84,Local Transport
+E0237,2024-11-05,Vistaprint,3154.95,Marketing
+E0173,2024-11-05,Zomato,256.56,Meals
+E0228,2024-11-05,Meta,1146.11,Marketing
+E0124,2024-11-05,Simplilearn,2859.17,Training & Courses
+E0140,2024-11-05,Cafe Coffee Day,312.48,Meals
+E0108,2024-11-05,Staples,1490.46,Office Supplies
+E0046,2024-11-05,Chennai Metro,238.7,Local Transport
+E0147,2024-11-05,Atlassian,1589.58,Software & Subscriptions
+E0060,2024-11-05,Amazon Web Services,2448.54,Software & Subscriptions
+E0178,2024-11-05,Barbeque Nation,2822.11,Client Entertainment
+E0013,2024-11-05,Atlassian,1955.91,Software & Subscriptions
+E0086,2024-11-05,Barbeque Nation,2870.93,Client Entertainment
+E0055,2024-11-05,Chennai Metro,830.4,Local Transport
+E0150,2024-11-05,Canva,3515.96,Marketing
+E0046,2024-11-05,Udemy,989.38,Training & Courses
+E0011,2024-11-05,Simplilearn,2907.97,Training & Courses
+E0150,2024-11-05,Google,2474.71,Marketing
+E0102,2024-11-05,Zepto Cafe,314.34,Meals
+E0042,2024-11-05,Udemy,2355.57,Training & Courses
+E0141,2024-11-05,ACT Fibernet,747.66,Telecom & Utilities
+E0149,2024-11-05,ACT Fibernet,1443.66,Telecom & Utilities
+E0069,2024-11-05,Flipkart,2165.98,Training & Courses
+E0006,2024-11-05,Flipkart,2237.36,Training & Courses
+E0149,2024-11-05,Marriott,7156.99,Accommodation
+E0238,2024-11-05,Zoom,571.88,Software & Subscriptions
+E0047,2024-11-05,Udemy,2273.61,Training & Courses
+E0034,2024-11-05,Moglix,1293.32,Office Supplies
+E0216,2024-11-05,Swiggy,148.83,Meals
+E0028,2024-11-05,Mailchimp,3898.54,Marketing
+E0152,2024-11-05,Starbucks,1700.11,Meals
+E0004,2024-11-05,Uber,282.99,Local Transport
+E0185,2024-11-05,Air India,3422.93,Travel
+E0215,2024-11-05,Cafe Coffee Day,855.0,Meals
+E0165,2024-11-05,Amazon,290.53,Office Supplies
+E0092,2024-11-05,RedBus,4321.21,Travel
+E0021,2024-11-05,Zomato,353.47,Meals
+E0102,2024-11-05,ACT Fibernet,778.39,Telecom & Utilities
+E0003,2024-11-05,Domino's,339.07,Meals
+E0079,2024-11-05,GitHub,1709.95,Software & Subscriptions
+E0177,2024-11-05,Reliance Digital,964.93,Office Supplies
+E0146,2024-11-05,Staples,528.24,Office Supplies
+E0211,2024-11-05,Staples,425.0,Office Supplies
+E0090,2024-11-05,Amazon Web Services,1720.03,Software & Subscriptions
+E0034,2024-11-05,Jio,1134.26,Telecom & Utilities
+E0103,2024-11-05,Google,2740.78,Marketing
+E0184,2024-11-05,Croma,3935.42,Office Supplies
+E0028,2024-11-05,Zoom,13632.2,Software & Subscriptions
+E0079,2024-11-05,Coursera,22412.39,Training & Courses
+E0132,2024-11-06,JetBrains,2057.01,Software & Subscriptions
+E0100,2024-11-06,Cafe Coffee Day,217.54,Meals
+E0184,2024-11-06,Notion,1191.52,Software & Subscriptions
+E0064,2024-11-06,Microsoft,4051.63,Software & Subscriptions
+E0079,2024-11-06,Simplilearn,4441.11,Training & Courses
+E0133,2024-11-06,IndiGo,5098.7,Travel
+E0007,2024-11-06,Cafe Coffee Day,297.89,Meals
+E0127,2024-11-06,Croma,926.15,Office Supplies
+E0190,2024-11-06,Jio,535.35,Telecom & Utilities
+E0234,2024-11-06,upGrad,2311.91,Training & Courses
+E0092,2024-11-06,Jio,854.47,Telecom & Utilities
+E0209,2024-11-06,MakeMyTrip,10973.75,Travel
+E0205,2024-11-06,Croma,3426.87,Office Supplies
+E0188,2024-11-06,Zomato,2216.66,Client Entertainment
+E0127,2024-11-06,Reliance Digital,380.86,Office Supplies
+E0001,2024-11-06,Jio,1384.83,Telecom & Utilities
+E0180,2024-11-06,Namma Yatri,433.87,Local Transport
+E0034,2024-11-06,OYO,12998.25,Accommodation
+E0106,2024-11-06,Domino's,952.34,Meals
+E0139,2024-11-06,Swiggy,651.59,Meals
+E0015,2024-11-06,Ola,303.87,Local Transport
+E0165,2024-11-06,Swiggy,267.89,Meals
+E0052,2024-11-06,Mailchimp,4553.96,Marketing
+E0073,2024-11-06,Croma,4825.09,Office Supplies
+E0229,2024-11-06,BSNL,607.16,Telecom & Utilities
+E0077,2024-11-06,Starbucks,613.33,Meals
+E0099,2024-11-06,Atlassian,1185.13,Software & Subscriptions
+E0183,2024-11-06,Jio,1320.11,Telecom & Utilities
+E0190,2024-11-06,Vodafone Idea,463.63,Telecom & Utilities
+E0087,2024-11-06,Microsoft,514.94,Software & Subscriptions
+E0140,2024-11-06,JetBrains,480.8,Software & Subscriptions
+E0092,2024-11-06,Zomato,4490.54,Client Entertainment
+E0112,2024-11-06,Flipkart,3710.44,Training & Courses
+E0216,2024-11-06,Meta,1913.22,Marketing
+E0136,2024-11-06,Ola,675.46,Local Transport
+E0063,2024-11-06,Croma,1110.97,Office Supplies
+E0152,2024-11-06,RedBus,3142.6,Travel
+E0229,2024-11-06,JetBrains,483.88,Software & Subscriptions
+E0121,2024-11-06,Starbucks,488.31,Meals
+E0092,2024-11-06,Mailchimp,2144.64,Marketing
+E0013,2024-11-06,MakeMyTrip,2834.93,Accommodation
+E0016,2024-11-06,Amazon,3104.53,Office Supplies
+E0089,2024-11-06,Flipkart,1702.88,Office Supplies
+E0097,2024-11-06,Rapido,445.68,Local Transport
+E0169,2024-11-06,BSNL,757.38,Telecom & Utilities
+E0087,2024-11-06,Ola,661.97,Local Transport
+E0218,2024-11-06,Flipkart,1215.63,Office Supplies
+E0189,2024-11-06,upGrad,3736.07,Training & Courses
+E0247,2024-11-06,Amazon,2920.24,Training & Courses
+E0097,2024-11-06,Amazon Web Services,4314.58,Software & Subscriptions
+E0012,2024-11-06,Airtel,627.17,Telecom & Utilities
+E0210,2024-11-06,Airtel,384.68,Telecom & Utilities
+E0170,2024-11-06,Vodafone Idea,467.92,Telecom & Utilities
+E0090,2024-11-06,Google,1565.49,Software & Subscriptions
+E0092,2024-11-06,Zomato,2219.25,Client Entertainment
+E0016,2024-11-06,Amazon,563.64,Office Supplies
+E0058,2024-11-06,Vistaprint,4639.03,Marketing
+E0058,2024-11-06,Vistaprint,4851.8,Marketing
+E0115,2024-11-06,GitHub,780.43,Meals
+E0137,2024-11-06,Domino's,529.41,Office Supplies
+E0219,2024-11-06,Staples,1164.07,Accommodation
+E0028,2024-11-07,BSNL,848.47,Telecom & Utilities
+E0070,2024-11-07,Coursera,2626.23,Training & Courses
+E0163,2024-11-07,Amazon,1076.62,Office Supplies
+E0034,2024-11-07,Cafe Coffee Day,606.5,Meals
+E0114,2024-11-07,Uber,325.29,Local Transport
+E0063,2024-11-07,Barbeque Nation,2843.51,Client Entertainment
+E0248,2024-11-07,Google,1583.08,Software & Subscriptions
+E0245,2024-11-07,Udemy,1497.71,Training & Courses
+E0217,2024-11-07,Domino's,577.77,Meals
+E0220,2024-11-07,Flipkart,1739.43,Office Supplies
+E0176,2024-11-07,Marriott,1193.25,Client Entertainment
+E0221,2024-11-07,BSNL,860.1,Telecom & Utilities
+E0163,2024-11-07,OYO,7823.21,Accommodation
+E0135,2024-11-07,LinkedIn,2360.22,Marketing
+E0164,2024-11-07,Cafe Coffee Day,1127.64,Meals
+E0030,2024-11-07,Barbeque Nation,5237.27,Client Entertainment
+E0245,2024-11-07,Atlassian,1523.28,Software & Subscriptions
+E0083,2024-11-07,GitHub,1888.94,Software & Subscriptions
+E0136,2024-11-07,Treebo,2393.6,Accommodation
+E0075,2024-11-07,JetBrains,2243.76,Software & Subscriptions
+E0112,2024-11-07,Simplilearn,3262.08,Training & Courses
+E0136,2024-11-07,Zomato,3199.73,Client Entertainment
+E0219,2024-11-07,Amazon,2566.59,Training & Courses
+E0148,2024-11-07,Google,1299.81,Software & Subscriptions
+E0144,2024-11-07,upGrad,2553.22,Training & Courses
+E0037,2024-11-07,Staples,961.82,Office Supplies
+E0071,2024-11-07,Ola,225.01,Local Transport
+E0001,2024-11-07,Croma,1878.07,Office Supplies
+E0012,2024-11-07,Microsoft,846.83,Software & Subscriptions
+E0119,2024-11-07,Marriott,2465.93,Client Entertainment
+E0226,2024-11-07,Microsoft,887.84,Software & Subscriptions
+E0226,2024-11-07,Vodafone Idea,1160.55,Telecom & Utilities
+E0151,2024-11-07,The Park,1913.64,Client Entertainment
+E0121,2024-11-07,BSNL,1813.59,Telecom & Utilities
+E0173,2024-11-07,Vodafone Idea,826.68,Telecom & Utilities
+E0115,2024-11-07,RedBus,3182.77,Travel
+E0192,2024-11-07,Vistaprint,1333.19,Marketing
+E0045,2024-11-07,Flipkart,522.83,Office Supplies
+E0142,2024-11-07,Meta,34390.66,Marketing
+E0237,2024-11-08,Taj Hotels,9786.77,Accommodation
+E0205,2024-11-08,Simplilearn,8522.6,Training & Courses
+E0029,2024-11-08,Ola,68.54,Local Transport
+E0077,2024-11-08,Swiggy,265.07,Meals
+E0149,2024-11-08,Zoom,1326.81,Software & Subscriptions
+E0205,2024-11-08,Taj Hotels,1451.77,Client Entertainment
+E0026,2024-11-08,Airtel,1151.24,Telecom & Utilities
+E0224,2024-11-08,Vodafone Idea,506.07,Telecom & Utilities
+E0021,2024-11-08,Air India,3582.08,Travel
+E0009,2024-11-08,Amazon Web Services,942.16,Software & Subscriptions
+E0028,2024-11-08,Google,6644.0,Marketing
+E0159,2024-11-08,ACT Fibernet,488.9,Telecom & Utilities
+E0214,2024-11-08,Coursera,1625.78,Training & Courses
+E0238,2024-11-08,Google,2017.56,Software & Subscriptions
+E0140,2024-11-08,Tata Play Fiber,492.28,Telecom & Utilities
+E0055,2024-11-08,Namma Yatri,173.79,Local Transport
+E0008,2024-11-08,Canva,1138.77,Marketing
+E0193,2024-11-08,Ola,346.55,Local Transport
+E0198,2024-11-08,Airbnb,5245.83,Accommodation
+E0184,2024-11-08,Airbnb,3413.97,Accommodation
+E0052,2024-11-08,Air India,4621.63,Travel
+E0046,2024-11-08,BluSmart,1192.51,Local Transport
+E0151,2024-11-08,Meta,4493.06,Marketing
+E0217,2024-11-08,Starbucks,764.17,Meals
+E0078,2024-11-08,Coursera,5913.05,Training & Courses
+E0060,2024-11-08,OYO,5105.36,Accommodation
+E0178,2024-11-08,MakeMyTrip,932.86,Travel
+E0235,2024-11-08,IndiGo,1909.98,Travel
+E0244,2024-11-08,Barbeque Nation,2577.85,Client Entertainment
+E0139,2024-11-08,Rapido,464.5,Local Transport
+E0133,2024-11-08,SpiceJet,5062.13,Travel
+E0149,2024-11-08,Jio,766.84,Telecom & Utilities
+E0023,2024-11-08,Zepto Cafe,1218.78,Meals
+E0077,2024-11-08,Cleartrip,2535.8,Travel
+E0139,2024-11-08,Marriott,4938.54,Accommodation
+E0051,2024-11-08,JetBrains,1369.75,Software & Subscriptions
+E0136,2024-11-08,BluSmart,200.55,Local Transport
+E0140,2024-11-08,Udemy,7320.4,Training & Courses
+E0219,2024-11-08,IRCTC,4292.69,Travel
+E0123,2024-11-08,Moglix,501.13,Office Supplies
+E0137,2024-11-08,Staples,679.74,Office Supplies
+E0048,2024-11-08,Simplilearn,3153.32,Training & Courses
+E0245,2024-11-08,Air India,3124.11,Travel
+E0149,2024-11-08,Jio,1639.84,Telecom & Utilities
+E0024,2024-11-08,Cafe Coffee Day,1183.46,Meals
+E0205,2024-11-08,ACT Fibernet,1103.39,Telecom & Utilities
+E0038,2024-11-08,Uber,279.5,Local Transport
+E0083,2024-11-08,Airtel,887.5,Telecom & Utilities
+E0044,2024-11-08,Airtel,1516.38,Telecom & Utilities
+E0184,2024-11-08,Rapido,792.89,Local Transport
+E0200,2024-11-08,RedBus,2828.32,Travel
+E0011,2024-11-08,Notion,417.39,Software & Subscriptions
+E0105,2024-11-08,Airtel,1361.19,Telecom & Utilities
+E0054,2024-11-08,MakeMyTrip,5626.49,Travel
+E0039,2024-11-08,Vodafone Idea,984.58,Telecom & Utilities
+E0238,2024-11-08,Vodafone Idea,1078.05,Telecom & Utilities
+E0248,2024-11-08,Jio,859.45,Telecom & Utilities
+E0189,2024-11-08,OYO,43352.17,Accommodation
+E0186,2024-11-08,IndiGo,3694.95,Meals
+E0137,2024-11-09,SpiceJet,930.21,Travel
+E0124,2024-11-09,Moglix,912.63,Office Supplies
+E0040,2024-11-09,Chennai Metro,1025.64,Local Transport
+E0051,2024-11-09,Airtel,1834.64,Telecom & Utilities
+E0247,2024-11-09,Air India,4865.61,Travel
+E0092,2024-11-09,Canva,2661.86,Marketing
+E0054,2024-11-09,Rapido,231.61,Local Transport
+E0098,2024-11-09,Treebo,7777.11,Accommodation
+E0048,2024-11-09,Ola,508.73,Local Transport
+E0003,2024-11-09,Uber,650.75,Local Transport
+E0053,2024-11-09,Namma Yatri,324.92,Local Transport
+E0063,2024-11-09,Microsoft,780.05,Software & Subscriptions
+E0214,2024-11-09,Zomato,3258.73,Client Entertainment
+E0217,2024-11-09,Barbeque Nation,2518.88,Client Entertainment
+E0147,2024-11-09,Starbucks,1752.59,Meals
+E0135,2024-11-09,SpiceJet,2241.8,Travel
+E0063,2024-11-09,Zepto Cafe,302.4,Meals
+E0089,2024-11-09,upGrad,18145.28,Training & Courses
+E0230,2024-11-09,Treebo,6442.4,Telecom & Utilities
+E0191,2024-11-10,Barbeque Nation,2484.98,Client Entertainment
+E0046,2024-11-10,Zomato,196.39,Meals
+E0152,2024-11-10,Ola,428.59,Local Transport
+E0141,2024-11-10,Rapido,173.27,Local Transport
+E0143,2024-11-10,Taj Hotels,1382.35,Client Entertainment
+E0169,2024-11-10,Swiggy,484.07,Meals
+E0156,2024-11-10,Domino's,257.81,Meals
+E0115,2024-11-10,Chennai Metro,864.0,Local Transport
+E0055,2024-11-10,MakeMyTrip,10826.72,Accommodation
+E0008,2024-11-10,Ola,236.81,Local Transport
+E0091,2024-11-10,Google,1322.26,Software & Subscriptions
+E0208,2024-11-10,MakeMyTrip,4520.95,Accommodation
+E0064,2024-11-10,BluSmart,834.94,Local Transport
+E0011,2024-11-10,Simplilearn,2907.97,Training & Courses
+E0148,2024-11-10,Udemy,29230.35,Training & Courses
+E0099,2024-11-10,ACT Fibernet,4748.97,Telecom & Utilities
+E0050,2024-11-10,Flipkart,3175.83,Office Supplies
+E0010,2024-11-11,upGrad,2885.51,Training & Courses
+E0086,2024-11-11,ACT Fibernet,1282.64,Telecom & Utilities
+E0011,2024-11-11,Vistaprint,485.72,Marketing
+E0106,2024-11-11,Croma,1899.42,Office Supplies
+E0144,2024-11-11,ACT Fibernet,1061.46,Telecom & Utilities
+E0149,2024-11-11,Domino's,747.88,Meals
+E0149,2024-11-11,Amazon Web Services,675.29,Software & Subscriptions
+E0064,2024-11-11,Taj Hotels,9189.37,Accommodation
+E0084,2024-11-11,Google,2769.94,Software & Subscriptions
+E0144,2024-11-11,Chennai Metro,330.12,Local Transport
+E0093,2024-11-11,Flipkart,2018.34,Office Supplies
+E0226,2024-11-11,Simplilearn,8123.09,Training & Courses
+E0023,2024-11-11,Coursera,1596.89,Training & Courses
+E0238,2024-11-11,Zoom,1700.1,Software & Subscriptions
+E0071,2024-11-11,Croma,460.87,Office Supplies
+E0043,2024-11-11,Tata Play Fiber,367.7,Telecom & Utilities
+E0064,2024-11-11,Domino's,802.15,Meals
+E0209,2024-11-11,Croma,662.85,Office Supplies
+E0027,2024-11-11,Swiggy,815.13,Meals
+E0139,2024-11-11,Flipkart,2430.3,Training & Courses
+E0239,2024-11-11,Canva,4145.8,Marketing
+E0052,2024-11-11,Vistaprint,8728.62,Marketing
+E0109,2024-11-11,Atlassian,1695.51,Software & Subscriptions
+E0008,2024-11-11,Vistaprint,2636.19,Marketing
+E0096,2024-11-11,Zepto Cafe,608.37,Meals
+E0156,2024-11-11,Starbucks,423.62,Meals
+E0157,2024-11-11,Vistaprint,4985.66,Marketing
+E0134,2024-11-11,Google,1919.41,Marketing
+E0052,2024-11-11,Air India,3686.58,Travel
+E0119,2024-11-11,Rapido,270.64,Local Transport
+E0151,2024-11-11,Amazon,1526.97,Training & Courses
+E0109,2024-11-11,Rapido,110.73,Local Transport
+E0233,2024-11-11,LinkedIn,3640.69,Marketing
+E0044,2024-11-11,JetBrains,2048.69,Software & Subscriptions
+E0092,2024-11-11,Cleartrip,1947.46,Travel
+E0023,2024-11-11,Amazon Web Services,2254.96,Software & Subscriptions
+E0075,2024-11-11,Croma,1035.82,Office Supplies
+E0070,2024-11-11,Cafe Coffee Day,439.24,Meals
+E0104,2024-11-11,Marriott,8085.57,Accommodation
+E0092,2024-11-11,Vistaprint,1980.8,Marketing
+E0048,2024-11-11,Atlassian,1498.96,Software & Subscriptions
+E0157,2024-11-11,Ola,524.59,Local Transport
+E0234,2024-11-11,Vodafone Idea,460.68,Telecom & Utilities
+E0077,2024-11-11,Coursera,2959.4,Training & Courses
+E0139,2024-11-11,Tata Play Fiber,483.84,Telecom & Utilities
+E0233,2024-11-11,LinkedIn,3640.69,Marketing
+E0169,2024-11-11,Taj Hotels,2689.37,Telecom & Utilities
+E0199,2024-11-11,Jio,2166.69,Travel
+E0036,2024-11-12,Meta,1834.47,Marketing
+E0151,2024-11-12,Marriott,1739.25,Client Entertainment
+E0089,2024-11-12,MakeMyTrip,1910.14,Travel
+E0066,2024-11-12,Airtel,1049.71,Telecom & Utilities
+E0158,2024-11-12,Zomato,676.44,Client Entertainment
+E0166,2024-11-12,Reliance Digital,895.37,Office Supplies
+E0189,2024-11-12,Udemy,3027.68,Training & Courses
+E0064,2024-11-12,Hard Rock Cafe,2816.82,Client Entertainment
+E0105,2024-11-12,Airbnb,5786.84,Accommodation
+E0209,2024-11-12,Chennai Metro,316.34,Local Transport
+E0205,2024-11-12,Air India,2885.54,Travel
+E0238,2024-11-12,Staples,2142.27,Office Supplies
+E0153,2024-11-12,Croma,464.19,Office Supplies
+E0190,2024-11-12,ACT Fibernet,1060.45,Telecom & Utilities
+E0098,2024-11-12,Amazon,1171.59,Office Supplies
+E0147,2024-11-12,Tata Play Fiber,999.88,Telecom & Utilities
+E0221,2024-11-12,Amazon,1855.31,Training & Courses
+E0077,2024-11-12,Jio,363.56,Telecom & Utilities
+E0053,2024-11-12,Mailchimp,2568.73,Marketing
+E0070,2024-11-12,Simplilearn,1602.23,Training & Courses
+E0023,2024-11-12,Tata Play Fiber,1102.57,Telecom & Utilities
+E0227,2024-11-12,GitHub,1267.82,Software & Subscriptions
+E0178,2024-11-12,Staples,529.78,Office Supplies
+E0029,2024-11-12,MakeMyTrip,6552.23,Accommodation
+E0011,2024-11-12,Domino's,269.04,Meals
+E0170,2024-11-12,Croma,249.2,Office Supplies
+E0069,2024-11-12,GitHub,993.57,Software & Subscriptions
+E0210,2024-11-12,upGrad,1296.16,Training & Courses
+E0140,2024-11-12,Flipkart,2908.24,Training & Courses
+E0137,2024-11-12,Tata Play Fiber,1027.2,Telecom & Utilities
+E0004,2024-11-12,Moglix,2087.96,Office Supplies
+E0105,2024-11-12,GitHub,1859.36,Software & Subscriptions
+E0081,2024-11-12,Canva,2040.72,Marketing
+E0224,2024-11-12,Google,2570.09,Marketing
+E0116,2024-11-12,Cafe Coffee Day,418.5,Meals
+E0003,2024-11-12,Rapido,405.63,Local Transport
+E0010,2024-11-12,ACT Fibernet,2270.68,Telecom & Utilities
+E0054,2024-11-12,Vodafone Idea,889.46,Telecom & Utilities
+E0012,2024-11-12,Namma Yatri,170.94,Local Transport
+E0014,2024-11-12,Ola,636.23,Local Transport
+E0156,2024-11-12,Coursera,3551.81,Training & Courses
+E0119,2024-11-12,Hard Rock Cafe,1325.62,Client Entertainment
+E0027,2024-11-12,BluSmart,290.12,Local Transport
+E0014,2024-11-12,Flipkart,1412.67,Office Supplies
+E0217,2024-11-12,Amazon,6448.19,Training & Courses
+E0141,2024-11-12,Amazon,529.78,Office Supplies
+E0225,2024-11-12,Mailchimp,3539.04,Marketing
+E0120,2024-11-12,Amazon Web Services,356.22,Software & Subscriptions
+E0151,2024-11-13,IndiGo,2520.47,Travel
+E0041,2024-11-13,Zomato,212.14,Meals
+E0192,2024-11-13,Airbnb,3197.29,Accommodation
+E0129,2024-11-13,Croma,350.76,Office Supplies
+E0210,2024-11-13,Moglix,1908.13,Office Supplies
+E0092,2024-11-13,GitHub,3137.04,Software & Subscriptions
+E0100,2024-11-13,Namma Yatri,207.76,Local Transport
+E0097,2024-11-13,Swiggy,423.83,Meals
+E0192,2024-11-13,Flipkart,7302.41,Training & Courses
+E0237,2024-11-13,Treebo,10947.92,Accommodation
+E0083,2024-11-13,Vodafone Idea,556.96,Telecom & Utilities
+E0069,2024-11-13,SpiceJet,4695.34,Travel
+E0105,2024-11-13,Uber,332.5,Local Transport
+E0190,2024-11-13,Amazon,1580.64,Training & Courses
+E0072,2024-11-13,Taj Hotels,3106.72,Client Entertainment
+E0089,2024-11-13,Coursera,1974.68,Training & Courses
+E0123,2024-11-13,Zomato,1678.62,Client Entertainment
+E0075,2024-11-13,Vodafone Idea,717.87,Telecom & Utilities
+E0233,2024-11-13,Vistaprint,2307.52,Marketing
+E0050,2024-11-13,Cafe Coffee Day,566.08,Meals
+E0240,2024-11-13,Zoom,992.91,Software & Subscriptions
+E0225,2024-11-13,Atlassian,3390.48,Software & Subscriptions
+E0065,2024-11-13,Reliance Digital,1117.4,Office Supplies
+E0160,2024-11-13,Flipkart,423.15,Office Supplies
+E0100,2024-11-13,Chennai Metro,116.55,Local Transport
+E0088,2024-11-13,BSNL,1672.04,Telecom & Utilities
+E0076,2024-11-13,RedBus,2024.05,Travel
+E0036,2024-11-13,MakeMyTrip,7599.47,Travel
+E0240,2024-11-13,MakeMyTrip,5379.03,Travel
+E0044,2024-11-13,Marriott,4104.5,Accommodation
+E0039,2024-11-13,Amazon,5119.44,Office Supplies
+E0235,2024-11-13,Flipkart,502.91,Office Supplies
+E0027,2024-11-13,Airbnb,5821.39,Accommodation
+E0150,2024-11-13,Meta,2404.24,Marketing
+E0014,2024-11-13,Croma,1420.87,Office Supplies
+E0100,2024-11-13,Cafe Coffee Day,559.14,Meals
+E0033,2024-11-13,RedBus,2824.6,Travel
+E0055,2024-11-13,Udemy,5407.47,Training & Courses
+E0016,2024-11-13,MakeMyTrip,1120.95,Travel
+E0029,2024-11-13,Notion,2169.06,Software & Subscriptions
+E0208,2024-11-13,Marriott,4790.2,Accommodation
+E0245,2024-11-13,Amazon,1899.69,Training & Courses
+E0248,2024-11-13,Atlassian,1209.62,Software & Subscriptions
+E0135,2024-11-13,IRCTC,15418.23,Travel
+E0136,2024-11-13,Vistaprint,4712.93,Marketing
+E0136,2024-11-13,Vistaprint,4485.2,Marketing
+E0136,2024-11-13,Vistaprint,4529.53,Marketing
+E0138,2024-11-14,Croma,171.34,Office Supplies
+E0221,2024-11-14,Starbucks,333.01,Meals
+E0097,2024-11-14,Flipkart,490.01,Office Supplies
+E0247,2024-11-14,Marriott,5270.34,Accommodation
+E0248,2024-11-14,GitHub,489.5,Software & Subscriptions
+E0147,2024-11-14,MakeMyTrip,1184.79,Accommodation
+E0236,2024-11-14,Reliance Digital,728.56,Office Supplies
+E0010,2024-11-14,Staples,4206.47,Office Supplies
+E0186,2024-11-14,Zepto Cafe,426.89,Meals
+E0042,2024-11-14,BSNL,607.88,Telecom & Utilities
+E0136,2024-11-14,Taj Hotels,2163.29,Accommodation
+E0245,2024-11-14,Moglix,2699.27,Office Supplies
+E0007,2024-11-14,Tata Play Fiber,676.29,Telecom & Utilities
+E0036,2024-11-14,Marriott,8674.96,Accommodation
+E0237,2024-11-14,Flipkart,6972.13,Training & Courses
+E0132,2024-11-14,Airbnb,2310.25,Accommodation
+E0127,2024-11-14,Zepto Cafe,313.19,Meals
+E0102,2024-11-14,Jio,1815.05,Telecom & Utilities
+E0073,2024-11-14,Ola,478.51,Local Transport
+E0225,2024-11-14,Amazon,883.68,Office Supplies
+E0117,2024-11-14,Coursera,7814.19,Training & Courses
+E0169,2024-11-14,GitHub,2159.3,Software & Subscriptions
+E0231,2024-11-14,Coursera,3807.41,Training & Courses
+E0169,2024-11-14,IndiGo,6896.53,Travel
+E0163,2024-11-14,Marriott,598.69,Client Entertainment
+E0029,2024-11-14,GitHub,3548.04,Software & Subscriptions
+E0246,2024-11-14,Domino's,366.21,Meals
+E0088,2024-11-14,Airtel,1371.94,Telecom & Utilities
+E0060,2024-11-14,Rapido,158.93,Local Transport
+E0092,2024-11-14,Marriott,2094.74,Client Entertainment
+E0008,2024-11-14,Zepto Cafe,358.91,Meals
+E0167,2024-11-14,Udemy,5400.18,Training & Courses
+E0073,2024-11-14,Simplilearn,5934.16,Training & Courses
+E0225,2024-11-14,ACT Fibernet,1229.14,Telecom & Utilities
+E0122,2024-11-14,Zepto Cafe,645.48,Meals
+E0144,2024-11-14,Atlassian,2384.86,Software & Subscriptions
+E0018,2024-11-14,Flipkart,620.2,Office Supplies
+E0199,2024-11-14,Coursera,6694.41,Training & Courses
+E0199,2024-11-14,Amazon Web Services,2150.14,Software & Subscriptions
+E0055,2024-11-14,Udemy,5407.47,Training & Courses
+E0107,2024-11-14,Atlassian,4560.37,Software & Subscriptions
+E0107,2024-11-14,Atlassian,4835.45,Software & Subscriptions
+E0193,2024-11-15,ACT Fibernet,808.97,Telecom & Utilities
+E0173,2024-11-15,MakeMyTrip,5325.81,Travel
+E0041,2024-11-15,JetBrains,443.68,Software & Subscriptions
+E0014,2024-11-15,Amazon,1289.94,Office Supplies
+E0028,2024-11-15,Vistaprint,1179.47,Marketing
+E0037,2024-11-15,Taj Hotels,2563.78,Accommodation
+E0063,2024-11-15,Amazon Web Services,5268.89,Software & Subscriptions
+E0136,2024-11-15,Zomato,2619.54,Client Entertainment
+E0114,2024-11-15,Flipkart,1397.53,Office Supplies
+E0022,2024-11-15,IndiGo,3784.92,Travel
+E0099,2024-11-15,Amazon Web Services,544.8,Software & Subscriptions
+E0173,2024-11-15,IndiGo,1979.2,Travel
+E0034,2024-11-15,Moglix,1168.3,Office Supplies
+E0087,2024-11-15,Mailchimp,2328.41,Marketing
+E0058,2024-11-15,SpiceJet,5485.24,Travel
+E0070,2024-11-15,Domino's,260.58,Meals
+E0173,2024-11-15,Taj Hotels,4941.76,Accommodation
+E0029,2024-11-15,Taj Hotels,4408.17,Accommodation
+E0038,2024-11-15,Taj Hotels,4860.11,Client Entertainment
+E0219,2024-11-15,IRCTC,2059.18,Travel
+E0179,2024-11-15,Reliance Digital,461.43,Office Supplies
+E0075,2024-11-15,BluSmart,647.44,Local Transport
+E0227,2024-11-15,Flipkart,519.67,Office Supplies
+E0118,2024-11-15,Chennai Metro,578.55,Local Transport
+E0001,2024-11-15,Airtel,1233.42,Telecom & Utilities
+E0182,2024-11-15,Reliance Digital,804.22,Office Supplies
+E0199,2024-11-15,ACT Fibernet,595.96,Telecom & Utilities
+E0189,2024-11-15,Staples,1873.09,Office Supplies
+E0236,2024-11-15,Zoom,939.72,Software & Subscriptions
+E0042,2024-11-15,Udemy,3331.29,Training & Courses
+E0029,2024-11-15,Namma Yatri,330.9,Local Transport
+E0023,2024-11-15,Croma,1050.08,Office Supplies
+E0044,2024-11-15,Chennai Metro,201.22,Local Transport
+E0149,2024-11-15,Flipkart,1833.02,Office Supplies
+E0217,2024-11-15,Chennai Metro,857.78,Local Transport
+E0183,2024-11-15,Simplilearn,3740.37,Training & Courses
+E0171,2024-11-15,Starbucks,408.68,Meals
+E0069,2024-11-15,Flipkart,3061.15,Training & Courses
+E0127,2024-11-15,Marriott,3306.21,Accommodation
+E0014,2024-11-15,Ola,255.91,Local Transport
+E0209,2024-11-15,BluSmart,624.35,Local Transport
+E0139,2024-11-15,Microsoft,1589.93,Software & Subscriptions
+E0083,2024-11-15,Microsoft,1356.68,Software & Subscriptions
+E0075,2024-11-15,Google,1782.43,Software & Subscriptions
+E0079,2024-11-15,Cafe Coffee Day,190.72,Meals
+E0072,2024-11-15,Staples,2610.22,Office Supplies
+E0048,2024-11-15,Jio,648.51,Telecom & Utilities
+E0028,2024-11-15,RedBus,4812.17,Travel
+E0092,2024-11-15,Marriott,3924.62,Client Entertainment
+E0121,2024-11-15,Zomato,281.14,Meals
+E0150,2024-11-15,Ola,286.38,Local Transport
+E0207,2024-11-15,Amazon Web Services,2021.47,Software & Subscriptions
+E0100,2024-11-15,Notion,1255.99,Software & Subscriptions
+E0100,2024-11-15,ACT Fibernet,625.01,Telecom & Utilities
+E0151,2024-11-15,Marriott,1739.25,Client Entertainment
+E0029,2024-11-15,GitHub,3548.04,Software & Subscriptions
+E0161,2024-11-15,Zomato,18956.18,Client Entertainment
+E0031,2024-11-16,IndiGo,7102.86,Travel
+E0175,2024-11-16,Uber,92.74,Local Transport
+E0069,2024-11-16,Domino's,345.59,Meals
+E0093,2024-11-16,Zomato,300.98,Meals
+E0237,2024-11-16,Google,4950.45,Marketing
+E0147,2024-11-16,Tata Play Fiber,901.35,Telecom & Utilities
+E0148,2024-11-16,Flipkart,1473.41,Office Supplies
+E0040,2024-11-16,MakeMyTrip,4934.53,Accommodation
+E0133,2024-11-16,Zomato,3945.36,Client Entertainment
+E0225,2024-11-16,BSNL,1913.61,Telecom & Utilities
+E0119,2024-11-16,Cleartrip,966.62,Travel
+E0127,2024-11-16,IRCTC,1997.83,Travel
+E0146,2024-11-16,Zomato,809.68,Meals
+E0090,2024-11-16,LinkedIn,4362.19,Marketing
+E0241,2024-11-16,Moglix,2924.33,Office Supplies
+E0037,2024-11-17,MakeMyTrip,1951.91,Travel
+E0014,2024-11-17,Air India,4890.42,Travel
+E0213,2024-11-17,Namma Yatri,205.83,Local Transport
+E0245,2024-11-17,IRCTC,3888.15,Travel
+E0227,2024-11-17,Zomato,620.09,Meals
+E0149,2024-11-17,Zomato,414.21,Meals
+E0003,2024-11-17,Marriott,897.57,Client Entertainment
+E0035,2024-11-17,Google,973.75,Software & Subscriptions
+E0082,2024-11-17,MakeMyTrip,3954.7,Accommodation
+E0194,2024-11-17,Rapido,710.87,Local Transport
+E0182,2024-11-17,Namma Yatri,286.09,Local Transport
+E0002,2024-11-17,Taj Hotels,2501.98,Accommodation
+E0071,2024-11-17,Chennai Metro,194.69,Local Transport
+E0248,2024-11-17,Atlassian,1336.3,Software & Subscriptions
+E0225,2024-11-17,Starbucks,722.85,Meals
+E0248,2024-11-17,Atlassian,1336.3,Software & Subscriptions
+E0235,2024-11-18,Jio,640.64,Telecom & Utilities
+E0069,2024-11-18,Namma Yatri,168.2,Local Transport
+E0127,2024-11-18,Jio,701.18,Telecom & Utilities
+E0025,2024-11-18,Reliance Digital,2708.81,Office Supplies
+E0046,2024-11-18,Swiggy,979.98,Meals
+E0083,2024-11-18,Simplilearn,4001.9,Training & Courses
+E0017,2024-11-18,Marriott,3761.04,Accommodation
+E0127,2024-11-18,Zomato,707.15,Meals
+E0229,2024-11-18,Canva,3135.55,Marketing
+E0157,2024-11-18,IRCTC,4295.19,Travel
+E0025,2024-11-18,upGrad,1058.9,Training & Courses
+E0038,2024-11-18,Taj Hotels,2526.46,Client Entertainment
+E0234,2024-11-18,Staples,860.31,Office Supplies
+E0224,2024-11-18,BluSmart,227.61,Local Transport
+E0181,2024-11-18,Cleartrip,789.68,Travel
+E0101,2024-11-18,Vodafone Idea,660.86,Telecom & Utilities
+E0069,2024-11-18,Simplilearn,2565.93,Training & Courses
+E0135,2024-11-18,Amazon,957.64,Training & Courses
+E0136,2024-11-18,OYO,2785.91,Accommodation
+E0139,2024-11-18,Ola,3667.26,Local Transport
+E0016,2024-11-18,Treebo,3331.36,Accommodation
+E0151,2024-11-18,Jio,552.47,Telecom & Utilities
+E0148,2024-11-18,Ola,241.93,Local Transport
+E0134,2024-11-18,Marriott,6796.06,Accommodation
+E0192,2024-11-18,Coursera,1522.55,Training & Courses
+E0035,2024-11-18,Cafe Coffee Day,355.72,Meals
+E0058,2024-11-18,Simplilearn,1931.02,Training & Courses
+E0105,2024-11-18,Cafe Coffee Day,448.62,Meals
+E0128,2024-11-18,Air India,1345.31,Travel
+E0076,2024-11-18,Jio,504.55,Telecom & Utilities
+E0007,2024-11-18,Croma,556.73,Office Supplies
+E0057,2024-11-18,Swiggy,1478.97,Meals
+E0208,2024-11-18,Taj Hotels,7546.77,Accommodation
+E0018,2024-11-18,Amazon,1127.68,Office Supplies
+E0050,2024-11-18,Vistaprint,8064.62,Marketing
+E0202,2024-11-18,Amazon Web Services,1384.02,Software & Subscriptions
+E0142,2024-11-18,Cafe Coffee Day,801.86,Meals
+E0156,2024-11-18,Starbucks,535.31,Meals
+E0042,2024-11-18,Udemy,5076.42,Training & Courses
+E0002,2024-11-18,Flipkart,1398.48,Office Supplies
+E0139,2024-11-18,Airtel,1443.28,Telecom & Utilities
+E0210,2024-11-18,Starbucks,312.1,Meals
+E0063,2024-11-18,Croma,2188.36,Office Supplies
+E0115,2024-11-18,Rapido,137.77,Local Transport
+E0188,2024-11-18,Google,444.18,Software & Subscriptions
+E0173,2024-11-18,ACT Fibernet,643.42,Telecom & Utilities
+E0224,2024-11-18,BluSmart,304.32,Local Transport
+E0139,2024-11-18,Airtel,1443.28,Telecom & Utilities
+E0083,2024-11-18,Airbnb,18241.92,Accommodation
+E0181,2024-11-19,Uber,345.19,Local Transport
+E0025,2024-11-19,Starbucks,454.07,Meals
+E0237,2024-11-19,Mailchimp,9839.24,Marketing
+E0218,2024-11-19,Zepto Cafe,309.98,Meals
+E0140,2024-11-19,BluSmart,385.02,Local Transport
+E0097,2024-11-19,Mailchimp,1513.43,Marketing
+E0141,2024-11-19,Uber,196.0,Local Transport
+E0007,2024-11-19,Coursera,2364.12,Training & Courses
+E0182,2024-11-19,Vistaprint,1936.71,Marketing
+E0114,2024-11-19,IRCTC,2216.36,Travel
+E0157,2024-11-19,Flipkart,8663.83,Training & Courses
+E0126,2024-11-19,Chennai Metro,647.7,Local Transport
+E0231,2024-11-19,Ola,289.84,Local Transport
+E0028,2024-11-19,Hard Rock Cafe,1908.9,Client Entertainment
+E0167,2024-11-19,Udemy,10233.01,Training & Courses
+E0135,2024-11-19,Google,830.33,Software & Subscriptions
+E0023,2024-11-19,BSNL,967.62,Telecom & Utilities
+E0072,2024-11-19,Zomato,601.18,Meals
+E0225,2024-11-19,Moglix,619.01,Office Supplies
+E0070,2024-11-19,Coursera,2358.22,Training & Courses
+E0014,2024-11-19,Zoom,824.86,Software & Subscriptions
+E0121,2024-11-19,Flipkart,1275.78,Training & Courses
+E0184,2024-11-19,Zepto Cafe,717.51,Meals
+E0107,2024-11-19,Zomato,275.72,Meals
+E0177,2024-11-19,Amazon Web Services,726.93,Software & Subscriptions
+E0225,2024-11-19,Starbucks,693.16,Meals
+E0059,2024-11-19,Amazon,954.72,Office Supplies
+E0190,2024-11-19,IRCTC,2480.38,Travel
+E0029,2024-11-19,GitHub,2084.28,Software & Subscriptions
+E0003,2024-11-19,Croma,1034.71,Office Supplies
+E0014,2024-11-19,Staples,1048.44,Office Supplies
+E0011,2024-11-19,Google,4566.11,Software & Subscriptions
+E0163,2024-11-19,Zomato,583.52,Meals
+E0036,2024-11-19,Google,1507.51,Marketing
+E0115,2024-11-19,Amazon,4010.65,Office Supplies
+E0089,2024-11-19,Reliance Digital,1049.64,Office Supplies
+E0156,2024-11-19,Barbeque Nation,3772.44,Client Entertainment
+E0250,2024-11-19,Zomato,335.75,Meals
+E0171,2024-11-19,Zoom,3354.8,Software & Subscriptions
+E0070,2024-11-19,GitHub,2005.18,Software & Subscriptions
+E0235,2024-11-19,Google,630.58,Software & Subscriptions
+E0237,2024-11-19,Canva,21039.44,Marketing
+E0115,2024-11-19,Google,4761.66,Marketing
+E0115,2024-11-19,Google,4663.45,Marketing
+E0240,2024-11-19,Airtel,362.59,Meals
+E0096,2024-11-20,OYO,4525.72,Accommodation
+E0069,2024-11-20,Air India,458.25,Travel
+E0025,2024-11-20,Jio,943.97,Telecom & Utilities
+E0029,2024-11-20,Vodafone Idea,962.98,Telecom & Utilities
+E0107,2024-11-20,ACT Fibernet,451.95,Telecom & Utilities
+E0084,2024-11-20,Google,349.33,Software & Subscriptions
+E0017,2024-11-20,Uber,390.69,Local Transport
+E0085,2024-11-20,Uber,232.32,Local Transport
+E0105,2024-11-20,MakeMyTrip,2393.85,Accommodation
+E0231,2024-11-20,Uber,477.05,Local Transport
+E0241,2024-11-20,Canva,2136.02,Marketing
+E0070,2024-11-20,Coursera,2968.25,Training & Courses
+E0016,2024-11-20,Udemy,2928.42,Training & Courses
+E0145,2024-11-20,Flipkart,1717.56,Training & Courses
+E0028,2024-11-20,IndiGo,2477.15,Travel
+E0229,2024-11-20,Amazon,827.64,Office Supplies
+E0238,2024-11-20,Google,1370.6,Software & Subscriptions
+E0021,2024-11-20,Amazon,2134.67,Training & Courses
+E0135,2024-11-20,LinkedIn,1132.11,Marketing
+E0195,2024-11-20,Jio,945.78,Telecom & Utilities
+E0057,2024-11-20,Notion,1785.09,Software & Subscriptions
+E0239,2024-11-20,Google,9939.87,Marketing
+E0239,2024-11-20,Flipkart,1335.61,Office Supplies
+E0014,2024-11-20,Jio,735.08,Telecom & Utilities
+E0052,2024-11-20,Mailchimp,3395.88,Marketing
+E0167,2024-11-20,Amazon,1788.41,Office Supplies
+E0018,2024-11-20,Atlassian,1035.67,Software & Subscriptions
+E0079,2024-11-20,MakeMyTrip,6114.39,Travel
+E0072,2024-11-20,Flipkart,697.69,Office Supplies
+E0225,2024-11-20,Google,2531.18,Software & Subscriptions
+E0217,2024-11-20,Jio,894.91,Telecom & Utilities
+E0018,2024-11-20,JetBrains,458.33,Software & Subscriptions
+E0149,2024-11-20,Udemy,3224.02,Training & Courses
+E0030,2024-11-20,Meta,1975.79,Marketing
+E0225,2024-11-20,Taj Hotels,7056.77,Accommodation
+E0234,2024-11-20,Udemy,777.08,Training & Courses
+E0119,2024-11-20,Zomato,606.78,Meals
+E0218,2024-11-20,Chennai Metro,701.33,Local Transport
+E0178,2024-11-20,Domino's,261.15,Meals
+E0201,2024-11-20,Chennai Metro,267.86,Local Transport
+E0046,2024-11-20,Amazon,1391.12,Training & Courses
+E0135,2024-11-20,Barbeque Nation,6246.44,Client Entertainment
+E0235,2024-11-20,Croma,505.73,Office Supplies
+E0019,2024-11-20,Microsoft,586.05,Software & Subscriptions
+E0128,2024-11-20,ACT Fibernet,574.57,Telecom & Utilities
+E0035,2024-11-20,Marriott,4741.22,Accommodation
+E0076,2024-11-20,Domino's,1062.11,Meals
+E0246,2024-11-20,Domino's,341.82,Meals
+E0028,2024-11-20,JetBrains,662.89,Software & Subscriptions
+E0097,2024-11-20,Canva,3752.61,Marketing
+E0008,2024-11-20,Zomato,1074.92,Client Entertainment
+E0031,2024-11-20,Staples,576.96,Office Supplies
+E0101,2024-11-20,Google,743.9,Software & Subscriptions
+E0138,2024-11-20,ACT Fibernet,893.35,Telecom & Utilities
+E0167,2024-11-20,Amazon,548.09,Office Supplies
+E0105,2024-11-20,MakeMyTrip,2393.85,Accommodation
+E0063,2024-11-20,Google,4162.52,Software & Subscriptions
+E0063,2024-11-20,Google,4108.96,Software & Subscriptions
+E0063,2024-11-20,Google,4879.42,Software & Subscriptions
+E0044,2024-11-21,Simplilearn,2448.54,Training & Courses
+E0017,2024-11-21,RedBus,2664.09,Travel
+E0003,2024-11-21,BluSmart,58.58,Local Transport
+E0058,2024-11-21,Reliance Digital,1006.88,Office Supplies
+E0041,2024-11-21,The Park,3564.15,Client Entertainment
+E0030,2024-11-21,Domino's,237.59,Meals
+E0112,2024-11-21,IndiGo,2785.01,Travel
+E0123,2024-11-21,Vodafone Idea,629.97,Telecom & Utilities
+E0112,2024-11-21,ACT Fibernet,777.11,Telecom & Utilities
+E0190,2024-11-21,Treebo,1686.36,Accommodation
+E0029,2024-11-21,Namma Yatri,375.03,Local Transport
+E0014,2024-11-21,ACT Fibernet,1050.59,Telecom & Utilities
+E0227,2024-11-21,Reliance Digital,886.38,Office Supplies
+E0150,2024-11-21,Vistaprint,1812.85,Marketing
+E0115,2024-11-21,RedBus,5034.58,Travel
+E0071,2024-11-21,The Park,2358.93,Client Entertainment
+E0248,2024-11-21,Amazon,5237.95,Training & Courses
+E0002,2024-11-21,Airtel,769.34,Telecom & Utilities
+E0101,2024-11-21,MakeMyTrip,2563.49,Travel
+E0087,2024-11-21,Staples,1462.9,Office Supplies
+E0040,2024-11-21,Chennai Metro,300.62,Local Transport
+E0136,2024-11-21,Ola,718.3,Local Transport
+E0182,2024-11-21,Chennai Metro,264.41,Local Transport
+E0027,2024-11-21,Swiggy,461.84,Meals
+E0234,2024-11-21,RedBus,1435.39,Travel
+E0077,2024-11-21,Zomato,2079.01,Client Entertainment
+E0182,2024-11-21,Canva,1630.04,Marketing
+E0013,2024-11-21,Ola,240.08,Local Transport
+E0137,2024-11-21,Starbucks,316.05,Meals
+E0097,2024-11-21,Marriott,6132.22,Accommodation
+E0177,2024-11-21,Zomato,367.35,Meals
+E0115,2024-11-21,Airtel,528.11,Telecom & Utilities
+E0136,2024-11-21,MakeMyTrip,5564.44,Accommodation
+E0114,2024-11-21,JetBrains,2571.89,Software & Subscriptions
+E0036,2024-11-21,Zomato,2297.69,Client Entertainment
+E0017,2024-11-21,ACT Fibernet,1089.71,Telecom & Utilities
+E0031,2024-11-21,Rapido,339.59,Local Transport
+E0119,2024-11-21,Google,2508.23,Software & Subscriptions
+E0147,2024-11-21,Staples,995.03,Office Supplies
+E0235,2024-11-21,Barbeque Nation,2424.62,Client Entertainment
+E0161,2024-11-21,BSNL,916.28,Telecom & Utilities
+E0129,2024-11-21,Jio,1164.23,Telecom & Utilities
+E0115,2024-11-21,Chennai Metro,361.31,Local Transport
+E0075,2024-11-21,SpiceJet,6821.81,Travel
+E0223,2024-11-21,Notion,1217.29,Software & Subscriptions
+E0075,2024-11-21,Starbucks,2519.83,Meals
+E0150,2024-11-22,LinkedIn,5190.5,Marketing
+E0057,2024-11-22,Reliance Digital,1174.22,Office Supplies
+E0217,2024-11-22,Reliance Digital,1672.0,Office Supplies
+E0186,2024-11-22,Marriott,5930.73,Accommodation
+E0106,2024-11-22,Treebo,3451.2,Accommodation
+E0127,2024-11-22,Microsoft,1097.64,Software & Subscriptions
+E0209,2024-11-22,Simplilearn,1701.64,Training & Courses
+E0167,2024-11-22,Croma,1375.94,Office Supplies
+E0097,2024-11-22,Simplilearn,2834.79,Training & Courses
+E0128,2024-11-22,ACT Fibernet,759.86,Telecom & Utilities
+E0227,2024-11-22,Flipkart,8077.46,Training & Courses
+E0146,2024-11-22,Croma,2043.3,Office Supplies
+E0156,2024-11-22,Cafe Coffee Day,436.17,Meals
+E0245,2024-11-22,Jio,878.39,Telecom & Utilities
+E0052,2024-11-22,BSNL,1700.5,Telecom & Utilities
+E0196,2024-11-22,Starbucks,158.43,Meals
+E0233,2024-11-22,Air India,4337.87,Travel
+E0072,2024-11-22,The Park,1093.33,Client Entertainment
+E0165,2024-11-22,Tata Play Fiber,740.7,Telecom & Utilities
+E0148,2024-11-22,Microsoft,1912.38,Software & Subscriptions
+E0220,2024-11-22,GitHub,1111.1,Software & Subscriptions
+E0031,2024-11-22,IndiGo,4671.49,Travel
+E0039,2024-11-22,Canva,1145.55,Marketing
+E0039,2024-11-22,Canva,10578.36,Marketing
+E0084,2024-11-22,Amazon,991.0,Office Supplies
+E0149,2024-11-22,The Park,1840.88,Client Entertainment
+E0021,2024-11-22,Amazon,913.47,Office Supplies
+E0017,2024-11-22,Mailchimp,2029.0,Marketing
+E0017,2024-11-22,Croma,486.6,Office Supplies
+E0046,2024-11-22,Google,1084.99,Software & Subscriptions
+E0115,2024-11-22,Jio,883.25,Telecom & Utilities
+E0092,2024-11-22,Hard Rock Cafe,3608.75,Client Entertainment
+E0194,2024-11-22,upGrad,2299.71,Training & Courses
+E0114,2024-11-22,Treebo,2980.52,Accommodation
+E0006,2024-11-22,Swiggy,363.56,Meals
+E0070,2024-11-22,Tata Play Fiber,972.97,Telecom & Utilities
+E0067,2024-11-22,Amazon,1625.47,Training & Courses
+E0096,2024-11-22,SpiceJet,3430.13,Travel
+E0159,2024-11-22,Amazon Web Services,3648.77,Software & Subscriptions
+E0004,2024-11-22,Flipkart,2781.93,Office Supplies
+E0101,2024-11-22,Google,1104.78,Marketing
+E0194,2024-11-22,Amazon,23724.38,Training & Courses
+E0136,2024-11-23,Swiggy,281.1,Meals
+E0029,2024-11-23,Zepto Cafe,480.07,Meals
+E0127,2024-11-23,Uber,379.05,Local Transport
+E0188,2024-11-23,Ola,230.09,Local Transport
+E0086,2024-11-23,Chennai Metro,237.37,Local Transport
+E0052,2024-11-23,Cleartrip,2647.18,Travel
+E0092,2024-11-23,Marriott,6322.27,Accommodation
+E0064,2024-11-23,Domino's,560.36,Meals
+E0035,2024-11-23,Moglix,479.86,Office Supplies
+E0041,2024-11-23,The Park,3564.15,Client Entertainment
+E0121,2024-11-23,Coursera,17403.69,Training & Courses
+E0029,2024-11-23,Cleartrip,15353.9,Travel
+E0003,2024-11-23,Microsoft,2680.74,Software & Subscriptions
+E0192,2024-11-23,Zepto Cafe,550.11,Marketing
+E0243,2024-11-24,Uber,209.9,Local Transport
+E0092,2024-11-24,Air India,2211.73,Travel
+E0169,2024-11-24,Swiggy,373.63,Meals
+E0071,2024-11-24,Uber,935.62,Local Transport
+E0219,2024-11-24,IRCTC,1154.77,Travel
+E0216,2024-11-24,Airbnb,3520.41,Accommodation
+E0064,2024-11-24,Domino's,1017.59,Meals
+E0176,2024-11-24,The Park,2242.44,Client Entertainment
+E0205,2024-11-24,GitHub,2227.16,Software & Subscriptions
+E0235,2024-11-24,Cafe Coffee Day,384.82,Meals
+E0026,2024-11-24,OYO,2454.93,Accommodation
+E0133,2024-11-24,Canva,2741.63,Marketing
+E0184,2024-11-24,RedBus,8964.94,Travel
+E0012,2024-11-25,Staples,482.58,Office Supplies
+E0200,2024-11-25,LinkedIn,1875.87,Marketing
+E0140,2024-11-25,Flipkart,1605.22,Training & Courses
+E0017,2024-11-25,Canva,1230.29,Marketing
+E0047,2024-11-25,IRCTC,837.27,Travel
+E0198,2024-11-25,Marriott,7616.15,Accommodation
+E0049,2024-11-25,Vodafone Idea,800.05,Telecom & Utilities
+E0226,2024-11-25,Flipkart,548.02,Office Supplies
+E0151,2024-11-25,Uber,135.53,Local Transport
+E0095,2024-11-25,Moglix,720.31,Office Supplies
+E0199,2024-11-25,Moglix,556.25,Office Supplies
+E0226,2024-11-25,Swiggy,450.12,Meals
+E0035,2024-11-25,Namma Yatri,557.41,Local Transport
+E0029,2024-11-25,Simplilearn,2390.91,Training & Courses
+E0044,2024-11-25,Cafe Coffee Day,234.26,Meals
+E0193,2024-11-25,Starbucks,426.94,Meals
+E0123,2024-11-25,MakeMyTrip,2933.14,Travel
+E0021,2024-11-25,Namma Yatri,857.03,Local Transport
+E0147,2024-11-25,BSNL,1372.59,Telecom & Utilities
+E0083,2024-11-25,Amazon Web Services,2568.54,Software & Subscriptions
+E0190,2024-11-25,Amazon,659.4,Office Supplies
+E0106,2024-11-25,OYO,6968.65,Accommodation
+E0138,2024-11-25,Vodafone Idea,453.95,Telecom & Utilities
+E0128,2024-11-25,RedBus,2062.94,Travel
+E0093,2024-11-25,Cafe Coffee Day,1141.88,Meals
+E0017,2024-11-25,Taj Hotels,1954.23,Client Entertainment
+E0207,2024-11-25,Udemy,3757.91,Training & Courses
+E0167,2024-11-25,Amazon,529.15,Office Supplies
+E0210,2024-11-25,Canva,838.72,Marketing
+E0169,2024-11-25,Treebo,2995.42,Accommodation
+E0052,2024-11-25,Cafe Coffee Day,618.07,Meals
+E0079,2024-11-25,Simplilearn,1251.49,Training & Courses
+E0075,2024-11-25,Vodafone Idea,1537.72,Telecom & Utilities
+E0092,2024-11-25,Rapido,424.66,Local Transport
+E0072,2024-11-25,Zepto Cafe,446.5,Meals
+E0069,2024-11-25,ACT Fibernet,701.84,Telecom & Utilities
+E0107,2024-11-25,Vodafone Idea,496.1,Telecom & Utilities
+E0192,2024-11-25,Domino's,389.78,Meals
+E0017,2024-11-25,Zomato,1650.01,Client Entertainment
+E0111,2024-11-25,BSNL,858.59,Telecom & Utilities
+E0159,2024-11-25,Flipkart,2786.9,Training & Courses
+E0217,2024-11-25,Flipkart,386.73,Office Supplies
+E0203,2024-11-25,Meta,3564.34,Marketing
+E0046,2024-11-25,upGrad,2081.18,Training & Courses
+E0092,2024-11-25,Zepto Cafe,791.45,Meals
+E0142,2024-11-25,Airtel,993.77,Telecom & Utilities
+E0111,2024-11-25,Uber,441.5,Local Transport
+E0210,2024-11-25,Microsoft,1470.25,Software & Subscriptions
+E0243,2024-11-25,Airbnb,1580.37,Accommodation
+E0149,2024-11-25,Moglix,1643.41,Office Supplies
+E0060,2024-11-25,Starbucks,567.24,Meals
+E0150,2024-11-25,Tata Play Fiber,698.79,Telecom & Utilities
+E0025,2024-11-25,ACT Fibernet,637.73,Telecom & Utilities
+E0121,2024-11-25,Zepto Cafe,1240.44,Meals
+E0144,2024-11-25,Coursera,2033.55,Training & Courses
+E0035,2024-11-25,Namma Yatri,578.61,Local Transport
+E0097,2024-11-26,LinkedIn,7524.04,Marketing
+E0246,2024-11-26,Zoom,2019.48,Software & Subscriptions
+E0154,2024-11-26,Tata Play Fiber,712.98,Telecom & Utilities
+E0071,2024-11-26,Tata Play Fiber,777.12,Telecom & Utilities
+E0093,2024-11-26,Moglix,1077.61,Office Supplies
+E0156,2024-11-26,Coursera,1654.97,Training & Courses
+E0021,2024-11-26,The Park,751.53,Client Entertainment
+E0117,2024-11-26,Reliance Digital,1108.87,Office Supplies
+E0036,2024-11-26,Vodafone Idea,1213.65,Telecom & Utilities
+E0087,2024-11-26,Zomato,3602.93,Client Entertainment
+E0239,2024-11-26,Meta,5543.99,Marketing
+E0052,2024-11-26,Notion,1689.13,Software & Subscriptions
+E0091,2024-11-26,Tata Play Fiber,779.22,Telecom & Utilities
+E0228,2024-11-26,Croma,1780.6,Office Supplies
+E0193,2024-11-26,Cafe Coffee Day,361.18,Meals
+E0234,2024-11-26,Zoom,578.93,Software & Subscriptions
+E0039,2024-11-26,Mailchimp,1365.31,Marketing
+E0112,2024-11-26,MakeMyTrip,11274.92,Travel
+E0033,2024-11-26,Cafe Coffee Day,185.4,Meals
+E0119,2024-11-26,Croma,759.11,Office Supplies
+E0123,2024-11-26,SpiceJet,1909.32,Travel
+E0115,2024-11-26,Chennai Metro,305.93,Local Transport
+E0014,2024-11-26,Namma Yatri,695.27,Local Transport
+E0167,2024-11-26,Croma,1984.34,Office Supplies
+E0169,2024-11-26,Reliance Digital,527.17,Office Supplies
+E0001,2024-11-26,Staples,571.94,Office Supplies
+E0052,2024-11-26,Vodafone Idea,1036.77,Telecom & Utilities
+E0220,2024-11-26,Swiggy,440.66,Meals
+E0226,2024-11-26,GitHub,456.94,Software & Subscriptions
+E0114,2024-11-26,Google,1803.44,Marketing
+E0148,2024-11-26,Flipkart,2152.49,Training & Courses
+E0119,2024-11-26,Domino's,380.25,Meals
+E0025,2024-11-26,SpiceJet,1491.32,Travel
+E0133,2024-11-26,Udemy,3048.78,Training & Courses
+E0188,2024-11-26,IRCTC,2383.58,Travel
+E0119,2024-11-26,Staples,1669.08,Office Supplies
+E0069,2024-11-26,Croma,971.41,Office Supplies
+E0106,2024-11-26,Air India,5420.73,Travel
+E0044,2024-11-26,SpiceJet,3112.63,Travel
+E0170,2024-11-26,ACT Fibernet,645.42,Telecom & Utilities
+E0148,2024-11-26,Moglix,1710.92,Office Supplies
+E0035,2024-11-26,Starbucks,1331.59,Meals
+E0246,2024-11-26,SpiceJet,4379.63,Travel
+E0136,2024-11-26,Vistaprint,1117.98,Marketing
+E0033,2024-11-26,Zoom,2159.88,Software & Subscriptions
+E0012,2024-11-26,Rapido,327.93,Local Transport
+E0064,2024-11-26,MakeMyTrip,6742.81,Accommodation
+E0151,2024-11-26,Amazon Web Services,1117.42,Software & Subscriptions
+E0125,2024-11-26,Coursera,4296.26,Training & Courses
+E0127,2024-11-26,Jio,731.43,Telecom & Utilities
+E0173,2024-11-26,Marriott,2934.67,Accommodation
+E0057,2024-11-26,Reliance Digital,2203.6,Office Supplies
+E0127,2024-11-26,Zomato,1758.53,Client Entertainment
+E0040,2024-11-26,Google,3057.63,Software & Subscriptions
+E0154,2024-11-26,Airtel,1253.56,Telecom & Utilities
+E0039,2024-11-27,The Park,901.21,Client Entertainment
+E0003,2024-11-27,Notion,1296.55,Software & Subscriptions
+E0089,2024-11-27,Udemy,5063.02,Training & Courses
+E0023,2024-11-27,Amazon,295.04,Office Supplies
+E0042,2024-11-27,IndiGo,3032.32,Travel
+E0123,2024-11-27,LinkedIn,484.11,Marketing
+E0014,2024-11-27,Swiggy,292.65,Meals
+E0123,2024-11-27,The Park,1565.8,Client Entertainment
+E0240,2024-11-27,Swiggy,606.14,Meals
+E0197,2024-11-27,Marriott,2332.12,Accommodation
+E0071,2024-11-27,SpiceJet,2214.35,Travel
+E0225,2024-11-27,Zepto Cafe,237.22,Meals
+E0136,2024-11-27,Taj Hotels,3827.59,Client Entertainment
+E0070,2024-11-27,Croma,1320.39,Office Supplies
+E0036,2024-11-27,Taj Hotels,3484.1,Client Entertainment
+E0091,2024-11-27,OYO,5081.01,Accommodation
+E0190,2024-11-27,Chennai Metro,589.1,Local Transport
+E0089,2024-11-27,Udemy,4283.11,Training & Courses
+E0039,2024-11-27,Atlassian,2711.44,Software & Subscriptions
+E0235,2024-11-27,BluSmart,302.66,Local Transport
+E0103,2024-11-27,Taj Hotels,3824.17,Client Entertainment
+E0170,2024-11-27,Chennai Metro,307.58,Local Transport
+E0183,2024-11-27,OYO,3069.54,Accommodation
+E0159,2024-11-27,Zoom,1820.35,Software & Subscriptions
+E0146,2024-11-27,Simplilearn,3266.11,Training & Courses
+E0095,2024-11-27,Rapido,158.52,Local Transport
+E0071,2024-11-27,Airtel,681.34,Telecom & Utilities
+E0178,2024-11-27,Taj Hotels,3863.19,Accommodation
+E0237,2024-11-27,MakeMyTrip,2014.81,Travel
+E0075,2024-11-27,SpiceJet,10083.47,Travel
+E0003,2024-11-27,Flipkart,2427.04,Office Supplies
+E0056,2024-11-27,Zomato,573.28,Meals
+E0058,2024-11-27,Simplilearn,3247.55,Training & Courses
+E0220,2024-11-27,Ola,263.75,Local Transport
+E0129,2024-11-27,Zomato,596.67,Meals
+E0046,2024-11-27,ACT Fibernet,1345.26,Telecom & Utilities
+E0025,2024-11-27,Flipkart,5304.0,Training & Courses
+E0142,2024-11-27,Flipkart,734.18,Office Supplies
+E0247,2024-11-27,Flipkart,3107.34,Training & Courses
+E0137,2024-11-27,Mailchimp,1531.6,Marketing
+E0012,2024-11-27,Taj Hotels,1870.13,Accommodation
+E0233,2024-11-27,Taj Hotels,1805.95,Accommodation
+E0134,2024-11-27,Google,1927.41,Software & Subscriptions
+E0229,2024-11-27,Amazon Web Services,606.95,Software & Subscriptions
+E0047,2024-11-27,Airtel,724.89,Telecom & Utilities
+E0170,2024-11-27,Chennai Metro,289.25,Local Transport
+E0173,2024-11-27,Marriott,2934.67,Accommodation
+E0184,2024-11-27,LinkedIn,4510.39,Marketing
+E0184,2024-11-27,LinkedIn,4377.3,Marketing
+E0184,2024-11-27,LinkedIn,4433.61,Marketing
+E0180,2024-11-27,SpiceJet,1859.79,Local Transport
+E0217,2024-11-27,Barbeque Nation,1673.55,Training & Courses
+E0127,2024-11-28,BSNL,541.12,Telecom & Utilities
+E0192,2024-11-28,Amazon Web Services,2255.13,Software & Subscriptions
+E0068,2024-11-28,Reliance Digital,942.3,Office Supplies
+E0010,2024-11-28,Flipkart,1783.46,Training & Courses
+E0077,2024-11-28,Barbeque Nation,2757.45,Client Entertainment
+E0179,2024-11-28,Starbucks,236.74,Meals
+E0012,2024-11-28,Simplilearn,4399.84,Training & Courses
+E0127,2024-11-28,Amazon Web Services,1218.88,Software & Subscriptions
+E0071,2024-11-28,Namma Yatri,662.22,Local Transport
+E0069,2024-11-28,Moglix,312.72,Office Supplies
+E0070,2024-11-28,Simplilearn,2294.36,Training & Courses
+E0119,2024-11-28,BSNL,649.47,Telecom & Utilities
+E0238,2024-11-28,Staples,283.41,Office Supplies
+E0127,2024-11-28,GitHub,910.53,Software & Subscriptions
+E0078,2024-11-28,Microsoft,1074.3,Software & Subscriptions
+E0121,2024-11-28,Swiggy,463.13,Meals
+E0001,2024-11-28,Starbucks,802.32,Meals
+E0023,2024-11-28,Notion,3773.73,Software & Subscriptions
+E0117,2024-11-28,Udemy,5560.03,Training & Courses
+E0004,2024-11-28,IRCTC,4485.65,Travel
+E0139,2024-11-28,MakeMyTrip,7638.28,Accommodation
+E0115,2024-11-28,Zepto Cafe,206.94,Meals
+E0035,2024-11-28,Reliance Digital,1011.59,Office Supplies
+E0006,2024-11-28,Notion,5302.81,Software & Subscriptions
+E0185,2024-11-28,Taj Hotels,2141.79,Client Entertainment
+E0045,2024-11-28,Staples,784.48,Office Supplies
+E0212,2024-11-28,Air India,3361.56,Travel
+E0186,2024-11-28,ACT Fibernet,903.95,Telecom & Utilities
+E0136,2024-11-28,Ola,169.94,Local Transport
+E0024,2024-11-28,Swiggy,1498.19,Meals
+E0121,2024-11-28,Udemy,1401.97,Training & Courses
+E0083,2024-11-28,Mailchimp,3207.95,Marketing
+E0064,2024-11-28,RedBus,5257.04,Travel
+E0218,2024-11-28,Staples,1584.59,Office Supplies
+E0071,2024-11-28,MakeMyTrip,5739.63,Accommodation
+E0241,2024-11-28,Zoom,3152.07,Software & Subscriptions
+E0207,2024-11-28,Starbucks,922.71,Meals
+E0249,2024-11-28,Taj Hotels,3260.81,Accommodation
+E0063,2024-11-28,ACT Fibernet,448.04,Telecom & Utilities
+E0125,2024-11-28,JetBrains,1155.42,Software & Subscriptions
+E0163,2024-11-28,Namma Yatri,344.24,Local Transport
+E0032,2024-11-28,Swiggy,541.14,Meals
+E0141,2024-11-28,BSNL,1220.32,Telecom & Utilities
+E0204,2024-11-28,JetBrains,1347.91,Software & Subscriptions
+E0018,2024-11-28,ACT Fibernet,1349.55,Telecom & Utilities
+E0190,2024-11-28,Treebo,3264.2,Accommodation
+E0198,2024-11-28,Starbucks,517.17,Meals
+E0148,2024-11-28,Zoom,2043.2,Software & Subscriptions
+E0032,2024-11-28,Taj Hotels,7317.12,Accommodation
+E0066,2024-11-28,Tata Play Fiber,922.71,Telecom & Utilities
+E0060,2024-11-28,upGrad,2369.62,Training & Courses
+E0070,2024-11-28,Amazon,1261.77,Training & Courses
+E0064,2024-11-28,Cafe Coffee Day,1597.9,Meals
+E0248,2024-11-28,Atlassian,725.38,Software & Subscriptions
+E0050,2024-11-28,Treebo,15839.82,Accommodation
+E0089,2024-11-28,MakeMyTrip,5787.69,Accommodation
+E0082,2024-11-28,Ola,546.93,Local Transport
+E0179,2024-11-28,Starbucks,316.94,Meals
+E0118,2024-11-29,LinkedIn,3355.38,Marketing
+E0050,2024-11-29,Zomato,463.42,Meals
+E0119,2024-11-29,Reliance Digital,2748.69,Office Supplies
+E0136,2024-11-29,Zomato,365.06,Meals
+E0077,2024-11-29,Amazon Web Services,1678.65,Software & Subscriptions
+E0132,2024-11-29,Meta,1622.09,Marketing
+E0148,2024-11-29,Chennai Metro,191.17,Local Transport
+E0049,2024-11-29,Jio,1076.83,Telecom & Utilities
+E0045,2024-11-29,BluSmart,177.26,Local Transport
+E0233,2024-11-29,Air India,3345.58,Travel
+E0056,2024-11-29,Domino's,564.04,Meals
+E0083,2024-11-29,ACT Fibernet,914.14,Telecom & Utilities
+E0097,2024-11-29,Meta,1562.34,Marketing
+E0014,2024-11-29,Chennai Metro,586.34,Local Transport
+E0064,2024-11-29,Meta,9628.45,Marketing
+E0246,2024-11-29,Reliance Digital,1235.09,Office Supplies
+E0035,2024-11-29,Rapido,182.62,Local Transport
+E0224,2024-11-29,Vistaprint,451.67,Marketing
+E0217,2024-11-29,BSNL,1374.35,Telecom & Utilities
+E0203,2024-11-29,Canva,5298.61,Marketing
+E0035,2024-11-29,Zomato,2786.37,Client Entertainment
+E0077,2024-11-29,Notion,2884.4,Software & Subscriptions
+E0012,2024-11-29,Google,1945.45,Software & Subscriptions
+E0160,2024-11-29,Rapido,450.95,Local Transport
+E0067,2024-11-29,Cafe Coffee Day,256.52,Meals
+E0004,2024-11-29,Hard Rock Cafe,2345.97,Client Entertainment
+E0146,2024-11-29,The Park,4132.84,Client Entertainment
+E0115,2024-11-29,Vodafone Idea,1364.06,Telecom & Utilities
+E0225,2024-11-29,Airtel,2676.91,Telecom & Utilities
+E0208,2024-11-29,Simplilearn,12944.42,Training & Courses
+E0083,2024-11-29,Vodafone Idea,778.89,Telecom & Utilities
+E0219,2024-11-29,Taj Hotels,1219.8,Client Entertainment
+E0135,2024-11-29,Marriott,2153.71,Accommodation
+E0046,2024-11-29,SpiceJet,981.65,Travel
+E0023,2024-11-29,Croma,1799.51,Office Supplies
+E0224,2024-11-29,Tata Play Fiber,1493.1,Telecom & Utilities
+E0055,2024-11-29,Taj Hotels,3729.82,Accommodation
+E0248,2024-11-29,Zepto Cafe,388.41,Meals
+E0219,2024-11-29,Rapido,279.26,Local Transport
+E0011,2024-11-29,Zepto Cafe,434.57,Meals
+E0038,2024-11-29,Domino's,293.69,Meals
+E0104,2024-11-29,Staples,1291.02,Office Supplies
+E0089,2024-11-29,Taj Hotels,1549.72,Client Entertainment
+E0158,2024-11-29,IndiGo,1710.55,Travel
+E0148,2024-11-29,Atlassian,1019.76,Software & Subscriptions
+E0042,2024-11-29,Tata Play Fiber,598.41,Telecom & Utilities
+E0075,2024-11-29,Udemy,998.23,Training & Courses
+E0139,2024-11-29,GitHub,1665.7,Software & Subscriptions
+E0061,2024-11-29,Ola,423.56,Local Transport
+E0136,2024-11-29,RedBus,2498.49,Travel
+E0148,2024-11-29,Zomato,136.16,Meals
+E0117,2024-11-29,Chennai Metro,883.67,Local Transport
+E0147,2024-11-29,Domino's,437.37,Meals
+E0160,2024-11-29,Swiggy,344.06,Meals
+E0063,2024-11-29,Simplilearn,3155.6,Training & Courses
+E0250,2024-11-29,Swiggy,754.24,Meals
+E0186,2024-11-29,Barbeque Nation,2679.08,Client Entertainment
+E0148,2024-11-29,GitHub,1189.31,Software & Subscriptions
+E0077,2024-11-29,Croma,648.67,Office Supplies
+E0162,2024-11-29,Canva,3967.18,Marketing
+E0083,2024-11-29,Google,1595.47,Software & Subscriptions
+E0091,2024-11-29,Amazon Web Services,1841.43,Software & Subscriptions
+E0138,2024-11-29,ACT Fibernet,908.86,Telecom & Utilities
+E0008,2024-11-29,Notion,15420.36,Software & Subscriptions
+E0233,2024-11-29,Amazon,1165.08,Travel
+E0149,2024-11-29,MakeMyTrip,1741.88,Accommodation
+E0100,2024-11-30,Chennai Metro,650.65,Local Transport
+E0004,2024-11-30,Air India,3646.22,Travel
+E0057,2024-11-30,Swiggy,844.08,Meals
+E0210,2024-11-30,Barbeque Nation,1737.31,Client Entertainment
+E0101,2024-11-30,Uber,302.85,Local Transport
+E0123,2024-11-30,Taj Hotels,997.24,Client Entertainment
+E0136,2024-11-30,SpiceJet,1092.49,Travel
+E0186,2024-11-30,The Park,923.26,Client Entertainment
+E0127,2024-11-30,OYO,5289.42,Accommodation
+E0073,2024-11-30,Namma Yatri,342.93,Local Transport
+E0115,2024-11-30,Zepto Cafe,206.94,Meals
+E0038,2024-11-30,Rapido,2249.02,Local Transport
+E0113,2024-11-30,Coursera,5877.3,Training & Courses
+E0246,2024-11-30,Mailchimp,4379.06,Marketing
+E0233,2024-12-01,Zepto Cafe,438.47,Meals
+E0151,2024-12-01,MakeMyTrip,874.07,Travel
+E0147,2024-12-01,Rapido,481.3,Local Transport
+E0089,2024-12-01,Zomato,3791.02,Client Entertainment
+E0130,2024-12-01,Zepto Cafe,374.9,Meals
+E0097,2024-12-01,Flipkart,3414.89,Training & Courses
+E0127,2024-12-01,Zepto Cafe,242.54,Meals
+E0219,2024-12-01,Ola,512.75,Local Transport
+E0215,2024-12-01,BSNL,1269.34,Telecom & Utilities
+E0084,2024-12-01,Rapido,512.66,Local Transport
+E0074,2024-12-01,Vodafone Idea,5866.23,Telecom & Utilities
+E0174,2024-12-01,BSNL,5538.55,Telecom & Utilities
+E0106,2024-12-02,Atlassian,1356.1,Software & Subscriptions
+E0071,2024-12-02,Zoom,1515.55,Software & Subscriptions
+E0219,2024-12-02,Staples,1216.29,Office Supplies
+E0069,2024-12-02,Jio,808.34,Telecom & Utilities
+E0086,2024-12-02,BSNL,1351.17,Telecom & Utilities
+E0151,2024-12-02,Zomato,429.76,Meals
+E0043,2024-12-02,Reliance Digital,787.69,Office Supplies
+E0033,2024-12-02,BSNL,666.3,Telecom & Utilities
+E0023,2024-12-02,Amazon,544.55,Office Supplies
+E0205,2024-12-02,Udemy,2914.45,Training & Courses
+E0017,2024-12-02,Rapido,535.36,Local Transport
+E0216,2024-12-02,Flipkart,466.31,Office Supplies
+E0190,2024-12-02,Zomato,204.68,Meals
+E0076,2024-12-02,SpiceJet,4156.37,Travel
+E0219,2024-12-02,Uber,311.17,Local Transport
+E0246,2024-12-02,JetBrains,6698.97,Software & Subscriptions
+E0234,2024-12-02,Simplilearn,3117.38,Training & Courses
+E0092,2024-12-02,Amazon,5727.06,Training & Courses
+E0074,2024-12-02,Air India,1234.64,Travel
+E0026,2024-12-02,Airtel,835.84,Telecom & Utilities
+E0226,2024-12-02,Cafe Coffee Day,507.33,Meals
+E0217,2024-12-02,Swiggy,1232.94,Meals
+E0061,2024-12-02,Chennai Metro,581.29,Local Transport
+E0064,2024-12-02,Udemy,4816.05,Training & Courses
+E0011,2024-12-02,Zomato,257.02,Meals
+E0047,2024-12-02,Udemy,6579.84,Training & Courses
+E0218,2024-12-02,Rapido,517.69,Local Transport
+E0011,2024-12-02,Mailchimp,588.48,Marketing
+E0086,2024-12-02,Udemy,3585.65,Training & Courses
+E0070,2024-12-02,Zoom,1281.7,Software & Subscriptions
+E0227,2024-12-02,Moglix,1866.03,Office Supplies
+E0173,2024-12-02,Starbucks,885.14,Meals
+E0127,2024-12-02,BluSmart,500.26,Local Transport
+E0156,2024-12-02,Moglix,1355.93,Office Supplies
+E0198,2024-12-02,SpiceJet,7618.05,Travel
+E0229,2024-12-02,Rapido,277.61,Local Transport
+E0072,2024-12-02,Cafe Coffee Day,387.53,Meals
+E0044,2024-12-02,Reliance Digital,2865.2,Office Supplies
+E0135,2024-12-02,BSNL,797.74,Telecom & Utilities
+E0237,2024-12-02,Staples,2759.25,Office Supplies
+E0234,2024-12-02,Starbucks,275.2,Meals
+E0221,2024-12-02,Amazon,971.92,Office Supplies
+E0191,2024-12-02,Zoom,1155.74,Software & Subscriptions
+E0202,2024-12-02,Vodafone Idea,1158.62,Telecom & Utilities
+E0226,2024-12-02,Cafe Coffee Day,296.36,Meals
+E0092,2024-12-02,Amazon,5727.06,Training & Courses
+E0206,2024-12-02,Domino's,1609.49,Meals
+E0244,2024-12-03,MakeMyTrip,3672.1,Travel
+E0121,2024-12-03,RedBus,3745.79,Travel
+E0197,2024-12-03,Vodafone Idea,507.79,Telecom & Utilities
+E0226,2024-12-03,Namma Yatri,234.35,Local Transport
+E0069,2024-12-03,Namma Yatri,470.35,Local Transport
+E0078,2024-12-03,Swiggy,389.09,Meals
+E0069,2024-12-03,Domino's,533.69,Meals
+E0077,2024-12-03,Tata Play Fiber,774.66,Telecom & Utilities
+E0100,2024-12-03,Marriott,2076.92,Client Entertainment
+E0137,2024-12-03,BluSmart,392.57,Local Transport
+E0092,2024-12-03,MakeMyTrip,3542.47,Travel
+E0136,2024-12-03,Marriott,5546.12,Accommodation
+E0119,2024-12-03,Rapido,110.1,Local Transport
+E0167,2024-12-03,Zomato,1356.83,Meals
+E0215,2024-12-03,SpiceJet,2682.83,Travel
+E0181,2024-12-03,Coursera,1222.57,Training & Courses
+E0069,2024-12-03,Zomato,349.94,Meals
+E0217,2024-12-03,Ola,331.24,Local Transport
+E0226,2024-12-03,Simplilearn,2952.55,Training & Courses
+E0024,2024-12-03,IndiGo,2873.88,Travel
+E0056,2024-12-03,The Park,2340.26,Client Entertainment
+E0048,2024-12-03,Amazon,632.78,Office Supplies
+E0246,2024-12-03,Chennai Metro,450.9,Local Transport
+E0205,2024-12-03,LinkedIn,2708.32,Marketing
+E0227,2024-12-03,Notion,1484.37,Software & Subscriptions
+E0071,2024-12-03,Uber,948.01,Local Transport
+E0063,2024-12-03,Amazon,2963.95,Training & Courses
+E0148,2024-12-03,BSNL,1112.79,Telecom & Utilities
+E0159,2024-12-03,ACT Fibernet,734.47,Telecom & Utilities
+E0221,2024-12-03,Meta,4409.98,Marketing
+E0192,2024-12-03,Udemy,13229.17,Training & Courses
+E0034,2024-12-03,Vodafone Idea,1353.59,Telecom & Utilities
+E0121,2024-12-03,Zomato,480.79,Meals
+E0104,2024-12-03,Uber,607.34,Local Transport
+E0017,2024-12-03,SpiceJet,1922.01,Travel
+E0070,2024-12-03,Staples,1024.33,Office Supplies
+E0112,2024-12-03,MakeMyTrip,2259.67,Accommodation
+E0123,2024-12-03,Airbnb,2350.57,Accommodation
+E0014,2024-12-03,Amazon,822.48,Training & Courses
+E0070,2024-12-03,Simplilearn,1856.16,Training & Courses
+E0096,2024-12-03,Barbeque Nation,1547.17,Client Entertainment
+E0058,2024-12-03,Starbucks,429.68,Meals
+E0064,2024-12-03,Atlassian,2359.26,Software & Subscriptions
+E0122,2024-12-03,Google,2689.45,Software & Subscriptions
+E0146,2024-12-03,Coursera,37875.54,Training & Courses
+E0209,2024-12-04,Treebo,4943.77,Accommodation
+E0054,2024-12-04,Notion,1336.94,Software & Subscriptions
+E0230,2024-12-04,upGrad,6995.25,Training & Courses
+E0175,2024-12-04,Mailchimp,1478.41,Marketing
+E0039,2024-12-04,Vistaprint,3763.84,Marketing
+E0214,2024-12-04,Amazon,3220.61,Training & Courses
+E0149,2024-12-04,Airtel,1638.43,Telecom & Utilities
+E0140,2024-12-04,Air India,26417.59,Travel
+E0084,2024-12-04,Ola,660.81,Local Transport
+E0229,2024-12-04,BSNL,739.3,Telecom & Utilities
+E0216,2024-12-04,Canva,2635.72,Marketing
+E0129,2024-12-04,Airtel,852.92,Telecom & Utilities
+E0046,2024-12-04,JetBrains,2167.19,Software & Subscriptions
+E0160,2024-12-04,Namma Yatri,237.45,Local Transport
+E0190,2024-12-04,Vodafone Idea,763.67,Telecom & Utilities
+E0017,2024-12-04,Barbeque Nation,932.36,Client Entertainment
+E0097,2024-12-04,MakeMyTrip,4938.48,Travel
+E0029,2024-12-04,upGrad,1687.45,Training & Courses
+E0243,2024-12-04,Taj Hotels,447.19,Client Entertainment
+E0030,2024-12-04,Cafe Coffee Day,447.75,Meals
+E0018,2024-12-04,MakeMyTrip,1727.46,Travel
+E0035,2024-12-04,Zepto Cafe,228.48,Meals
+E0149,2024-12-04,Google,5121.82,Marketing
+E0199,2024-12-04,Tata Play Fiber,2423.3,Telecom & Utilities
+E0087,2024-12-04,Canva,3250.92,Marketing
+E0213,2024-12-04,Taj Hotels,6017.55,Accommodation
+E0147,2024-12-04,Amazon,1737.32,Office Supplies
+E0184,2024-12-04,Atlassian,2667.97,Software & Subscriptions
+E0119,2024-12-04,Reliance Digital,1060.47,Office Supplies
+E0026,2024-12-04,LinkedIn,2931.45,Marketing
+E0019,2024-12-04,ACT Fibernet,990.71,Telecom & Utilities
+E0052,2024-12-04,Google,3529.44,Marketing
+E0136,2024-12-04,MakeMyTrip,3611.31,Travel
+E0052,2024-12-04,Mailchimp,4080.54,Marketing
+E0172,2024-12-04,Zoom,2071.39,Software & Subscriptions
+E0221,2024-12-04,Notion,2244.73,Software & Subscriptions
+E0222,2024-12-04,Google,911.86,Software & Subscriptions
+E0230,2024-12-04,Simplilearn,4368.93,Training & Courses
+E0230,2024-12-04,Simplilearn,4756.46,Training & Courses
+E0230,2024-12-04,Simplilearn,4132.41,Training & Courses
+E0193,2024-12-05,Simplilearn,1520.12,Training & Courses
+E0135,2024-12-05,Starbucks,449.08,Meals
+E0209,2024-12-05,Reliance Digital,2811.71,Office Supplies
+E0075,2024-12-05,Amazon,1814.57,Training & Courses
+E0039,2024-12-05,Mailchimp,4007.98,Marketing
+E0098,2024-12-05,RedBus,3962.6,Travel
+E0035,2024-12-05,Croma,602.55,Office Supplies
+E0131,2024-12-05,Coursera,2948.39,Training & Courses
+E0139,2024-12-05,Amazon,4759.0,Training & Courses
+E0076,2024-12-05,Treebo,4402.18,Accommodation
+E0227,2024-12-05,BSNL,1187.23,Telecom & Utilities
+E0046,2024-12-05,Moglix,770.96,Office Supplies
+E0182,2024-12-05,ACT Fibernet,1135.42,Telecom & Utilities
+E0014,2024-12-05,BSNL,881.57,Telecom & Utilities
+E0093,2024-12-05,BSNL,811.05,Telecom & Utilities
+E0144,2024-12-05,Croma,799.28,Office Supplies
+E0091,2024-12-05,Ola,1131.91,Local Transport
+E0070,2024-12-05,Rapido,107.34,Local Transport
+E0235,2024-12-05,SpiceJet,2909.37,Travel
+E0125,2024-12-05,Simplilearn,2872.49,Training & Courses
+E0192,2024-12-05,Microsoft,2740.11,Software & Subscriptions
+E0184,2024-12-05,Zomato,3938.46,Client Entertainment
+E0230,2024-12-05,JetBrains,636.53,Software & Subscriptions
+E0052,2024-12-05,GitHub,1269.57,Software & Subscriptions
+E0100,2024-12-05,Cleartrip,3149.97,Travel
+E0064,2024-12-05,Coursera,10442.02,Training & Courses
+E0171,2024-12-05,Coursera,5801.61,Training & Courses
+E0118,2024-12-05,Airtel,866.17,Telecom & Utilities
+E0001,2024-12-05,IRCTC,2319.72,Travel
+E0001,2024-12-05,SpiceJet,5371.94,Travel
+E0142,2024-12-05,Notion,4487.58,Software & Subscriptions
+E0092,2024-12-05,IRCTC,1896.98,Travel
+E0124,2024-12-05,Microsoft,1286.36,Software & Subscriptions
+E0079,2024-12-05,BluSmart,334.82,Local Transport
+E0021,2024-12-05,Google,2528.16,Software & Subscriptions
+E0064,2024-12-05,Croma,1249.52,Office Supplies
+E0163,2024-12-05,Swiggy,192.03,Meals
+E0011,2024-12-05,Rapido,156.49,Local Transport
+E0205,2024-12-05,Amazon,3320.01,Training & Courses
+E0029,2024-12-05,RedBus,6996.48,Travel
+E0119,2024-12-05,Ola,373.27,Local Transport
+E0011,2024-12-05,Hard Rock Cafe,1831.92,Client Entertainment
+E0035,2024-12-05,BluSmart,353.26,Local Transport
+E0182,2024-12-05,Barbeque Nation,1722.52,Client Entertainment
+E0095,2024-12-05,Air India,2141.75,Travel
+E0106,2024-12-05,Croma,904.42,Office Supplies
+E0048,2024-12-05,Amazon Web Services,2333.2,Software & Subscriptions
+E0119,2024-12-05,Croma,694.37,Office Supplies
+E0030,2024-12-05,Marriott,1865.42,Client Entertainment
+E0052,2024-12-05,Zepto Cafe,591.86,Meals
+E0210,2024-12-05,Airtel,384.68,Telecom & Utilities
+E0170,2024-12-05,Vodafone Idea,467.92,Telecom & Utilities
+E0135,2024-12-05,Starbucks,609.23,Meals
+E0150,2024-12-05,Canva,22345.02,Marketing
+E0206,2024-12-05,BSNL,689.69,Local Transport
+E0114,2024-12-06,Airtel,541.7,Telecom & Utilities
+E0024,2024-12-06,LinkedIn,1533.43,Marketing
+E0052,2024-12-06,Microsoft,3526.79,Software & Subscriptions
+E0060,2024-12-06,Udemy,2974.95,Training & Courses
+E0039,2024-12-06,Croma,1542.12,Office Supplies
+E0086,2024-12-06,Moglix,990.29,Office Supplies
+E0133,2024-12-06,Jio,1777.29,Telecom & Utilities
+E0072,2024-12-06,Airbnb,4754.29,Accommodation
+E0044,2024-12-06,RedBus,3373.22,Travel
+E0060,2024-12-06,GitHub,662.65,Software & Subscriptions
+E0142,2024-12-06,IRCTC,12933.44,Travel
+E0209,2024-12-06,Starbucks,262.8,Meals
+E0190,2024-12-06,Vistaprint,3759.26,Marketing
+E0036,2024-12-06,JetBrains,1502.86,Software & Subscriptions
+E0150,2024-12-06,Canva,5505.95,Marketing
+E0052,2024-12-06,LinkedIn,3086.8,Marketing
+E0056,2024-12-06,Udemy,5842.36,Training & Courses
+E0134,2024-12-06,Marriott,6383.05,Accommodation
+E0012,2024-12-06,Cafe Coffee Day,265.73,Meals
+E0064,2024-12-06,Starbucks,1034.9,Meals
+E0079,2024-12-06,MakeMyTrip,2560.39,Travel
+E0127,2024-12-06,GitHub,437.24,Software & Subscriptions
+E0071,2024-12-06,Udemy,1842.3,Training & Courses
+E0026,2024-12-06,LinkedIn,13350.01,Marketing
+E0075,2024-12-06,Google,2292.74,Software & Subscriptions
+E0160,2024-12-06,upGrad,4143.08,Training & Courses
+E0179,2024-12-06,Udemy,3637.46,Training & Courses
+E0207,2024-12-06,Jio,1490.42,Telecom & Utilities
+E0216,2024-12-06,Barbeque Nation,2571.3,Client Entertainment
+E0059,2024-12-06,Udemy,3667.51,Training & Courses
+E0150,2024-12-06,Swiggy,392.23,Meals
+E0066,2024-12-06,Flipkart,1515.18,Office Supplies
+E0057,2024-12-06,Reliance Digital,1269.86,Office Supplies
+E0087,2024-12-06,Microsoft,2094.86,Software & Subscriptions
+E0215,2024-12-06,upGrad,1909.03,Training & Courses
+E0133,2024-12-06,Zomato,531.41,Meals
+E0226,2024-12-06,Reliance Digital,641.57,Office Supplies
+E0207,2024-12-06,Coursera,18580.25,Training & Courses
+E0023,2024-12-06,Hard Rock Cafe,4214.94,Client Entertainment
+E0023,2024-12-06,Hard Rock Cafe,4373.98,Client Entertainment
+E0165,2024-12-06,Airbnb,5619.55,Client Entertainment
+E0163,2024-12-06,Jio,517.46,Marketing
+E0150,2024-12-07,Starbucks,391.47,Meals
+E0152,2024-12-07,Cafe Coffee Day,359.21,Meals
+E0191,2024-12-07,Chennai Metro,756.15,Local Transport
+E0048,2024-12-07,Amazon Web Services,1832.49,Software & Subscriptions
+E0092,2024-12-07,Microsoft,1970.72,Software & Subscriptions
+E0193,2024-12-07,Zepto Cafe,456.63,Meals
+E0040,2024-12-07,MakeMyTrip,2208.87,Accommodation
+E0115,2024-12-07,Zomato,236.19,Meals
+E0036,2024-12-07,Tata Play Fiber,859.65,Telecom & Utilities
+E0044,2024-12-07,Swiggy,365.57,Meals
+E0192,2024-12-07,Domino's,1000.93,Meals
+E0096,2024-12-07,Ola,273.65,Local Transport
+E0214,2024-12-07,SpiceJet,3089.38,Travel
+E0194,2024-12-07,ACT Fibernet,1152.99,Telecom & Utilities
+E0071,2024-12-07,Rapido,505.11,Local Transport
+E0047,2024-12-07,OYO,5286.11,Accommodation
+E0136,2024-12-07,Taj Hotels,4722.96,Accommodation
+E0169,2024-12-07,Zepto Cafe,642.72,Meals
+E0136,2024-12-07,Taj Hotels,2966.33,Accommodation
+E0237,2024-12-07,Tata Play Fiber,12458.7,Telecom & Utilities
+E0182,2024-12-07,Reliance Digital,6094.5,Office Supplies
+E0187,2024-12-07,GitHub,2653.65,Software & Subscriptions
+E0175,2024-12-07,LinkedIn,4436.26,Marketing
+E0168,2024-12-07,ACT Fibernet,1315.18,Client Entertainment
+E0098,2024-12-08,Zomato,843.34,Meals
+E0227,2024-12-08,Namma Yatri,254.67,Local Transport
+E0156,2024-12-08,SpiceJet,2794.98,Travel
+E0086,2024-12-08,Canva,2163.45,Marketing
+E0028,2024-12-08,Domino's,446.44,Meals
+E0149,2024-12-08,Swiggy,406.57,Meals
+E0039,2024-12-08,Rapido,172.68,Local Transport
+E0072,2024-12-08,BluSmart,107.56,Local Transport
+E0097,2024-12-08,Cafe Coffee Day,678.1,Meals
+E0180,2024-12-08,Barbeque Nation,2265.31,Client Entertainment
+E0049,2024-12-08,Domino's,237.79,Meals
+E0023,2024-12-08,Coursera,4771.57,Training & Courses
+E0205,2024-12-08,Amazon,3320.01,Training & Courses
+E0121,2024-12-08,Airbnb,24935.27,Accommodation
+E0113,2024-12-08,Jio,1579.68,Telecom & Utilities
+E0205,2024-12-09,Zomato,404.72,Meals
+E0047,2024-12-09,Treebo,4097.97,Accommodation
+E0218,2024-12-09,Staples,493.2,Office Supplies
+E0030,2024-12-09,The Park,2804.96,Client Entertainment
+E0194,2024-12-09,Zomato,309.58,Meals
+E0071,2024-12-09,Chennai Metro,178.93,Local Transport
+E0140,2024-12-09,Cleartrip,3693.0,Travel
+E0241,2024-12-09,Mailchimp,1352.33,Marketing
+E0157,2024-12-09,JetBrains,1777.25,Software & Subscriptions
+E0206,2024-12-09,GitHub,645.63,Software & Subscriptions
+E0017,2024-12-09,Swiggy,185.73,Meals
+E0051,2024-12-09,JetBrains,1979.88,Software & Subscriptions
+E0086,2024-12-09,Flipkart,187.72,Office Supplies
+E0192,2024-12-09,Zomato,221.64,Meals
+E0042,2024-12-09,Vodafone Idea,710.04,Telecom & Utilities
+E0046,2024-12-09,Starbucks,291.72,Meals
+E0167,2024-12-09,Staples,2563.95,Office Supplies
+E0228,2024-12-09,Rapido,388.56,Local Transport
+E0169,2024-12-09,Marriott,4192.85,Client Entertainment
+E0101,2024-12-09,Croma,1899.58,Office Supplies
+E0135,2024-12-09,Cafe Coffee Day,602.03,Meals
+E0115,2024-12-09,Moglix,7527.46,Office Supplies
+E0205,2024-12-09,Canva,6176.72,Marketing
+E0040,2024-12-09,Cafe Coffee Day,909.25,Meals
+E0125,2024-12-09,Vodafone Idea,699.43,Telecom & Utilities
+E0046,2024-12-09,Domino's,510.22,Meals
+E0029,2024-12-09,Marriott,3358.63,Client Entertainment
+E0071,2024-12-09,Simplilearn,7991.1,Training & Courses
+E0021,2024-12-09,Jio,538.33,Telecom & Utilities
+E0066,2024-12-09,Google,292.91,Software & Subscriptions
+E0004,2024-12-09,ACT Fibernet,1793.92,Telecom & Utilities
+E0189,2024-12-09,BSNL,982.53,Telecom & Utilities
+E0069,2024-12-09,upGrad,1372.93,Training & Courses
+E0233,2024-12-09,Hard Rock Cafe,5982.08,Client Entertainment
+E0119,2024-12-09,SpiceJet,1237.59,Travel
+E0191,2024-12-09,GitHub,1438.47,Software & Subscriptions
+E0075,2024-12-09,Amazon,1639.55,Training & Courses
+E0092,2024-12-09,Marriott,4977.44,Accommodation
+E0061,2024-12-09,Moglix,5096.65,Office Supplies
+E0218,2024-12-09,Croma,1587.26,Office Supplies
+E0070,2024-12-09,Amazon,327.07,Office Supplies
+E0010,2024-12-09,Chennai Metro,1007.95,Local Transport
+E0073,2024-12-09,BluSmart,417.07,Local Transport
+E0001,2024-12-09,Cafe Coffee Day,667.27,Meals
+E0145,2024-12-09,Tata Play Fiber,746.05,Telecom & Utilities
+E0157,2024-12-09,Cleartrip,9913.06,Travel
+E0209,2024-12-09,Amazon,613.22,Office Supplies
+E0041,2024-12-09,Flipkart,1397.64,Training & Courses
+E0229,2024-12-09,Udemy,2306.86,Training & Courses
+E0117,2024-12-09,Vodafone Idea,1120.04,Telecom & Utilities
+E0079,2024-12-09,Atlassian,1547.81,Software & Subscriptions
+E0039,2024-12-09,Vodafone Idea,984.58,Telecom & Utilities
+E0096,2024-12-09,Ola,273.65,Local Transport
+E0039,2024-12-09,Vodafone Idea,984.58,Telecom & Utilities
+E0120,2024-12-09,Marriott,14967.3,Accommodation
+E0174,2024-12-09,Simplilearn,2130.58,Software & Subscriptions
+E0038,2024-12-10,Barbeque Nation,2534.3,Client Entertainment
+E0083,2024-12-10,SpiceJet,2647.76,Travel
+E0138,2024-12-10,Uber,1005.11,Local Transport
+E0037,2024-12-10,Udemy,1412.23,Training & Courses
+E0129,2024-12-10,Amazon,608.44,Office Supplies
+E0115,2024-12-10,GitHub,1639.38,Software & Subscriptions
+E0039,2024-12-10,Amazon Web Services,1816.05,Software & Subscriptions
+E0162,2024-12-10,Vistaprint,2624.65,Marketing
+E0182,2024-12-10,Barbeque Nation,3630.68,Client Entertainment
+E0033,2024-12-10,Zomato,367.75,Meals
+E0218,2024-12-10,MakeMyTrip,1885.66,Travel
+E0109,2024-12-10,Google,481.98,Software & Subscriptions
+E0039,2024-12-10,Domino's,354.72,Meals
+E0030,2024-12-10,ACT Fibernet,562.88,Telecom & Utilities
+E0171,2024-12-10,Atlassian,1157.15,Software & Subscriptions
+E0009,2024-12-10,Coursera,2683.92,Training & Courses
+E0121,2024-12-10,Croma,534.45,Office Supplies
+E0181,2024-12-10,Namma Yatri,749.66,Local Transport
+E0135,2024-12-10,Simplilearn,2759.09,Training & Courses
+E0061,2024-12-10,Airbnb,7129.3,Accommodation
+E0044,2024-12-10,Rapido,378.79,Local Transport
+E0082,2024-12-10,GitHub,1496.96,Software & Subscriptions
+E0215,2024-12-10,RedBus,4535.04,Travel
+E0004,2024-12-10,Reliance Digital,639.96,Office Supplies
+E0160,2024-12-10,Zomato,254.0,Meals
+E0159,2024-12-10,Zomato,328.28,Meals
+E0086,2024-12-10,Reliance Digital,2433.32,Office Supplies
+E0017,2024-12-10,Airbnb,7961.84,Accommodation
+E0145,2024-12-10,Zoom,2770.08,Software & Subscriptions
+E0018,2024-12-10,Udemy,11490.65,Training & Courses
+E0197,2024-12-10,Google,861.0,Software & Subscriptions
+E0136,2024-12-10,OYO,6748.6,Accommodation
+E0014,2024-12-10,Reliance Digital,1600.86,Office Supplies
+E0032,2024-12-10,Reliance Digital,2090.05,Office Supplies
+E0150,2024-12-10,LinkedIn,2727.97,Marketing
+E0150,2024-12-10,Meta,2322.08,Marketing
+E0110,2024-12-10,Flipkart,4205.45,Office Supplies
+E0096,2024-12-10,Marriott,6312.79,Accommodation
+E0097,2024-12-10,Coursera,1240.8,Training & Courses
+E0005,2024-12-10,Airtel,969.01,Telecom & Utilities
+E0215,2024-12-10,Canva,2172.09,Marketing
+E0092,2024-12-10,The Park,2134.79,Client Entertainment
+E0218,2024-12-10,Zomato,4412.6,Client Entertainment
+E0073,2024-12-10,Airbnb,4833.15,Accommodation
+E0019,2024-12-10,Microsoft,2112.75,Software & Subscriptions
+E0127,2024-12-10,Staples,1129.86,Office Supplies
+E0065,2024-12-10,Tata Play Fiber,421.41,Telecom & Utilities
+E0162,2024-12-10,Amazon Web Services,2839.76,Software & Subscriptions
+E0091,2024-12-10,ACT Fibernet,1126.46,Telecom & Utilities
+E0070,2024-12-10,Atlassian,1851.76,Software & Subscriptions
+E0164,2024-12-10,Zoom,26769.78,Software & Subscriptions
+E0140,2024-12-10,Airtel,1114.18,Marketing
+E0169,2024-12-11,Reliance Digital,231.4,Office Supplies
+E0069,2024-12-11,Flipkart,531.82,Office Supplies
+E0152,2024-12-11,Cleartrip,4195.56,Travel
+E0028,2024-12-11,Zoom,740.27,Software & Subscriptions
+E0089,2024-12-11,upGrad,2574.84,Training & Courses
+E0092,2024-12-11,Notion,1124.64,Software & Subscriptions
+E0044,2024-12-11,Flipkart,735.1,Office Supplies
+E0191,2024-12-11,Cafe Coffee Day,1084.46,Meals
+E0017,2024-12-11,Domino's,483.87,Meals
+E0114,2024-12-11,Ola,727.65,Local Transport
+E0248,2024-12-11,Zoom,471.01,Software & Subscriptions
+E0182,2024-12-11,Croma,3996.39,Office Supplies
+E0036,2024-12-11,Cafe Coffee Day,683.59,Meals
+E0042,2024-12-11,Cafe Coffee Day,463.25,Meals
+E0044,2024-12-11,Cafe Coffee Day,835.06,Meals
+E0034,2024-12-11,Swiggy,704.35,Meals
+E0238,2024-12-11,Amazon,2613.14,Training & Courses
+E0246,2024-12-11,Vistaprint,2762.57,Marketing
+E0237,2024-12-11,Croma,775.28,Office Supplies
+E0039,2024-12-11,Mailchimp,1758.14,Marketing
+E0213,2024-12-11,Jio,2018.05,Telecom & Utilities
+E0139,2024-12-11,Domino's,470.25,Meals
+E0100,2024-12-11,BSNL,1216.79,Telecom & Utilities
+E0151,2024-12-11,Namma Yatri,225.29,Local Transport
+E0079,2024-12-11,Cafe Coffee Day,329.02,Meals
+E0192,2024-12-11,Flipkart,826.18,Office Supplies
+E0150,2024-12-11,SpiceJet,2308.01,Travel
+E0011,2024-12-11,Google,1124.96,Marketing
+E0130,2024-12-11,Notion,3387.82,Software & Subscriptions
+E0066,2024-12-11,Cleartrip,2728.25,Travel
+E0085,2024-12-11,Canva,1430.27,Marketing
+E0125,2024-12-11,BSNL,701.53,Telecom & Utilities
+E0145,2024-12-11,Airtel,615.7,Telecom & Utilities
+E0091,2024-12-11,ACT Fibernet,866.12,Telecom & Utilities
+E0245,2024-12-11,Rapido,432.54,Local Transport
+E0004,2024-12-11,Amazon Web Services,1934.48,Software & Subscriptions
+E0070,2024-12-11,Flipkart,593.65,Office Supplies
+E0192,2024-12-11,Airtel,1354.07,Telecom & Utilities
+E0046,2024-12-11,Zomato,589.32,Meals
+E0060,2024-12-11,Simplilearn,2723.44,Training & Courses
+E0240,2024-12-11,Zoom,1306.39,Software & Subscriptions
+E0203,2024-12-11,Mailchimp,1440.21,Marketing
+E0173,2024-12-11,Ola,250.75,Local Transport
+E0061,2024-12-11,Tata Play Fiber,754.07,Telecom & Utilities
+E0131,2024-12-11,Swiggy,162.81,Meals
+E0074,2024-12-11,Croma,1398.51,Office Supplies
+E0238,2024-12-11,Vodafone Idea,791.06,Telecom & Utilities
+E0088,2024-12-11,RedBus,2212.33,Travel
+E0202,2024-12-11,Chennai Metro,182.97,Local Transport
+E0086,2024-12-11,Coursera,4115.49,Training & Courses
+E0069,2024-12-11,Rapido,106.7,Local Transport
+E0246,2024-12-11,Google,3004.79,Software & Subscriptions
+E0198,2024-12-11,Hard Rock Cafe,2281.15,Client Entertainment
+E0233,2024-12-11,Canva,1477.08,Marketing
+E0218,2024-12-11,Zepto Cafe,729.06,Meals
+E0002,2024-12-11,Meta,957.83,Marketing
+E0008,2024-12-11,Mailchimp,2451.52,Marketing
+E0192,2024-12-11,Flipkart,522.98,Office Supplies
+E0151,2024-12-12,GitHub,1656.66,Software & Subscriptions
+E0071,2024-12-12,Moglix,1010.72,Office Supplies
+E0137,2024-12-12,Croma,1654.45,Office Supplies
+E0202,2024-12-12,JetBrains,1476.31,Software & Subscriptions
+E0192,2024-12-12,Udemy,3828.69,Training & Courses
+E0136,2024-12-12,Croma,1565.61,Office Supplies
+E0119,2024-12-12,RedBus,6295.06,Travel
+E0077,2024-12-12,Amazon,3287.87,Training & Courses
+E0046,2024-12-12,Zomato,132.0,Meals
+E0011,2024-12-12,Amazon,4263.0,Training & Courses
+E0028,2024-12-12,Google,2527.48,Software & Subscriptions
+E0069,2024-12-12,Google,5700.73,Marketing
+E0074,2024-12-12,Coursera,1292.23,Training & Courses
+E0216,2024-12-12,Vistaprint,999.76,Marketing
+E0130,2024-12-12,SpiceJet,2769.5,Travel
+E0046,2024-12-12,BSNL,847.32,Telecom & Utilities
+E0233,2024-12-12,Marriott,3054.67,Accommodation
+E0156,2024-12-12,BSNL,796.95,Telecom & Utilities
+E0100,2024-12-12,Rapido,345.86,Local Transport
+E0151,2024-12-12,Marriott,5292.17,Accommodation
+E0057,2024-12-12,BSNL,923.39,Telecom & Utilities
+E0156,2024-12-12,Zomato,530.64,Meals
+E0190,2024-12-12,BSNL,596.59,Telecom & Utilities
+E0067,2024-12-12,upGrad,4661.93,Training & Courses
+E0136,2024-12-12,Cafe Coffee Day,846.63,Meals
+E0055,2024-12-12,BSNL,358.8,Telecom & Utilities
+E0070,2024-12-12,Reliance Digital,2885.26,Office Supplies
+E0092,2024-12-12,BSNL,1248.96,Telecom & Utilities
+E0171,2024-12-12,Microsoft,282.68,Software & Subscriptions
+E0038,2024-12-12,Ola,504.85,Local Transport
+E0012,2024-12-12,Chennai Metro,92.92,Local Transport
+E0089,2024-12-12,Simplilearn,2082.59,Training & Courses
+E0140,2024-12-12,Chennai Metro,270.7,Local Transport
+E0067,2024-12-12,Zoom,2256.26,Software & Subscriptions
+E0064,2024-12-12,Google,12068.7,Software & Subscriptions
+E0111,2024-12-12,Flipkart,351.39,Office Supplies
+E0126,2024-12-12,Swiggy,534.6,Meals
+E0226,2024-12-12,Zoom,416.72,Software & Subscriptions
+E0012,2024-12-12,Air India,2993.53,Travel
+E0042,2024-12-12,Zoom,1496.7,Software & Subscriptions
+E0178,2024-12-12,Airtel,566.56,Telecom & Utilities
+E0135,2024-12-12,Amazon Web Services,3127.43,Software & Subscriptions
+E0169,2024-12-12,Coursera,5987.91,Training & Courses
+E0044,2024-12-12,Croma,224.45,Office Supplies
+E0038,2024-12-12,Atlassian,1326.75,Software & Subscriptions
+E0110,2024-12-12,Mailchimp,10202.51,Marketing
+E0069,2024-12-12,Flipkart,956.03,Training & Courses
+E0046,2024-12-12,SpiceJet,1825.08,Travel
+E0012,2024-12-12,Coursera,1370.93,Training & Courses
+E0248,2024-12-12,Atlassian,1209.62,Software & Subscriptions
+E0120,2024-12-12,Amazon Web Services,356.22,Software & Subscriptions
+E0140,2024-12-12,Chennai Metro,478.46,Local Transport
+E0182,2024-12-12,Croma,3996.39,Office Supplies
+E0088,2024-12-12,Reliance Digital,4830.66,Office Supplies
+E0088,2024-12-12,Reliance Digital,4432.07,Office Supplies
+E0177,2024-12-13,IndiGo,2683.39,Travel
+E0083,2024-12-13,Amazon,3597.51,Training & Courses
+E0052,2024-12-13,Cafe Coffee Day,518.22,Meals
+E0091,2024-12-13,upGrad,1988.43,Training & Courses
+E0088,2024-12-13,upGrad,4627.92,Training & Courses
+E0151,2024-12-13,Mailchimp,5364.19,Marketing
+E0028,2024-12-13,Meta,1189.64,Marketing
+E0229,2024-12-13,upGrad,1205.41,Training & Courses
+E0086,2024-12-13,Hard Rock Cafe,4887.77,Client Entertainment
+E0018,2024-12-13,Atlassian,816.48,Software & Subscriptions
+E0044,2024-12-13,MakeMyTrip,5203.96,Accommodation
+E0023,2024-12-13,Airtel,569.35,Telecom & Utilities
+E0037,2024-12-13,Uber,453.32,Local Transport
+E0026,2024-12-13,Zomato,1679.09,Client Entertainment
+E0180,2024-12-13,Notion,880.91,Software & Subscriptions
+E0167,2024-12-13,Amazon,7948.22,Training & Courses
+E0036,2024-12-13,Zomato,254.29,Meals
+E0181,2024-12-13,Starbucks,777.12,Meals
+E0069,2024-12-13,OYO,1856.47,Accommodation
+E0162,2024-12-13,Canva,3354.46,Marketing
+E0134,2024-12-13,Airtel,856.56,Telecom & Utilities
+E0240,2024-12-13,Atlassian,769.75,Software & Subscriptions
+E0216,2024-12-13,Marriott,2340.65,Accommodation
+E0227,2024-12-13,GitHub,1294.83,Software & Subscriptions
+E0112,2024-12-13,Cleartrip,3613.05,Travel
+E0181,2024-12-13,Namma Yatri,169.5,Local Transport
+E0117,2024-12-13,Uber,548.91,Local Transport
+E0198,2024-12-13,Rapido,690.07,Local Transport
+E0051,2024-12-13,Starbucks,696.61,Meals
+E0218,2024-12-13,Marriott,2792.74,Accommodation
+E0092,2024-12-13,Airtel,1632.71,Telecom & Utilities
+E0221,2024-12-13,JetBrains,1877.98,Software & Subscriptions
+E0207,2024-12-13,Microsoft,914.55,Software & Subscriptions
+E0229,2024-12-13,Swiggy,519.61,Meals
+E0021,2024-12-13,Marriott,5530.3,Accommodation
+E0234,2024-12-13,Uber,105.48,Local Transport
+E0233,2024-12-13,Marriott,2057.85,Client Entertainment
+E0041,2024-12-13,Simplilearn,2005.63,Training & Courses
+E0155,2024-12-13,Flipkart,3752.93,Training & Courses
+E0182,2024-12-14,Zomato,115.18,Meals
+E0047,2024-12-14,Namma Yatri,223.17,Local Transport
+E0182,2024-12-14,Domino's,346.41,Meals
+E0057,2024-12-14,Zomato,1483.84,Meals
+E0150,2024-12-14,BluSmart,649.61,Local Transport
+E0048,2024-12-14,Cleartrip,2347.81,Travel
+E0047,2024-12-14,Rapido,272.32,Local Transport
+E0209,2024-12-14,Treebo,5974.79,Accommodation
+E0046,2024-12-14,Staples,1069.24,Office Supplies
+E0188,2024-12-14,Zomato,765.16,Client Entertainment
+E0041,2024-12-14,Meta,4569.01,Marketing
+E0047,2024-12-14,Rapido,476.52,Local Transport
+E0027,2024-12-14,BluSmart,3795.02,Local Transport
+E0064,2024-12-14,Udemy,48077.68,Training & Courses
+E0186,2024-12-14,Udemy,9936.63,Training & Courses
+E0209,2024-12-14,Google,2943.34,Software & Subscriptions
+E0210,2024-12-14,Amazon,1678.99,Office Supplies
+E0185,2024-12-15,Coursera,4815.47,Training & Courses
+E0158,2024-12-15,Uber,715.04,Local Transport
+E0192,2024-12-15,Ola,249.94,Local Transport
+E0181,2024-12-15,SpiceJet,2041.03,Travel
+E0002,2024-12-15,GitHub,1847.88,Software & Subscriptions
+E0146,2024-12-15,Zepto Cafe,557.3,Meals
+E0228,2024-12-15,Uber,640.59,Local Transport
+E0106,2024-12-15,Chennai Metro,351.23,Local Transport
+E0219,2024-12-15,Domino's,385.69,Meals
+E0227,2024-12-15,MakeMyTrip,5167.41,Travel
+E0021,2024-12-15,Barbeque Nation,2151.66,Client Entertainment
+E0213,2024-12-15,Zepto Cafe,808.04,Meals
+E0205,2024-12-15,Domino's,194.3,Meals
+E0194,2024-12-15,Google,4321.05,Software & Subscriptions
+E0206,2024-12-15,Vodafone Idea,670.05,Software & Subscriptions
+E0209,2024-12-16,Cleartrip,5894.06,Travel
+E0142,2024-12-16,Flipkart,2739.99,Office Supplies
+E0073,2024-12-16,Uber,96.28,Local Transport
+E0148,2024-12-16,Zepto Cafe,394.57,Meals
+E0046,2024-12-16,IRCTC,1346.31,Travel
+E0074,2024-12-16,Domino's,973.68,Meals
+E0109,2024-12-16,Atlassian,485.12,Software & Subscriptions
+E0121,2024-12-16,BSNL,1637.39,Telecom & Utilities
+E0125,2024-12-16,Amazon,4531.21,Training & Courses
+E0218,2024-12-16,Marriott,4557.16,Accommodation
+E0100,2024-12-16,Staples,710.4,Office Supplies
+E0104,2024-12-16,Zepto Cafe,319.64,Meals
+E0125,2024-12-16,Zomato,423.06,Meals
+E0169,2024-12-16,upGrad,1257.12,Training & Courses
+E0105,2024-12-16,Udemy,1058.67,Training & Courses
+E0192,2024-12-16,Notion,1960.51,Software & Subscriptions
+E0166,2024-12-16,Tata Play Fiber,1356.39,Telecom & Utilities
+E0202,2024-12-16,Ola,608.98,Local Transport
+E0145,2024-12-16,Reliance Digital,1086.5,Office Supplies
+E0226,2024-12-16,Taj Hotels,5581.76,Accommodation
+E0003,2024-12-16,Coursera,1896.04,Training & Courses
+E0227,2024-12-16,Swiggy,414.39,Meals
+E0178,2024-12-16,Marriott,3715.34,Accommodation
+E0050,2024-12-16,Barbeque Nation,2767.55,Client Entertainment
+E0011,2024-12-16,BSNL,533.88,Telecom & Utilities
+E0123,2024-12-16,Domino's,289.58,Meals
+E0204,2024-12-16,Amazon Web Services,1914.32,Software & Subscriptions
+E0217,2024-12-16,Amazon,6066.5,Training & Courses
+E0083,2024-12-16,BSNL,1046.47,Telecom & Utilities
+E0150,2024-12-16,Meta,2055.25,Marketing
+E0056,2024-12-16,Swiggy,327.7,Meals
+E0126,2024-12-16,Rapido,504.51,Local Transport
+E0064,2024-12-16,Atlassian,1685.19,Software & Subscriptions
+E0209,2024-12-16,Ola,298.27,Local Transport
+E0070,2024-12-16,Tata Play Fiber,917.75,Telecom & Utilities
+E0170,2024-12-16,IRCTC,1651.43,Travel
+E0079,2024-12-16,Flipkart,1228.06,Office Supplies
+E0173,2024-12-16,Reliance Digital,968.36,Office Supplies
+E0054,2024-12-16,Cleartrip,4929.12,Travel
+E0023,2024-12-16,Reliance Digital,1043.33,Office Supplies
+E0092,2024-12-16,Tata Play Fiber,668.28,Telecom & Utilities
+E0168,2024-12-16,Zomato,1518.64,Meals
+E0239,2024-12-16,Canva,5767.28,Marketing
+E0125,2024-12-16,Croma,1408.0,Office Supplies
+E0017,2024-12-16,BSNL,440.3,Telecom & Utilities
+E0100,2024-12-16,Notion,1255.99,Software & Subscriptions
+E0121,2024-12-16,Atlassian,500.88,Software & Subscriptions
+E0142,2024-12-16,Cleartrip,26506.31,Travel
+E0062,2024-12-16,Marriott,4815.53,Client Entertainment
+E0062,2024-12-16,Marriott,4855.83,Client Entertainment
+E0044,2024-12-17,Google,2301.61,Software & Subscriptions
+E0031,2024-12-17,MakeMyTrip,4265.29,Accommodation
+E0132,2024-12-17,Swiggy,530.66,Meals
+E0171,2024-12-17,Amazon,4111.16,Training & Courses
+E0200,2024-12-17,LinkedIn,1897.56,Marketing
+E0052,2024-12-17,Zomato,712.19,Meals
+E0140,2024-12-17,Simplilearn,5507.34,Training & Courses
+E0115,2024-12-17,Rapido,436.11,Local Transport
+E0179,2024-12-17,Starbucks,887.38,Meals
+E0064,2024-12-17,Amazon,610.53,Office Supplies
+E0135,2024-12-17,Cafe Coffee Day,331.0,Meals
+E0215,2024-12-17,Coursera,4354.5,Training & Courses
+E0173,2024-12-17,Flipkart,1016.26,Office Supplies
+E0077,2024-12-17,Treebo,5413.94,Accommodation
+E0031,2024-12-17,Simplilearn,1832.21,Training & Courses
+E0105,2024-12-17,Marriott,5570.97,Accommodation
+E0075,2024-12-17,Zoom,1438.77,Software & Subscriptions
+E0091,2024-12-17,Zepto Cafe,905.9,Meals
+E0189,2024-12-17,GitHub,1444.28,Software & Subscriptions
+E0127,2024-12-17,Barbeque Nation,1530.41,Client Entertainment
+E0115,2024-12-17,Marriott,1812.4,Client Entertainment
+E0102,2024-12-17,Air India,2265.4,Travel
+E0064,2024-12-17,Airtel,2246.51,Telecom & Utilities
+E0231,2024-12-17,Ola,247.47,Local Transport
+E0209,2024-12-17,MakeMyTrip,4642.1,Accommodation
+E0029,2024-12-17,Coursera,1295.41,Training & Courses
+E0132,2024-12-17,Starbucks,305.71,Meals
+E0036,2024-12-17,Atlassian,678.52,Software & Subscriptions
+E0112,2024-12-17,The Park,2493.88,Client Entertainment
+E0039,2024-12-17,Cleartrip,2590.24,Travel
+E0127,2024-12-17,Simplilearn,3929.26,Training & Courses
+E0135,2024-12-17,Amazon,1766.63,Office Supplies
+E0108,2024-12-17,Notion,1781.15,Software & Subscriptions
+E0184,2024-12-17,Marriott,3339.78,Client Entertainment
+E0166,2024-12-17,Domino's,453.22,Meals
+E0101,2024-12-17,Meta,2188.53,Marketing
+E0218,2024-12-17,Air India,4689.82,Travel
+E0097,2024-12-17,JetBrains,1569.91,Software & Subscriptions
+E0055,2024-12-17,ACT Fibernet,574.15,Telecom & Utilities
+E0090,2024-12-17,Coursera,2270.13,Training & Courses
+E0194,2024-12-17,Simplilearn,1985.95,Training & Courses
+E0148,2024-12-17,Zomato,423.23,Meals
+E0125,2024-12-17,Moglix,627.06,Office Supplies
+E0249,2024-12-17,LinkedIn,1600.07,Marketing
+E0157,2024-12-17,Airbnb,7113.69,Accommodation
+E0102,2024-12-17,Zoom,670.54,Software & Subscriptions
+E0052,2024-12-17,Canva,2586.56,Marketing
+E0109,2024-12-17,Uber,146.44,Local Transport
+E0163,2024-12-17,Marriott,1641.91,Client Entertainment
+E0188,2024-12-17,Google,444.18,Software & Subscriptions
+E0043,2024-12-17,Amazon Web Services,1535.53,Software & Subscriptions
+E0217,2024-12-17,ACT Fibernet,1754.31,Telecom & Utilities
+E0020,2024-12-17,upGrad,34733.46,Training & Courses
+E0017,2024-12-18,The Park,3362.27,Client Entertainment
+E0031,2024-12-18,Chennai Metro,282.54,Local Transport
+E0120,2024-12-18,Notion,718.72,Software & Subscriptions
+E0130,2024-12-18,Meta,1784.12,Marketing
+E0087,2024-12-18,Google,3455.29,Marketing
+E0210,2024-12-18,Microsoft,669.75,Software & Subscriptions
+E0008,2024-12-18,Google,4448.16,Marketing
+E0015,2024-12-18,BSNL,688.88,Telecom & Utilities
+E0011,2024-12-18,Vistaprint,1331.42,Marketing
+E0209,2024-12-18,Flipkart,859.76,Office Supplies
+E0197,2024-12-18,Amazon,1485.08,Office Supplies
+E0136,2024-12-18,The Park,2950.28,Client Entertainment
+E0079,2024-12-18,upGrad,2753.08,Training & Courses
+E0051,2024-12-18,Reliance Digital,1785.64,Office Supplies
+E0003,2024-12-18,ACT Fibernet,612.92,Telecom & Utilities
+E0014,2024-12-18,Simplilearn,1337.29,Training & Courses
+E0106,2024-12-18,Rapido,246.02,Local Transport
+E0056,2024-12-18,RedBus,3921.55,Travel
+E0085,2024-12-18,Mailchimp,1534.8,Marketing
+E0044,2024-12-18,Notion,1796.67,Software & Subscriptions
+E0191,2024-12-18,Coursera,5893.68,Training & Courses
+E0125,2024-12-18,BSNL,472.08,Telecom & Utilities
+E0063,2024-12-18,Amazon Web Services,498.92,Software & Subscriptions
+E0171,2024-12-18,Atlassian,1014.69,Software & Subscriptions
+E0219,2024-12-18,Moglix,945.37,Office Supplies
+E0017,2024-12-18,Hard Rock Cafe,1921.52,Client Entertainment
+E0131,2024-12-18,Amazon,983.48,Training & Courses
+E0226,2024-12-18,Zomato,327.4,Meals
+E0092,2024-12-18,ACT Fibernet,1568.47,Telecom & Utilities
+E0069,2024-12-18,Reliance Digital,659.89,Office Supplies
+E0086,2024-12-18,Meta,2016.15,Marketing
+E0135,2024-12-18,Barbeque Nation,1440.49,Client Entertainment
+E0221,2024-12-18,Zomato,4928.3,Client Entertainment
+E0225,2024-12-18,Amazon Web Services,1647.32,Software & Subscriptions
+E0227,2024-12-18,Zomato,2006.56,Client Entertainment
+E0037,2024-12-18,Chennai Metro,176.56,Local Transport
+E0181,2024-12-18,Tata Play Fiber,985.71,Telecom & Utilities
+E0218,2024-12-18,Croma,689.28,Office Supplies
+E0123,2024-12-18,Cafe Coffee Day,165.61,Meals
+E0139,2024-12-18,Flipkart,5678.53,Training & Courses
+E0012,2024-12-18,Atlassian,1371.03,Software & Subscriptions
+E0128,2024-12-18,BluSmart,284.65,Local Transport
+E0214,2024-12-18,Marriott,2260.87,Accommodation
+E0150,2024-12-18,Uber,444.96,Local Transport
+E0125,2024-12-18,Amazon,1592.14,Training & Courses
+E0136,2024-12-18,Amazon,1154.68,Office Supplies
+E0150,2024-12-18,Flipkart,5347.19,Training & Courses
+E0035,2024-12-18,Reliance Digital,1180.36,Office Supplies
+E0152,2024-12-18,Jio,919.61,Telecom & Utilities
+E0046,2024-12-18,Reliance Digital,763.82,Office Supplies
+E0221,2024-12-18,Zoom,1126.28,Software & Subscriptions
+E0123,2024-12-18,Barbeque Nation,929.8,Client Entertainment
+E0097,2024-12-18,LinkedIn,4789.58,Marketing
+E0219,2024-12-18,Ola,381.14,Local Transport
+E0149,2024-12-18,Marriott,1441.5,Client Entertainment
+E0173,2024-12-18,ACT Fibernet,643.42,Telecom & Utilities
+E0117,2024-12-18,Notion,3444.03,Software & Subscriptions
+E0040,2024-12-18,Microsoft,988.3,Software & Subscriptions
+E0075,2024-12-18,Zoom,1438.77,Software & Subscriptions
+E0089,2024-12-18,BSNL,8670.26,Telecom & Utilities
+E0187,2024-12-18,Notion,4298.13,Software & Subscriptions
+E0187,2024-12-18,Notion,4843.09,Software & Subscriptions
+E0187,2024-12-18,Notion,4878.14,Software & Subscriptions
+E0190,2024-12-18,LinkedIn,1040.14,Travel
+E0107,2024-12-19,Amazon,863.03,Training & Courses
+E0136,2024-12-19,LinkedIn,8880.58,Marketing
+E0224,2024-12-19,Jio,615.99,Telecom & Utilities
+E0140,2024-12-19,Uber,161.35,Local Transport
+E0133,2024-12-19,Meta,2475.11,Marketing
+E0092,2024-12-19,Air India,5512.79,Travel
+E0038,2024-12-19,Air India,6001.49,Travel
+E0020,2024-12-19,IndiGo,1993.77,Travel
+E0206,2024-12-19,Zomato,196.02,Meals
+E0194,2024-12-19,BSNL,1202.69,Telecom & Utilities
+E0109,2024-12-19,Airtel,617.09,Telecom & Utilities
+E0069,2024-12-19,Vodafone Idea,698.39,Telecom & Utilities
+E0128,2024-12-19,Staples,1334.06,Office Supplies
+E0145,2024-12-19,Udemy,2703.0,Training & Courses
+E0173,2024-12-19,Meta,1668.88,Marketing
+E0220,2024-12-19,Coursera,8718.26,Training & Courses
+E0017,2024-12-19,ACT Fibernet,478.78,Telecom & Utilities
+E0225,2024-12-19,Amazon Web Services,976.07,Software & Subscriptions
+E0100,2024-12-19,Flipkart,1535.91,Training & Courses
+E0034,2024-12-19,Reliance Digital,3707.16,Office Supplies
+E0077,2024-12-19,Flipkart,1464.5,Office Supplies
+E0151,2024-12-19,Marriott,5235.8,Accommodation
+E0245,2024-12-19,Jio,1006.07,Telecom & Utilities
+E0080,2024-12-19,Swiggy,502.13,Meals
+E0182,2024-12-19,Coursera,4376.39,Training & Courses
+E0178,2024-12-19,Hard Rock Cafe,2036.51,Client Entertainment
+E0053,2024-12-19,Canva,1388.24,Marketing
+E0165,2024-12-19,Moglix,740.27,Office Supplies
+E0198,2024-12-19,Air India,2772.73,Travel
+E0118,2024-12-19,Flipkart,9143.69,Training & Courses
+E0046,2024-12-19,Taj Hotels,4133.02,Accommodation
+E0215,2024-12-19,Barbeque Nation,1333.61,Client Entertainment
+E0087,2024-12-19,Meta,1301.45,Marketing
+E0189,2024-12-19,GitHub,7513.58,Software & Subscriptions
+E0040,2024-12-19,OYO,2353.07,Accommodation
+E0132,2024-12-19,Namma Yatri,183.27,Local Transport
+E0075,2024-12-19,Swiggy,994.97,Meals
+E0063,2024-12-19,Amazon Web Services,1505.33,Software & Subscriptions
+E0245,2024-12-19,Amazon,2400.94,Training & Courses
+E0192,2024-12-19,Vodafone Idea,567.99,Telecom & Utilities
+E0136,2024-12-19,Cleartrip,3578.14,Travel
+E0025,2024-12-19,Amazon Web Services,717.47,Software & Subscriptions
+E0025,2024-12-19,Zomato,929.46,Meals
+E0136,2024-12-19,Domino's,577.79,Meals
+E0217,2024-12-19,Swiggy,1405.63,Meals
+E0200,2024-12-19,Zoom,998.93,Software & Subscriptions
+E0174,2024-12-19,Reliance Digital,490.16,Office Supplies
+E0227,2024-12-19,ACT Fibernet,1342.57,Telecom & Utilities
+E0017,2024-12-19,BluSmart,631.65,Local Transport
+E0085,2024-12-19,Starbucks,124.1,Meals
+E0048,2024-12-19,Staples,1354.59,Office Supplies
+E0112,2024-12-19,Vodafone Idea,843.78,Telecom & Utilities
+E0171,2024-12-19,Air India,1787.1,Travel
+E0140,2024-12-19,Flipkart,401.9,Office Supplies
+E0190,2024-12-19,Rapido,631.29,Local Transport
+E0140,2024-12-19,Tata Play Fiber,741.11,Telecom & Utilities
+E0194,2024-12-19,The Park,4392.96,Client Entertainment
+E0177,2024-12-19,JetBrains,780.92,Software & Subscriptions
+E0235,2024-12-19,Google,630.58,Software & Subscriptions
+E0075,2024-12-19,Zomato,5659.87,Meals
+E0228,2024-12-20,Rapido,205.61,Local Transport
+E0224,2024-12-20,Croma,892.59,Office Supplies
+E0171,2024-12-20,BSNL,470.13,Telecom & Utilities
+E0121,2024-12-20,Coursera,811.67,Training & Courses
+E0069,2024-12-20,Coursera,1303.99,Training & Courses
+E0008,2024-12-20,Staples,479.95,Office Supplies
+E0096,2024-12-20,Starbucks,594.34,Meals
+E0083,2024-12-20,Air India,3598.42,Travel
+E0234,2024-12-20,Tata Play Fiber,636.89,Telecom & Utilities
+E0214,2024-12-20,Staples,1471.31,Office Supplies
+E0010,2024-12-20,Ola,182.97,Local Transport
+E0034,2024-12-20,Flipkart,1687.4,Office Supplies
+E0183,2024-12-20,Zomato,1990.91,Client Entertainment
+E0191,2024-12-20,MakeMyTrip,1561.13,Travel
+E0234,2024-12-20,Marriott,1335.51,Client Entertainment
+E0156,2024-12-20,OYO,9105.74,Accommodation
+E0149,2024-12-20,Flipkart,5564.36,Training & Courses
+E0210,2024-12-20,OYO,1569.33,Accommodation
+E0192,2024-12-20,Taj Hotels,1865.89,Client Entertainment
+E0072,2024-12-20,Vodafone Idea,906.9,Telecom & Utilities
+E0147,2024-12-20,Airbnb,6903.07,Accommodation
+E0200,2024-12-20,Microsoft,1128.9,Software & Subscriptions
+E0076,2024-12-20,Flipkart,6536.4,Training & Courses
+E0148,2024-12-20,upGrad,4545.16,Training & Courses
+E0127,2024-12-20,Amazon,2593.59,Training & Courses
+E0163,2024-12-20,Rapido,204.11,Local Transport
+E0146,2024-12-20,Uber,520.75,Local Transport
+E0072,2024-12-20,Croma,1027.25,Office Supplies
+E0106,2024-12-20,Taj Hotels,11254.84,Accommodation
+E0135,2024-12-20,Treebo,2320.82,Accommodation
+E0051,2024-12-20,Swiggy,350.3,Meals
+E0036,2024-12-20,Staples,497.14,Office Supplies
+E0214,2024-12-20,Flipkart,1005.76,Training & Courses
+E0107,2024-12-20,Jio,358.63,Telecom & Utilities
+E0038,2024-12-20,Starbucks,940.1,Meals
+E0177,2024-12-20,Marriott,601.86,Client Entertainment
+E0215,2024-12-20,Staples,1101.15,Office Supplies
+E0069,2024-12-20,ACT Fibernet,944.23,Telecom & Utilities
+E0166,2024-12-20,Zoom,4790.85,Software & Subscriptions
+E0004,2024-12-20,Flipkart,2214.46,Office Supplies
+E0014,2024-12-20,BSNL,1083.32,Telecom & Utilities
+E0053,2024-12-20,LinkedIn,1915.15,Marketing
+E0188,2024-12-20,Rapido,373.47,Local Transport
+E0171,2024-12-20,Swiggy,635.03,Meals
+E0017,2024-12-20,Microsoft,489.16,Software & Subscriptions
+E0092,2024-12-20,Coursera,3095.51,Training & Courses
+E0150,2024-12-20,Cafe Coffee Day,488.3,Meals
+E0136,2024-12-20,Ola,342.22,Local Transport
+E0101,2024-12-20,Google,743.9,Software & Subscriptions
+E0223,2024-12-20,Notion,1217.29,Software & Subscriptions
+E0205,2024-12-21,Barbeque Nation,1519.93,Client Entertainment
+E0077,2024-12-21,Airtel,885.59,Telecom & Utilities
+E0207,2024-12-21,Rapido,393.5,Local Transport
+E0246,2024-12-21,Domino's,1114.19,Meals
+E0219,2024-12-21,Namma Yatri,170.78,Local Transport
+E0077,2024-12-21,SpiceJet,4091.41,Travel
+E0006,2024-12-21,Domino's,904.33,Meals
+E0004,2024-12-21,BluSmart,341.75,Local Transport
+E0151,2024-12-21,Marriott,2213.43,Client Entertainment
+E0192,2024-12-21,Chennai Metro,304.19,Local Transport
+E0219,2024-12-21,Swiggy,240.64,Meals
+E0092,2024-12-21,MakeMyTrip,5413.76,Accommodation
+E0141,2024-12-22,Chennai Metro,375.93,Local Transport
+E0236,2024-12-22,Rapido,358.18,Local Transport
+E0078,2024-12-22,Swiggy,412.79,Meals
+E0169,2024-12-22,Microsoft,618.92,Software & Subscriptions
+E0084,2024-12-22,Starbucks,782.73,Meals
+E0027,2024-12-22,Flipkart,967.03,Office Supplies
+E0076,2024-12-22,SpiceJet,6026.86,Travel
+E0202,2024-12-22,BluSmart,269.41,Local Transport
+E0031,2024-12-22,Namma Yatri,153.72,Local Transport
+E0091,2024-12-22,GitHub,1204.37,Software & Subscriptions
+E0083,2024-12-22,Airbnb,4273.62,Accommodation
+E0173,2024-12-22,LinkedIn,689.9,Marketing
+E0004,2024-12-22,IndiGo,1779.67,Travel
+E0178,2024-12-22,Chennai Metro,217.77,Local Transport
+E0178,2024-12-22,Rapido,172.77,Local Transport
+E0029,2024-12-22,Cafe Coffee Day,298.8,Meals
+E0021,2024-12-22,Uber,251.83,Local Transport
+E0077,2024-12-22,SpiceJet,1050.81,Travel
+E0209,2024-12-22,Ola,182.71,Local Transport
+E0026,2024-12-22,Meta,7068.06,Marketing
+E0039,2024-12-22,JetBrains,2902.42,Software & Subscriptions
+E0195,2024-12-22,Jio,2434.25,Telecom & Utilities
+E0011,2024-12-23,OYO,3285.89,Accommodation
+E0210,2024-12-23,BluSmart,346.01,Local Transport
+E0104,2024-12-23,Namma Yatri,775.5,Local Transport
+E0053,2024-12-23,Vistaprint,605.65,Marketing
+E0093,2024-12-23,Moglix,1242.12,Office Supplies
+E0035,2024-12-23,Starbucks,485.72,Meals
+E0083,2024-12-23,Jio,1416.52,Telecom & Utilities
+E0014,2024-12-23,Moglix,1739.18,Office Supplies
+E0105,2024-12-23,Jio,1072.56,Telecom & Utilities
+E0119,2024-12-23,Staples,1366.46,Office Supplies
+E0178,2024-12-23,IRCTC,1823.66,Travel
+E0038,2024-12-23,Swiggy,365.57,Meals
+E0014,2024-12-23,Moglix,279.54,Office Supplies
+E0021,2024-12-23,Vistaprint,1866.93,Marketing
+E0025,2024-12-23,Airtel,1146.88,Telecom & Utilities
+E0096,2024-12-23,Uber,139.43,Local Transport
+E0132,2024-12-23,Notion,618.24,Software & Subscriptions
+E0033,2024-12-23,Atlassian,1213.8,Software & Subscriptions
+E0178,2024-12-23,Cleartrip,2121.01,Travel
+E0121,2024-12-23,Amazon,1221.91,Office Supplies
+E0101,2024-12-23,Canva,2567.54,Marketing
+E0211,2024-12-23,Simplilearn,5620.24,Training & Courses
+E0165,2024-12-23,Airtel,637.05,Telecom & Utilities
+E0083,2024-12-23,Google,1351.95,Software & Subscriptions
+E0112,2024-12-23,Jio,1281.53,Telecom & Utilities
+E0119,2024-12-23,OYO,6467.52,Accommodation
+E0084,2024-12-23,Vodafone Idea,1661.59,Telecom & Utilities
+E0083,2024-12-23,Rapido,432.57,Local Transport
+E0148,2024-12-23,Jio,721.67,Telecom & Utilities
+E0191,2024-12-23,Airbnb,5199.01,Accommodation
+E0028,2024-12-23,Cleartrip,2235.07,Travel
+E0228,2024-12-23,Mailchimp,2911.61,Marketing
+E0019,2024-12-23,Flipkart,1255.73,Office Supplies
+E0156,2024-12-23,Cafe Coffee Day,664.13,Meals
+E0235,2024-12-23,Airbnb,4215.56,Accommodation
+E0135,2024-12-23,Zomato,216.41,Meals
+E0127,2024-12-23,The Park,1401.5,Client Entertainment
+E0038,2024-12-23,Hard Rock Cafe,2406.76,Client Entertainment
+E0227,2024-12-23,Atlassian,1565.78,Software & Subscriptions
+E0178,2024-12-23,Airbnb,2306.19,Accommodation
+E0092,2024-12-23,MakeMyTrip,1735.6,Travel
+E0117,2024-12-23,Amazon,667.75,Office Supplies
+E0169,2024-12-23,Rapido,308.71,Local Transport
+E0079,2024-12-23,Udemy,3780.13,Training & Courses
+E0209,2024-12-23,Chennai Metro,575.03,Local Transport
+E0016,2024-12-23,RedBus,1780.86,Travel
+E0160,2024-12-23,Coursera,2343.7,Training & Courses
+E0067,2024-12-23,Airtel,415.9,Telecom & Utilities
+E0020,2024-12-23,Croma,894.07,Office Supplies
+E0174,2024-12-23,Google,1589.79,Software & Subscriptions
+E0135,2024-12-23,Zomato,435.81,Meals
+E0197,2024-12-23,Rapido,1518.56,Local Transport
+E0136,2024-12-24,Taj Hotels,1957.59,Client Entertainment
+E0076,2024-12-24,OYO,7952.36,Accommodation
+E0121,2024-12-24,Flipkart,1243.66,Office Supplies
+E0100,2024-12-24,MakeMyTrip,10830.08,Travel
+E0157,2024-12-24,Udemy,4869.22,Training & Courses
+E0139,2024-12-24,Simplilearn,2123.97,Training & Courses
+E0156,2024-12-24,Amazon,1531.91,Office Supplies
+E0193,2024-12-24,Udemy,2825.03,Training & Courses
+E0034,2024-12-24,Swiggy,489.44,Meals
+E0150,2024-12-24,Mailchimp,953.82,Marketing
+E0189,2024-12-24,Vistaprint,2952.27,Marketing
+E0147,2024-12-24,Amazon,1312.31,Office Supplies
+E0083,2024-12-24,Domino's,580.68,Meals
+E0194,2024-12-24,upGrad,2252.68,Training & Courses
+E0112,2024-12-24,MakeMyTrip,7679.54,Accommodation
+E0014,2024-12-24,Amazon,604.53,Office Supplies
+E0001,2024-12-24,Notion,1670.16,Software & Subscriptions
+E0128,2024-12-24,Flipkart,439.97,Office Supplies
+E0033,2024-12-24,Microsoft,1445.28,Software & Subscriptions
+E0201,2024-12-24,Staples,1443.87,Office Supplies
+E0008,2024-12-24,Meta,6152.16,Marketing
+E0136,2024-12-24,IndiGo,1058.08,Travel
+E0022,2024-12-24,Meta,2112.6,Marketing
+E0036,2024-12-24,LinkedIn,2162.19,Marketing
+E0035,2024-12-24,Ola,1154.41,Local Transport
+E0007,2024-12-24,Amazon,748.3,Office Supplies
+E0101,2024-12-24,Notion,2056.15,Software & Subscriptions
+E0123,2024-12-24,Flipkart,989.09,Office Supplies
+E0144,2024-12-24,Coursera,1263.82,Training & Courses
+E0020,2024-12-24,Cleartrip,2288.51,Travel
+E0218,2024-12-24,Swiggy,695.4,Meals
+E0131,2024-12-24,MakeMyTrip,9029.38,Accommodation
+E0024,2024-12-24,Chennai Metro,530.53,Local Transport
+E0085,2024-12-24,SpiceJet,3136.82,Travel
+E0207,2024-12-24,Notion,750.34,Software & Subscriptions
+E0045,2024-12-24,Marriott,1633.83,Client Entertainment
+E0194,2024-12-24,Reliance Digital,2202.93,Office Supplies
+E0050,2024-12-24,RedBus,5653.37,Travel
+E0227,2024-12-24,Jio,959.44,Telecom & Utilities
+E0021,2024-12-24,Taj Hotels,3041.28,Client Entertainment
+E0144,2024-12-24,Jio,953.89,Telecom & Utilities
+E0046,2024-12-24,ACT Fibernet,524.57,Telecom & Utilities
+E0194,2024-12-24,Airtel,626.26,Telecom & Utilities
+E0029,2024-12-24,Simplilearn,1443.48,Training & Courses
+E0069,2024-12-24,Coursera,6335.53,Training & Courses
+E0141,2024-12-24,Rapido,303.3,Local Transport
+E0205,2024-12-24,Amazon,7398.68,Training & Courses
+E0064,2024-12-24,Airtel,1291.4,Telecom & Utilities
+E0165,2024-12-24,Airtel,637.05,Telecom & Utilities
+E0240,2024-12-25,Treebo,3913.78,Accommodation
+E0014,2024-12-25,BSNL,534.63,Telecom & Utilities
+E0236,2024-12-25,Marriott,6750.4,Accommodation
+E0035,2024-12-25,Microsoft,1168.19,Software & Subscriptions
+E0097,2024-12-25,Swiggy,1191.73,Meals
+E0175,2024-12-25,The Park,2978.88,Client Entertainment
+E0101,2024-12-25,Mailchimp,961.82,Marketing
+E0085,2024-12-25,Cafe Coffee Day,272.09,Meals
+E0014,2024-12-25,BSNL,1485.98,Telecom & Utilities
+E0036,2024-12-25,Domino's,597.13,Meals
+E0052,2024-12-25,Mailchimp,1791.91,Marketing
+E0125,2024-12-25,Airtel,992.48,Telecom & Utilities
+E0239,2024-12-25,Chennai Metro,689.98,Local Transport
+E0069,2024-12-25,Reliance Digital,187.33,Office Supplies
+E0239,2024-12-25,Atlassian,1305.46,Software & Subscriptions
+E0215,2024-12-25,Croma,1416.0,Office Supplies
+E0053,2024-12-25,ACT Fibernet,864.51,Telecom & Utilities
+E0146,2024-12-25,ACT Fibernet,928.52,Telecom & Utilities
+E0053,2024-12-25,Tata Play Fiber,511.46,Telecom & Utilities
+E0225,2024-12-25,Uber,608.06,Local Transport
+E0091,2024-12-25,MakeMyTrip,4260.61,Travel
+E0064,2024-12-25,Google,747.3,Software & Subscriptions
+E0225,2024-12-25,upGrad,3738.72,Training & Courses
+E0100,2024-12-25,BluSmart,458.16,Local Transport
+E0127,2024-12-25,Staples,2137.8,Office Supplies
+E0012,2024-12-25,Amazon,432.23,Office Supplies
+E0055,2024-12-25,Reliance Digital,183.83,Office Supplies
+E0194,2024-12-25,Swiggy,281.58,Meals
+E0209,2024-12-25,MakeMyTrip,6636.47,Accommodation
+E0019,2024-12-25,Moglix,1599.52,Office Supplies
+E0077,2024-12-25,Amazon Web Services,1514.68,Software & Subscriptions
+E0235,2024-12-25,MakeMyTrip,3790.51,Accommodation
+E0192,2024-12-25,Flipkart,4358.79,Training & Courses
+E0178,2024-12-25,Tata Play Fiber,328.68,Telecom & Utilities
+E0146,2024-12-25,Marriott,3042.3,Client Entertainment
+E0092,2024-12-25,Swiggy,361.66,Meals
+E0149,2024-12-25,Flipkart,751.19,Office Supplies
+E0179,2024-12-25,Flipkart,1512.88,Training & Courses
+E0190,2024-12-25,Jio,702.64,Telecom & Utilities
+E0042,2024-12-25,Domino's,392.27,Meals
+E0217,2024-12-25,Zomato,769.06,Meals
+E0227,2024-12-25,Google,2076.19,Software & Subscriptions
+E0188,2024-12-25,Marriott,2549.95,Accommodation
+E0190,2024-12-25,Staples,905.69,Office Supplies
+E0040,2024-12-25,Google,3057.63,Software & Subscriptions
+E0216,2024-12-25,Microsoft,504.21,Software & Subscriptions
+E0154,2024-12-25,Airtel,1253.56,Telecom & Utilities
+E0135,2024-12-25,Domino's,3582.9,Meals
+E0216,2024-12-26,Vistaprint,4487.29,Marketing
+E0069,2024-12-26,RedBus,3113.76,Travel
+E0230,2024-12-26,Atlassian,2041.45,Software & Subscriptions
+E0198,2024-12-26,MakeMyTrip,6878.67,Travel
+E0049,2024-12-26,GitHub,515.77,Software & Subscriptions
+E0064,2024-12-26,ACT Fibernet,1362.64,Telecom & Utilities
+E0011,2024-12-26,Starbucks,315.5,Meals
+E0089,2024-12-26,Simplilearn,2565.37,Training & Courses
+E0205,2024-12-26,Amazon,4852.98,Training & Courses
+E0061,2024-12-26,IRCTC,1695.86,Travel
+E0243,2024-12-26,Namma Yatri,388.73,Local Transport
+E0035,2024-12-26,BluSmart,475.98,Local Transport
+E0205,2024-12-26,Moglix,4390.04,Office Supplies
+E0064,2024-12-26,MakeMyTrip,8596.93,Travel
+E0205,2024-12-26,Flipkart,5567.08,Training & Courses
+E0035,2024-12-26,Taj Hotels,1581.07,Client Entertainment
+E0033,2024-12-26,Marriott,2380.56,Client Entertainment
+E0245,2024-12-26,Zepto Cafe,556.99,Meals
+E0059,2024-12-26,Amazon Web Services,2121.26,Software & Subscriptions
+E0035,2024-12-26,Jio,809.06,Telecom & Utilities
+E0031,2024-12-26,Staples,962.58,Office Supplies
+E0189,2024-12-26,MakeMyTrip,3674.51,Accommodation
+E0083,2024-12-26,Coursera,8623.51,Training & Courses
+E0229,2024-12-26,Vodafone Idea,588.64,Telecom & Utilities
+E0041,2024-12-26,Reliance Digital,719.93,Office Supplies
+E0083,2024-12-26,Flipkart,640.36,Office Supplies
+E0112,2024-12-26,Swiggy,681.93,Meals
+E0042,2024-12-26,SpiceJet,3561.21,Travel
+E0015,2024-12-26,Starbucks,555.44,Meals
+E0178,2024-12-26,Air India,2351.41,Travel
+E0072,2024-12-26,IRCTC,2737.06,Travel
+E0145,2024-12-26,Google,1577.56,Software & Subscriptions
+E0109,2024-12-26,GitHub,692.61,Software & Subscriptions
+E0035,2024-12-26,Zoom,506.01,Software & Subscriptions
+E0101,2024-12-26,Croma,638.59,Office Supplies
+E0070,2024-12-26,Jio,813.75,Telecom & Utilities
+E0184,2024-12-26,Cafe Coffee Day,432.56,Meals
+E0096,2024-12-26,Air India,4061.22,Travel
+E0023,2024-12-26,Swiggy,482.18,Meals
+E0160,2024-12-26,Staples,1103.06,Office Supplies
+E0186,2024-12-26,Notion,1972.88,Software & Subscriptions
+E0193,2024-12-26,Starbucks,612.12,Meals
+E0128,2024-12-26,Air India,7236.21,Travel
+E0227,2024-12-26,Flipkart,3482.03,Training & Courses
+E0190,2024-12-26,Coursera,5134.1,Training & Courses
+E0103,2024-12-26,The Park,3893.38,Client Entertainment
+E0171,2024-12-26,Airtel,502.63,Telecom & Utilities
+E0160,2024-12-26,Coursera,2343.7,Training & Courses
+E0137,2024-12-26,Chennai Metro,492.59,Software & Subscriptions
+E0188,2024-12-27,MakeMyTrip,2335.2,Accommodation
+E0114,2024-12-27,Amazon,1457.61,Office Supplies
+E0046,2024-12-27,upGrad,1443.7,Training & Courses
+E0206,2024-12-27,Google,674.7,Software & Subscriptions
+E0182,2024-12-27,Zoom,1086.21,Software & Subscriptions
+E0111,2024-12-27,IndiGo,3915.53,Travel
+E0052,2024-12-27,Zomato,259.68,Meals
+E0087,2024-12-27,Amazon,837.27,Office Supplies
+E0189,2024-12-27,Udemy,1130.64,Training & Courses
+E0170,2024-12-27,Zepto Cafe,395.66,Meals
+E0081,2024-12-27,Marriott,1243.16,Client Entertainment
+E0048,2024-12-27,Croma,1008.0,Office Supplies
+E0229,2024-12-27,Treebo,6405.4,Accommodation
+E0021,2024-12-27,The Park,1909.88,Client Entertainment
+E0069,2024-12-27,Flipkart,419.2,Office Supplies
+E0163,2024-12-27,Airbnb,4416.29,Accommodation
+E0123,2024-12-27,Zepto Cafe,631.6,Meals
+E0216,2024-12-27,Google,1162.62,Marketing
+E0229,2024-12-27,BSNL,1461.55,Telecom & Utilities
+E0061,2024-12-27,SpiceJet,2271.41,Travel
+E0150,2024-12-27,LinkedIn,942.51,Marketing
+E0003,2024-12-27,Amazon,1747.32,Training & Courses
+E0129,2024-12-27,Zomato,322.41,Meals
+E0121,2024-12-27,Croma,1822.91,Office Supplies
+E0142,2024-12-27,Uber,1075.43,Local Transport
+E0010,2024-12-27,Swiggy,377.58,Meals
+E0050,2024-12-27,Amazon,1599.47,Training & Courses
+E0136,2024-12-27,Mailchimp,3710.33,Marketing
+E0114,2024-12-27,Ola,474.88,Local Transport
+E0159,2024-12-27,Zoom,834.42,Software & Subscriptions
+E0226,2024-12-27,Zoom,1566.7,Software & Subscriptions
+E0139,2024-12-27,JetBrains,1442.92,Software & Subscriptions
+E0098,2024-12-27,Airtel,1061.44,Telecom & Utilities
+E0235,2024-12-27,BSNL,944.33,Telecom & Utilities
+E0200,2024-12-27,LinkedIn,2908.88,Marketing
+E0185,2024-12-27,Mailchimp,1146.47,Marketing
+E0225,2024-12-27,GitHub,1177.44,Software & Subscriptions
+E0239,2024-12-27,Notion,3498.99,Software & Subscriptions
+E0046,2024-12-27,SpiceJet,3202.79,Travel
+E0072,2024-12-27,Swiggy,165.41,Meals
+E0012,2024-12-27,MakeMyTrip,3810.88,Accommodation
+E0174,2024-12-27,IRCTC,2858.26,Travel
+E0046,2024-12-27,Zomato,1355.18,Meals
+E0159,2024-12-27,OYO,2585.12,Accommodation
+E0085,2024-12-27,GitHub,758.36,Software & Subscriptions
+E0032,2024-12-27,Reliance Digital,2205.13,Office Supplies
+E0144,2024-12-27,Starbucks,967.58,Meals
+E0085,2024-12-27,Vistaprint,2795.66,Marketing
+E0084,2024-12-27,Udemy,2403.95,Training & Courses
+E0189,2024-12-27,OYO,3516.37,Accommodation
+E0125,2024-12-27,Flipkart,6173.08,Training & Courses
+E0072,2024-12-27,Zomato,3652.58,Client Entertainment
+E0239,2024-12-27,Starbucks,363.9,Meals
+E0019,2024-12-27,Notion,860.64,Software & Subscriptions
+E0011,2024-12-27,Croma,434.98,Office Supplies
+E0233,2024-12-27,BSNL,812.36,Telecom & Utilities
+E0036,2024-12-27,Meta,568.56,Marketing
+E0083,2024-12-27,Google,1233.65,Software & Subscriptions
+E0014,2024-12-27,Croma,2328.9,Office Supplies
+E0018,2024-12-27,Microsoft,1687.9,Software & Subscriptions
+E0151,2024-12-27,Zomato,424.37,Meals
+E0021,2024-12-27,Cafe Coffee Day,355.59,Meals
+E0134,2024-12-27,Google,1927.41,Software & Subscriptions
+E0047,2024-12-27,Airtel,724.89,Telecom & Utilities
+E0081,2024-12-27,Marriott,5552.81,Client Entertainment
+E0081,2024-12-27,Marriott,5552.81,Client Entertainment
+E0139,2024-12-27,JetBrains,1442.92,Software & Subscriptions
+E0193,2024-12-27,Udemy,2825.03,Training & Courses
+E0009,2024-12-27,Mailchimp,4391.94,Marketing
+E0009,2024-12-27,Mailchimp,4325.05,Marketing
+E0151,2024-12-27,Cafe Coffee Day,308.42,Marketing
+E0123,2024-12-27,Moglix,1560.84,Local Transport
+E0119,2024-12-28,Taj Hotels,5983.47,Accommodation
+E0151,2024-12-28,Air India,1883.51,Travel
+E0093,2024-12-28,Starbucks,521.69,Meals
+E0200,2024-12-28,Meta,890.95,Marketing
+E0230,2024-12-28,Flipkart,3283.3,Training & Courses
+E0149,2024-12-28,Rapido,321.68,Local Transport
+E0101,2024-12-28,Rapido,382.61,Local Transport
+E0031,2024-12-28,Rapido,746.42,Local Transport
+E0214,2024-12-28,Cafe Coffee Day,496.94,Meals
+E0161,2024-12-28,Ola,395.71,Local Transport
+E0061,2024-12-28,BluSmart,194.39,Local Transport
+E0046,2024-12-28,Rapido,485.88,Local Transport
+E0223,2024-12-28,Croma,811.75,Office Supplies
+E0046,2024-12-28,upGrad,1443.7,Training & Courses
+E0218,2024-12-28,Marriott,9130.76,Training & Courses
+E0243,2024-12-28,Microsoft,274.5,Meals
+E0163,2024-12-29,RedBus,2958.73,Travel
+E0166,2024-12-29,Domino's,520.35,Meals
+E0007,2024-12-29,Domino's,187.83,Meals
+E0028,2024-12-29,IndiGo,6204.0,Travel
+E0064,2024-12-29,MakeMyTrip,4514.65,Accommodation
+E0147,2024-12-29,Barbeque Nation,1825.31,Client Entertainment
+E0055,2024-12-29,SpiceJet,2906.94,Travel
+E0115,2024-12-29,MakeMyTrip,2748.97,Accommodation
+E0127,2024-12-29,Domino's,223.32,Meals
+E0014,2024-12-29,Chennai Metro,385.62,Local Transport
+E0229,2024-12-29,BSNL,1737.86,Telecom & Utilities
+E0173,2024-12-29,Air India,3803.95,Travel
+E0065,2024-12-29,Ola,127.43,Local Transport
+E0006,2024-12-29,Domino's,216.42,Meals
+E0007,2024-12-29,Namma Yatri,416.97,Local Transport
+E0171,2024-12-29,Vodafone Idea,732.78,Telecom & Utilities
+E0123,2024-12-29,Flipkart,989.09,Office Supplies
+E0167,2024-12-29,Tata Play Fiber,9064.02,Telecom & Utilities
+E0040,2024-12-29,Starbucks,803.75,Travel
+E0028,2024-12-30,Marriott,1645.4,Client Entertainment
+E0005,2024-12-30,Coursera,2723.28,Training & Courses
+E0064,2024-12-30,Amazon Web Services,2743.05,Software & Subscriptions
+E0001,2024-12-30,LinkedIn,3161.31,Marketing
+E0052,2024-12-30,Treebo,2586.27,Accommodation
+E0041,2024-12-30,Zomato,308.84,Meals
+E0181,2024-12-30,Ola,262.07,Local Transport
+E0029,2024-12-30,Cafe Coffee Day,280.66,Meals
+E0117,2024-12-30,Uber,359.34,Local Transport
+E0023,2024-12-30,BSNL,598.15,Telecom & Utilities
+E0107,2024-12-30,Vodafone Idea,627.81,Telecom & Utilities
+E0193,2024-12-30,Jio,808.64,Telecom & Utilities
+E0072,2024-12-30,Cleartrip,2425.03,Travel
+E0136,2024-12-30,The Park,3315.36,Client Entertainment
+E0039,2024-12-30,SpiceJet,1286.09,Travel
+E0036,2024-12-30,Amazon,1350.9,Training & Courses
+E0121,2024-12-30,Swiggy,609.96,Meals
+E0034,2024-12-30,Starbucks,405.42,Meals
+E0050,2024-12-30,Moglix,1891.27,Office Supplies
+E0155,2024-12-30,Atlassian,1657.63,Software & Subscriptions
+E0028,2024-12-30,JetBrains,757.8,Software & Subscriptions
+E0129,2024-12-30,Domino's,445.1,Meals
+E0163,2024-12-30,Cafe Coffee Day,591.26,Meals
+E0061,2024-12-30,Chennai Metro,946.84,Local Transport
+E0139,2024-12-30,Barbeque Nation,2380.55,Client Entertainment
+E0241,2024-12-30,Amazon,4664.56,Training & Courses
+E0198,2024-12-30,JetBrains,2393.9,Software & Subscriptions
+E0050,2024-12-30,LinkedIn,9842.97,Marketing
+E0064,2024-12-30,Treebo,5776.57,Accommodation
+E0136,2024-12-30,Rapido,593.05,Local Transport
+E0052,2024-12-30,Mailchimp,2724.6,Marketing
+E0067,2024-12-30,Amazon,4269.58,Training & Courses
+E0064,2024-12-30,Atlassian,2822.99,Software & Subscriptions
+E0130,2024-12-30,Cleartrip,5708.59,Travel
+E0191,2024-12-30,Rapido,583.5,Local Transport
+E0189,2024-12-30,Zepto Cafe,333.48,Meals
+E0039,2024-12-30,Treebo,1452.84,Accommodation
+E0101,2024-12-30,Udemy,7017.8,Training & Courses
+E0179,2024-12-30,Airtel,739.76,Telecom & Utilities
+E0029,2024-12-30,Domino's,520.17,Meals
+E0080,2024-12-30,Vodafone Idea,1001.05,Telecom & Utilities
+E0218,2024-12-30,Barbeque Nation,1377.13,Client Entertainment
+E0149,2024-12-30,RedBus,2691.61,Travel
+E0127,2024-12-30,Marriott,4318.24,Accommodation
+E0234,2024-12-30,Zomato,1087.45,Client Entertainment
+E0227,2024-12-30,Zoom,2926.52,Software & Subscriptions
+E0051,2024-12-30,SpiceJet,2797.4,Travel
+E0141,2024-12-30,Reliance Digital,608.01,Office Supplies
+E0072,2024-12-30,Taj Hotels,2932.37,Accommodation
+E0072,2024-12-30,Cafe Coffee Day,423.2,Meals
+E0075,2024-12-30,Notion,1700.79,Software & Subscriptions
+E0008,2024-12-30,BSNL,1403.19,Telecom & Utilities
+E0228,2024-12-30,BluSmart,1007.65,Local Transport
+E0204,2024-12-30,Vodafone Idea,1895.87,Telecom & Utilities
+E0244,2024-12-30,GitHub,2104.48,Software & Subscriptions
+E0138,2024-12-30,ACT Fibernet,908.86,Telecom & Utilities
+E0163,2024-12-30,Cafe Coffee Day,591.26,Meals
+E0072,2024-12-30,Starbucks,3807.99,Meals
+E0107,2024-12-30,Amazon,8802.77,Office Supplies
+E0246,2024-12-30,Taj Hotels,4683.2,Client Entertainment
+E0246,2024-12-30,Taj Hotels,4764.45,Client Entertainment
+E0246,2024-12-30,Taj Hotels,4134.55,Client Entertainment
+E0109,2024-12-31,Vodafone Idea,393.97,Telecom & Utilities
+E0127,2024-12-31,Airtel,628.19,Telecom & Utilities
+E0036,2024-12-31,Cafe Coffee Day,163.55,Meals
+E0130,2024-12-31,Jio,516.5,Telecom & Utilities
+E0148,2024-12-31,Taj Hotels,6283.23,Accommodation
+E0169,2024-12-31,Atlassian,2314.32,Software & Subscriptions
+E0194,2024-12-31,Amazon Web Services,4044.55,Software & Subscriptions
+E0140,2024-12-31,Zomato,1150.62,Meals
+E0040,2024-12-31,Staples,1285.55,Office Supplies
+E0064,2024-12-31,Amazon,8162.18,Training & Courses
+E0070,2024-12-31,Reliance Digital,774.61,Office Supplies
+E0105,2024-12-31,Jio,1850.98,Telecom & Utilities
+E0070,2024-12-31,Tata Play Fiber,677.2,Telecom & Utilities
+E0085,2024-12-31,Taj Hotels,1875.17,Client Entertainment
+E0125,2024-12-31,Atlassian,2936.97,Software & Subscriptions
+E0118,2024-12-31,Flipkart,3664.89,Training & Courses
+E0189,2024-12-31,Namma Yatri,804.29,Local Transport
+E0114,2024-12-31,Amazon,1971.08,Training & Courses
+E0217,2024-12-31,Google,1898.64,Software & Subscriptions
+E0047,2024-12-31,Rapido,312.72,Local Transport
+E0146,2024-12-31,Tata Play Fiber,1528.05,Telecom & Utilities
+E0219,2024-12-31,Marriott,1180.16,Client Entertainment
+E0064,2024-12-31,Microsoft,1518.36,Software & Subscriptions
+E0151,2024-12-31,Amazon,1888.0,Office Supplies
+E0049,2024-12-31,Treebo,5914.54,Accommodation
+E0136,2024-12-31,Taj Hotels,3819.2,Client Entertainment
+E0200,2024-12-31,Tata Play Fiber,1015.28,Telecom & Utilities
+E0044,2024-12-31,Jio,1131.04,Telecom & Utilities
+E0046,2024-12-31,MakeMyTrip,5575.72,Accommodation
+E0110,2024-12-31,Atlassian,3570.57,Software & Subscriptions
+E0033,2024-12-31,Cafe Coffee Day,312.7,Meals
+E0134,2024-12-31,Domino's,736.68,Meals
+E0011,2024-12-31,Namma Yatri,684.09,Local Transport
+E0178,2024-12-31,Airtel,621.45,Telecom & Utilities
+E0001,2024-12-31,IRCTC,1061.63,Travel
+E0114,2024-12-31,GitHub,2147.92,Software & Subscriptions
+E0014,2024-12-31,Google,1021.62,Software & Subscriptions
+E0083,2024-12-31,Flipkart,1854.74,Office Supplies
+E0195,2024-12-31,Marriott,10238.56,Accommodation
+E0003,2024-12-31,Vodafone Idea,653.5,Telecom & Utilities
+E0207,2024-12-31,Zoom,18652.87,Software & Subscriptions
+E0107,2024-12-31,Flipkart,1878.42,Local Transport
+E0050,2024-12-31,BSNL,1957.29,Client Entertainment
+E0147,2024-12-31,LinkedIn,2717.3,Office Supplies
